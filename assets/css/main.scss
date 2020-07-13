@@ -4,7 +4,15 @@
 /* variables go above import statements, straight css goes below */
 
 // variables example:
-// $link-color: red;
+// https://github.com/mmistakes/minimal-mistakes/blob/master/_sass/minimal-mistakes/_variables.scss
+
+/* headline scale */
+$h-size-1: 1.563em !default; // ~25.008px
+$h-size-2: 1.25em !default; // ~20px
+$h-size-3: 1.125em !default; // ~18px
+$h-size-4: 1.0625em !default; // ~17px
+$h-size-5: 1.03125em !default; // ~16.5px
+$h-size-6: 1em !default; // ~16px
 
 
 @import "minimal-mistakes/skins/mint";
@@ -12,8 +20,21 @@
 
 html {
     background-color: #ffffff;
-}
+    font-size: 18px !important; // change to whatever
 
+    @include breakpoint($medium) {
+        font-size: 18px !important; // change to whatever
+    }
+
+    @include breakpoint($large) {
+        font-size: 18px !important; // change to whatever
+    }
+    
+    @include breakpoint($x-large) {
+        font-size: 20px !important; // change to whatever
+    }
+}
+  
 .sidebar {
     opacity: 1.0 !important;
 }
@@ -21,6 +42,16 @@ html {
 .masthead {
 //    background: white;
     background-color: #f3f6f6;    
+}
+
+.list__item .page__meta, .list__item .comment__date {
+    margin: 0 0 4px;
+    font-size: 0.75em;
+}
+
+.archive__item-excerpt {
+    margin-top: 0;
+    font-size: 0.75em;
 }
 
 .greedy-nav {
@@ -36,10 +67,29 @@ html {
 
 }
 
-.next-speaker {
-    color: #2da8ac !important;
+.next-talk {
     font-style: italic;
-    text-decoration: underline !important;
-    padding-bottom: 15px;
-    margin-top: -25px;
+}
+
+.next__talk {
+    margin-block-start: 10px;
+    margin-block-end: 0px;
+    margin: 0px 0 0px !important;
+    color: #40514e;
+}    
+
+.next-talk a {
+    text-decoration: none;
+}
+    
+.talk__title {
+    margin-block-start: 0px;
+    margin-block-end: -10px;
+    margin: 0px 0 0px !important;
+    text-decoration: underline;
+}    
+
+.author__name {
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
 }
