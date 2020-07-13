@@ -35,7 +35,7 @@ logo: "/assets/images/nlpwf.png"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /past/:categories/:title/
+permalink: /past/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /past/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -110,9 +110,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
