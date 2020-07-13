@@ -7,5 +7,7 @@ main:
     url: /past/
   - title: "Calendar"
     url: /calendar/
+  - title: "Guidelines"
+    url: /guidelines/
   - title: "FAQ"
     url: /faq/
