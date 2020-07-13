@@ -1,5 +1,6 @@
 ---
 title: "*J.R.R. Tolkien* <br> <i class='fas fa-xs fa-quote-left'></i>What is a hobbit anyway<i class='fas fa-xs fa-quote-right'></i>"
+author: J.R.R. Tolkien
 date: 2020-07-12T15:34:30-00:00
 categories:
   - example
@@ -14,7 +15,7 @@ In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, fill
 ### Speaker Information
 <i class="fas fa-fw fa-user"></i> J.R.R. Tolkien  
 <i class="fas fa-fw fa-link"></i> [Website](https://www.tolkiensociety.org/)  
-<i class="fas fa-fw fa-envelope"></i> [Contact](hobbit@theshire.com)  
+<i class="fas fa-fw fa-envelope"></i> [Email](hobbit@theshire.com)  
 
 
 ### Presentation Materials

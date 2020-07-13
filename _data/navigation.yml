@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Upcoming"
     url: /upcoming/
   - title: "Past"
@@ -7,5 +9,3 @@ main:
     url: /calendar/
   - title: "FAQ"
     url: /faq/
-  - title: "About"
-    url: /about/

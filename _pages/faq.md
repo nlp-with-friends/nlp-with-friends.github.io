@@ -15,9 +15,6 @@ Check out our [upcoming speakers list](/upcoming)!
 ### How can I give a talk?
 Fill out the [nomination form](https://docs.google.com/forms/d/1WpDGKNbo53z9fhbep_Ve3jthhBCtMF1k7lrPchUwV2w/edit) to nominate yourself, a friend, or someone you'd like to hear from! 
 
-### How do you choose who gets to talk?
-???
-
 ### Are the seminars recorded?
 Yes! But just the talks themselves (and any questions asked during the presentation) will be recorded. They can be found [here](). 
 The discussions following talks will not be recorded, in order to ???. 

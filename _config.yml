@@ -71,34 +71,35 @@ analytics:
     tracking_id          : "UA-172489678-1" # Replace this with your ID, or delete
     anonymize_ip         : true
 
-# Site Author
-author:
-  avatar : "/assets/images/nlpwf.png"
+# Default Site 'Author' (next speaker)
+author: 
+  next   : "yes"
+  home   : "/upcoming"
+  name   : "Lena Voita"
+  avatar : "https://lena-voita.github.io/img/people/lena-min.png"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Aug 05, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/upcoming"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://lena-voita.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lena_voita"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:lena-voita@hotmail.com"
+
+footer:
   links:
     - label: "Contact Us"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:nlp.with.friends@gmail.com"
-    - label: "Organizers"
-      icon: "fas fa-fw fa-people-arrows"
-      url: "/about/#about-the-organizers"
-    - label: "Nominate"
-      icon: "fas fa-fw fa-microphone"
-      url: "https://docs.google.com/forms/d/1WpDGKNbo53z9fhbep_Ve3jthhBCtMF1k7lrPchUwV2w/edit"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-
-footer:
-  links:
-    - label: "Contact"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:nlp.with.friends@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Calendar"
-      icon: "far fa-calendar-alt"
-      url: "https://github.com/"
+      url: "https://twitter.com/NLPwithFriends"
 
 defaults:
   # _posts
