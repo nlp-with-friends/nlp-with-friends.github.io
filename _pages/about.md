@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! 👋 &nbsp; This is the home of NLP-with-friends, 
+an **online seminar series** made by students, for students, where everyone is invited!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+We meet **Wednesdays** on a weekly or bi-weekly basis to talk about interesting works in NLP (both ongoing and already published). The presenters are **students** in the field of NLP and related areas, who will talk about their own work.
+
+The idea for this setting is to be a supportive and engaging environment for students to present their work and discuss work with other students and researchers around the world.
+Following each talk (or during, if the presenter allows) there will be time to ask questions, discuss relevant topics, and wonder about what's next.
+We hope this format will enable greater kinship between students around the globe, provide students more experience with presenting, create a judgement-free forum for asking questions, and give us all a chance to learn from each other -- both failures and successes!
+
+We are committed to diversity of topics and presenters and hope to connect students all over the world, and give the stage to a range of topics and speakers.
+We hope you can join us!

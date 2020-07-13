@@ -1,0 +1,33 @@
+---
+---
+
+/* variables go above import statements, straight css goes below */
+
+// variables example:
+// $link-color: red;
+
+
+@import "minimal-mistakes/skins/mint";
+@import "{{ site.theme }}";
+
+html {
+    background-color: #ffffff;
+}
+
+.sidebar {
+    opacity: 1.0 !important;
+}
+
+.masthead {
+//    background: white;
+    background-color: #f3f6f6;    
+}
+
+.greedy-nav {
+//    background: white;
+//    background-color: #f3f6f6;    
+}
+
+.greedy-nav a {
+
+}

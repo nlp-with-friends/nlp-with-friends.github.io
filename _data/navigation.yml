@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Upcoming"
+    url: /upcoming/
+  - title: "Past"
+    url: /past/
+  - title: "Calendar"
+    url: /calendar/
+  - title: "FAQ"
+    url: /faq/
   - title: "About"
     url: /about/
