@@ -41,7 +41,29 @@ html {
 
 .masthead {
 //    background: white;
-    background-color: #f3f6f6;    
+    background-color: #385a7c; //#f3f6f6;
+}
+
+.greedy-nav {
+    background-color: #385a7c;
+}
+
+.greedy-nav a {
+    color: lightblue;
+}
+
+.greedy-nav a:hover {
+    color: #2fa8ac;
+}
+
+.greedy-nav a.site-title {
+    color: #2fa8ac;
+}
+
+
+
+.initial-content, .search-content {
+    padding-top: 20px;
 }
 
 .list__item .page__meta, .list__item .comment__date {
@@ -52,15 +74,6 @@ html {
 .archive__item-excerpt {
     margin-top: 0;
     font-size: 0.75em;
-}
-
-.greedy-nav {
-//    background: white;
-//    background-color: #f3f6f6;    
-}
-
-.greedy-nav a {
-
 }
 
 .author__content {
