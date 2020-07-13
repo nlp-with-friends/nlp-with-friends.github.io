@@ -6,6 +6,9 @@ title: "Questions and Answers"
 ### When do we meet?
 Every week on Wednesday for one hour. We alternate between two times: ??? @GMT / @GMT, to allow people from different places to be able to join in and engage in the discussions.
 
+### Where do we meet?
+Somewhere on the internet ???
+
 ### Who’s speaking next?
 Check out our [upcoming speakers list](/upcoming)!
 
