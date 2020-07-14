@@ -6,6 +6,14 @@
 // variables example:
 // https://github.com/mmistakes/minimal-mistakes/blob/master/_sass/minimal-mistakes/_variables.scss
 
+/* links */
+$primary-color: #5ee6bf !default;
+$link-color: #f97171 !default;
+$link-color-visited: $link-color !default;
+$masthead-link-color: #5ee6bf !default;
+$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
+$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+
 /* headline scale */
 $h-size-1: 1.563em !default; // ~25.008px
 $h-size-2: 1.25em !default; // ~20px
@@ -18,20 +26,21 @@ $h-size-6: 1em !default; // ~16px
 @import "minimal-mistakes/skins/mint";
 @import "{{ site.theme }}";
 
+
 html {
     background-color: #ffffff;
-    font-size: 18px !important; // change to whatever
+    font-size: 18px !important;
 
     @include breakpoint($medium) {
-        font-size: 18px !important; // change to whatever
+        font-size: 18px !important;
     }
 
     @include breakpoint($large) {
-        font-size: 18px !important; // change to whatever
+        font-size: 18px !important;
     }
     
     @include breakpoint($x-large) {
-        font-size: 20px !important; // change to whatever
+        font-size: 20px !important;
     }
 }
   
@@ -40,27 +49,36 @@ html {
 }
 
 .masthead {
-//    background: white;
-    background-color: #385a7c; //#f3f6f6;
+    background-color: #385a7c;
 }
 
 .greedy-nav {
     background-color: #385a7c;
 }
 
-.greedy-nav a {
-    color: lightblue;
+.page__footer {
+    background-color: #385a7c;
 }
 
 .greedy-nav a:hover {
-    color: #2fa8ac;
+    color: #5ee6bf;
 }
 
-.greedy-nav a.site-title {
-    color: #2fa8ac;
+.greedy-nav a:before {
+    background: lightcoral !important;
 }
 
+.page__footer .fa-envelope {
+    color: white !important;
+}
 
+.fa-rss-square {
+    color: lightcoral !important;
+}
+
+.page__footer-copyright {
+    color: #5ee6bf !important;
+}
 
 .initial-content, .search-content {
     padding-top: 20px;
