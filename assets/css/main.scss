@@ -6,11 +6,12 @@
 // variables example:
 // https://github.com/mmistakes/minimal-mistakes/blob/master/_sass/minimal-mistakes/_variables.scss
 
-/* links */
+/* colors */
+$background-color: #f3f6f6 !default;
 $primary-color: #5ee6bf !default;
 $link-color: #f97171 !default;
 $link-color-visited: $link-color !default;
-$masthead-link-color: #5ee6bf !default;
+$masthead-link-color: white !default;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
@@ -66,6 +67,14 @@ html {
 
 .greedy-nav a:before {
     background: lightcoral !important;
+}
+
+.greedy-nav a.site-title {
+    color: #5ee6bf;
+}
+
+.site-subtitle {
+    font-style: italic;
 }
 
 .page__footer .fa-envelope {
