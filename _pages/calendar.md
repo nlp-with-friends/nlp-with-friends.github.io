@@ -3,7 +3,7 @@ permalink: /calendar/
 title: "Series Calendar"
 ---
 
-To add an individual talk below to your calendar, click on the event and then click **copy to my calendar**. 
+To add an individual talk below to your calendar, click on the event and then click <span style="color:lightcoral;">**copy to my calendar**</span>. 
 
 To subscribe to this calendar and view events in your own google calendar, click [**here**](https://calendar.google.com/calendar/b/0/r/settings/addcalendar?cid=nlpwithfriends%40gmail.com)!
 
