@@ -103,8 +103,9 @@ html {
 }
 
 .archive__item-speaker {
-    margin-top: 0px;
     color: lightcoral;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .archive__item-excerpt {
@@ -112,6 +113,24 @@ html {
     font-size: 0.75em;
 }
 
+.archive__item-date {
+    margin-top: 1em !important;
+}
+
+.archive__subtitle + .list__item .archive__item-speaker {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.archive__subtitle + .list__item .archive__item-title {
+    margin-top: 0em;
+}
+
+.page__speaker {
+    font-style: italic;
+    margin-bottom: 0px;
+}
+    
 .author__content {
 
 }

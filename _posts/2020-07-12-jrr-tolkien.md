@@ -1,5 +1,6 @@
 ---
-title: "*J.R.R. Tolkien* <br> <i class='fas fa-xs fa-quote-left'></i>What is a hobbit anyway<i class='fas fa-xs fa-quote-right'></i>"
+title: "What is a hobbit anyway"
+speaker: J.R.R. Tolkien
 author: J.R.R. Tolkien
 categories:
   - example
