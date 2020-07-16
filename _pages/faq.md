@@ -13,13 +13,9 @@ We will meet on Zoom. Links will be sent to newsletter / google group subscriber
 ## Who’s speaking next?
 Check out our [upcoming speakers list](/upcoming)!
 
-## How can I give a talk?
-Fill out the [nomination form](https://docs.google.com/forms/d/1WpDGKNbo53z9fhbep_Ve3jthhBCtMF1k7lrPchUwV2w/edit) to nominate yourself, a friend, or someone you'd like to hear from! 
-
 ## Are the seminars recorded?
-Yes! But just the talks themselves (and any questions asked during the presentation) will be recorded. They can be found [here](). 
+Yes! But just the talks themselves (and any questions asked during the presentation) will be recorded. They can be found [here](https://www.youtube.com/playlist?list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C). 
 The discussions following talks will not be recorded, in order to ???. 
 
 ## Is there a code of conduct? How will zoom-bombing or other misbehavior be handled? 
-
 Yes! See our [community guidelines](/guidelines/#community-guidelines).

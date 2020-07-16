@@ -27,7 +27,7 @@ search: true
 url: https://nlp-with-friends.github.io
 baseurl: "/"
 repository: nlp-with-friends/nlp-with-friends.github.io
-logo: "/assets/images/nlpwf.png"
+logo: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown

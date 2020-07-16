@@ -21,10 +21,10 @@ We are committed to diversity of topics and presenters; we hope to connect stude
 
 ## <i class="fas fa-fw fa-people-arrows"></i>&nbsp; About the Organizers
 
-[Yanai Elazar](https://yanaiela.github.io/) (he/him) is a PhD Candidate at Bar-Ilan University, where he works on a bunch of stuff related to neural representations, interpretation and in his spare time he can be found looking for missing elements.
+[Yanai Elazar](https://yanaiela.github.io/) is a PhD Candidate at Bar-Ilan University, where he works on neural representations, model’s analysis and missing elements. In his spare time he can be found nourishing flour-based organisms and converting them into bread.
 
-[Abhilasha Ravichander](https://www.cs.cmu.edu/~aravicha/) is a PhD candidate at Carnegie Mellon University, where she works on ???
+[Abhilasha Ravichander](https://www.cs.cmu.edu/~aravicha/) is a PhD candidate at Carnegie Mellon University, where she works on robust language understanding including problems in interpretability, evaluation and computational reasoning. In her spare time she talks her plants into staying alive.
 
-[Liz Salesky](http://esalesky.github.io/) is a PhD candidate at Johns Hopkins University, where she works on machine translation and computational linguistics, and in her spare time she can be found biking to ice cream and bingeing Duolingo. 
+[Liz Salesky](http://esalesky.github.io/) is a PhD candidate at Johns Hopkins University, where she works on machine translation and computational linguistics. In her spare time she can be found biking to ice cream and bingeing Duolingo. 
 
 [Zeerak Waseem](https://twitter.com/ZeerakW) is a PhD candidate at the University of Sheffield, where he works on abusive language detection and fairness in machine learning, and in his spare time he can be found napping. 
