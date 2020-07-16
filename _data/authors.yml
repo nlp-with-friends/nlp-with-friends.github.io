@@ -30,3 +30,32 @@ Lena Voita:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:lena-voita@hotmail.com"
+
+
+Tom McCoy:
+  name   : "Tom McCoy"
+  avatar : "https://tommccoy1.github.io/images/mccoyheadshot.jpg"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Aug 05, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/upcoming"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://rtmccoy.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:tom.mccoy@jhu.edu"
+
+
+Nitika Mathur:
+  name   : "Nitika Mathur"
+  avatar : "https://avatars1.githubusercontent.com/u/5334297?s=460&u=e2957d38074baa6f588bb4091676a6f7fb279f40&v=4"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Aug 05, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/upcoming"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:nmathur@student.unimelb.edu.au"
