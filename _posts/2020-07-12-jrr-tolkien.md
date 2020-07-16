@@ -11,8 +11,8 @@ In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, fill
 
 
 ### Presentation Materials
-<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=s2sVMLr1fDg)  
-<i class="fas fa-fw fa-file-powerpoint"></i> [Talk Slides](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=s2sVMLr1fDg){:target="_blank"}  
+<i class="fas fa-fw fa-file-powerpoint"></i> [Talk Slides](https://www.youtube.com/watch?v=dQw4w9WgXcQ){:target="_blank"}  
 
 
 ### Summary of discussion

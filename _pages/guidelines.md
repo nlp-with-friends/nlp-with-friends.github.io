@@ -16,7 +16,7 @@ Some points you might consider discussing:
 ## Community Guidelines
 
 We seek to foster a friendly, inclusive, and welcoming environment that allows presenters and audience alike to enjoy a freedom to ask questions without concern for reputation, something else, and something else. 
-For this reason, all discussions after the presentation will follow the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). 
+For this reason, all discussions after the presentation will follow the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule){:target="_blank"}. 
 Further, we ask all participants and speakers follow our code of conduct. 
 
 We believe that one of the nice things about talks is that they end.
