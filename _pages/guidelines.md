@@ -4,7 +4,13 @@ title: "Guidelines"
 ---
 
 ## What makes a good talk?
-???
+A good talk both educates and sparks insightful discussion – it does *not* need to be polished!
+Some points you might consider discussing: 
+- Something you might not learn from the paper
+- Something you found particular interesting, even if not the main point
+- The steps along the way to discovering the final idea or method
+- What *didn’t* work
+- What open questions and possible extensions are you interested in addressing in future work?
 
 
 ## Community Guidelines
