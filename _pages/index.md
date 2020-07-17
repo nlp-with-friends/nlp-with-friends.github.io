@@ -27,7 +27,7 @@ We are committed to diversity of topics and presenters; we hope to connect stude
     <img src="/assets/images/organizers/yanai.jpg" alt="Yanai Elazar">
   </div>
   <div class="organizer-bio">
-    <a href="https://yanaiela.github.io/" target="_blank">Yanai Elazar</a> is a PhD Candidate at Bar-Ilan University, where he works on neural representations, model’s analysis and missing elements. In his spare time he can be found nourishing flour-based organisms and converting them into bread.
+    <a href="https://yanaiela.github.io/" target="_blank">Yanai Elazar</a> is a PhD candidate at Bar-Ilan University, where he works on neural representations, model analysis and missing elements. In his spare time he can be found nourishing flour-based organisms and converting them into bread.
   </div>
 </div>
 
