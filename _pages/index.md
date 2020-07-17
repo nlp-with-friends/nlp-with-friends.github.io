@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome!"
 ---
 
+
 This is the home of **NLP with friends**, 
 an **online seminar series** made by students, for students, where everyone is invited!
 
@@ -56,3 +57,12 @@ We are committed to diversity of topics and presenters; we hope to connect stude
     <a href="https://twitter.com/ZeerakW" target="_blank">Zeerak Waseem</a> is a PhD candidate at the University of Sheffield, where he works on abusive language detection and fairness in machine learning, and in his spare time he can be found napping.
   </div>
 </div>
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@NLPwithFriends">
+<meta name="twitter:creator" content="@NLPwithFriends">
+<meta name="twitter:title" content="NLP with Friends">
+<meta name="twitter:description" content="An online seminar series covering topics relating to NLP -- made for students, by students.">
+<meta name="twitter:image" content="http://nlpwithfriends.com/assets/images/logo.png">
