@@ -102,6 +102,20 @@ html {
     font-size: 0.75em;
 }
 
+.archive__item {
+    width: 100%;
+}
+
+.archive__item-teaser {
+    width: 30% !important;
+}
+
+.archive__item-body {
+    padding-left: 3% !important;
+    padding-right: 3% !important;
+    width: 70% !important;
+}
+ 
 .archive__item-speaker {
     color: #f97171;
     margin-top: 0px;
@@ -115,6 +129,9 @@ html {
 
 .archive__item-date {
     margin-top: 1em !important;
+    color: #40514e;
+    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-size: 0.75em;
 }
 
 .archive__subtitle + .list__item .archive__item-speaker {
@@ -129,17 +146,6 @@ html {
 .page__speaker {
     font-style: italic;
     margin-bottom: 0px;
-}
-    
-.author__content {
-
-}
-
-.archive__item-date {
-    margin-top: 0.5em;
-    color: #40514e;
-    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-    font-size: 0.75em;
 }
 
 .next-talk {
