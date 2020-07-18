@@ -36,7 +36,7 @@ We are committed to diversity of topics and presenters; we hope to connect stude
     <img src="/assets/images/organizers/lasha.jpg" alt="Abhilasha Ravichander">
   </div>
   <div class="organizer-bio">
-    <a href="https://www.cs.cmu.edu/~aravicha/" target="_blank">Abhilasha Ravichander</a> is a PhD candidate at Carnegie Mellon University, where she works on robust language understanding including problems in interpretability, evaluation and computational reasoning. In her spare time she talks her plants into staying alive.
+    <a href="https://www.cs.cmu.edu/~aravicha/" target="_blank">Abhilasha Ravichander</a> is a PhD candidate at Carnegie Mellon University, where she works on robust language understanding, including problems in interpretability, evaluation and computational reasoning. In her spare time she talks her plants into staying alive.
   </div>
 </div>
 
