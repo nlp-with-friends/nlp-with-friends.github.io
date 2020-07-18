@@ -2,7 +2,8 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Talks" }}</h3>
+<hr>
+<h3 class="archive__subtitle" style="visibility:hidden; margin-top:-50px;">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Talks" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
