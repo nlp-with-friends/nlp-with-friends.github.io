@@ -1,6 +1,6 @@
 ---
 permalink: /faq/
-title: "Questions and Answers"
+title: "Frequently Asked Questions"
 ---
 
 ## When do we meet?
