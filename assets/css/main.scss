@@ -9,7 +9,7 @@
 /* colors */
 $background-color: #f3f6f6 !default;
 $primary-color: #5ee6bf !default;
-$link-color: #f97171 !default;
+$link-color: #fb5f65 !default;
 $link-color-visited: $link-color !default;
 $masthead-link-color: white !default;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
@@ -66,7 +66,7 @@ html {
 }
 
 .greedy-nav a:before {
-    background: #f97171 !important;
+    background: #fb5f65 !important;
 }
 
 .greedy-nav a.site-title {
@@ -86,7 +86,7 @@ html {
 }
 
 .fa-rss-square {
-    color: #f97171 !important;
+    color: #fb5f65 !important;
 }
 
 .page__footer-copyright {
@@ -117,7 +117,7 @@ html {
 }
  
 .archive__item-speaker {
-    color: #f97171;
+    color: #fb5f65;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -196,6 +196,16 @@ html {
     padding-left: 10px;
 }
 
+.organizer-bio a {
+    font-weight: bold;
+}
+
 .site-logo img {
     max-height: 3rem;
+}
+
+.talk__title {
+    font-size: 1em;
+    line-height: 3;
+    font-weight: 700;
 }

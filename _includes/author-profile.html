@@ -7,7 +7,7 @@
     <div class="next-talk">
       <a href="{{ author.home | relative_url }}">
         <h3 class="next__talk">Next Talk:</h3>
-        <h3 class="talk__title">{{ author.bio | markdownify }}</h3>
+        <h3 class="talk__title">{{ author.bio | markdownify | remove: "<p>" | remove: "</p>" }}</h3>
       </a>
     </div>
   {% endif %}
