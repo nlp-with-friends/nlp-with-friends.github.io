@@ -28,7 +28,7 @@ feature_row3:
     alt: "Nitika Mathur"
     speaker: Nitika Mathur
     title: "Talk title TBD"
-    date: Aug 19, 2020
+    date: Aug 26, 2020
     excerpt: "Talk abstract TBD"
     url: "upcoming/nitika-mathur"
     btn_label: "Read More"
