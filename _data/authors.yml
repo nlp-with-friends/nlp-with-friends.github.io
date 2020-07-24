@@ -19,7 +19,7 @@ J.R.R. Tolkien:
 Lena Voita:
   name   : "Lena Voita"
   avatar : "https://lena-voita.github.io/img/people/lena-min.png"
-  bio    : "Talk title TBD!"
+  bio    : "Information-Theoretic Probing with Minimum Description Length"
   links:
     - label: "Aug 05, 2020"
       icon: "far fa-fw fa-calendar-alt"
@@ -37,7 +37,7 @@ Tom McCoy:
   avatar : "https://tommccoy1.github.io/images/mccoyheadshot.jpg"
   bio    : "Talk title TBD!"
   links:
-    - label: "Aug 05, 2020"
+    - label: "Aug 12, 2020"
       icon: "far fa-fw fa-calendar-alt"
       url: "/upcoming"
     - label: "Website"
@@ -48,12 +48,28 @@ Tom McCoy:
       url: "mailto:tom.mccoy@jhu.edu"
 
 
+Maarten Sap:
+  name   : "Maarten Sap"
+  avatar : "https://pbs.twimg.com/profile_images/621022478836629504/bOOoUC5S_400x400.jpg"
+  bio    : "Talk title TBD!"
+  links  :
+    - label: "Aug 19, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/upcoming"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://homes.cs.washington.edu/~msap/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:msap@cs.washington.edu"
+
+    
 Nitika Mathur:
   name   : "Nitika Mathur"
   avatar : "https://avatars1.githubusercontent.com/u/5334297?s=460&u=e2957d38074baa6f588bb4091676a6f7fb279f40&v=4"
   bio    : "Talk title TBD!"
   links:
-    - label: "Aug 05, 2020"
+    - label: "Aug 26, 2020"
       icon: "far fa-fw fa-calendar-alt"
       url: "/upcoming"
     - label: "Email"

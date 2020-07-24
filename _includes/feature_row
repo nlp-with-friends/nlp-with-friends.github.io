@@ -24,7 +24,7 @@
             <h2 class="archive__item-speaker">{{ f.speaker }}</h2>
           {% endif %}
           {% if f.title %}
-            <h2 class="archive__item-title"><i class='fas fa-xs fa-quote-left'></i>{{ f.title }}<i class='fas fa-xs fa-quote-right'></i></h2>
+            <h2 class="archive__item-title"><i class='fas fa-xs fa-quote-left'></i> {{ f.title }} <i class='fas fa-xs fa-quote-right'></i></h2>
           {% endif %}
 
           {% if f.date %}

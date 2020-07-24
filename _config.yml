@@ -75,7 +75,7 @@ author:
   home   : "/upcoming"
   name   : "Lena Voita"
   avatar : "https://lena-voita.github.io/img/people/lena-min.png"
-  bio    : "Talk title TBD!"
+  bio    : "Information-Theoretic Probing with Minimum Description Length"
   links:
     - label: "Aug 05, 2020"
       icon: "far fa-fw fa-calendar-alt"
