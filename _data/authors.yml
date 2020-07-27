@@ -17,6 +17,7 @@ J.R.R. Tolkien:
 
 
 Lena Voita:
+  next   : yes
   name   : "Lena Voita"
   avatar : "https://lena-voita.github.io/img/people/lena-min.png"
   bio    : "Information-Theoretic Probing with Minimum Description Length"
@@ -30,10 +31,7 @@ Lena Voita:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://lena-voita.github.io/"
-    - label: "Register!"
-      icon: "fas fa-fw fa-user-plus"
-      url: "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-lena-voita-tickets-114590039894"
-
+      
 
 Tom McCoy:
   name   : "Tom McCoy"

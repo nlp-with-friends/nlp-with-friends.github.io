@@ -32,6 +32,7 @@
     {% endif %}
   </div>
 
+  
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
@@ -252,5 +253,12 @@
 
       {% include author-profile-custom-links.html %}
     </ul>
+
+  {% if author.next %}
+    <a href="https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-lena-voita-tickets-114590039894" class="btn btn--primary register">
+      Register for Zoom Link!
+    </a>
+  {% endif %}  
+    
   </div>
 </div>
