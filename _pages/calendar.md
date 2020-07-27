@@ -3,7 +3,7 @@ permalink: /calendar/
 title: "Series Calendar"
 ---
 
-[Eventbrite registration links](https://www.eventbrite.co.uk/o/nlp-with-friends-30774024728) (to receive zoom details) are listed in both the talk descriptions and their calendar events. 
+[Eventbrite registration links](https://www.eventbrite.co.uk/o/nlp-with-friends-30774024728){:target="_blank"} (to receive zoom details) are listed in both the talk descriptions and their calendar events. 
 
 To add an individual talk below to your calendar, click on the event and then click **copy to my calendar**. 
 
