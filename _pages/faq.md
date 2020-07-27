@@ -11,6 +11,9 @@ On Zoom! In order to avoid [zoom-bombing](/assets/images/zoom-bomb.png), we will
 We ask that all participants register for talks through eventbrite, and will receive the zoom link in the confirmation email(s). 
 Eventbrite registration links are listed in both the [talk descriptions](/upcoming) and their [calendar events](/calendar). 
 
+## What does a talk look like? 
+Every talk will take place over one hour, though each speaker will decide how to balance talk and discussion during this time. Additional questions may be asked following the seminar for a brief period via the Disqus Q&A on the individual talk’s page, though the comments will be later disabled to allow the speaker to conclude their talk.
+
 ## Who’s speaking next?
 Check out our [upcoming speakers list](/upcoming)!
 
