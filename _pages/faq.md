@@ -4,7 +4,7 @@ title: "Frequently Asked Questions"
 ---
 
 ## When do we meet?
-Every week or two on Wednesdays for one hour. We alternate between three times: [12:00 am UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20200805T000000&p1=224&p2=179&p3=136&p4=676&p5=33&p6=152){:target="_blank"}, [8:00 am UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20200805T080000&p1=224&p2=179&p3=136&p4=676&p5=33&p6=152){:target="_blank"} and [14:00 am UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20200805T140000&p1=224&p2=179&p3=136&p4=676&p5=33&p6=152){:target="_blank"}, to allow people from different places to be able to join and engage the discussion. Click on each time to see time zone conversions to your area (and note the possible dateline change -- for some time zones, it may be Tuesday!) 
+Every week or two on Wednesdays for one hour. We alternate between three times: [12:00 am UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20200805T000000&p1=224&p2=179&p3=136&p4=676&p5=33&p6=152){:target="_blank"}, [8:00 am UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20200805T080000&p1=224&p2=179&p3=136&p4=676&p5=33&p6=152){:target="_blank"} and [14:00 am UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20200805T140000&p1=224&p2=179&p3=136&p4=676&p5=33&p6=152){:target="_blank"}, to allow people from different places to be able to join and engage the discussion. Click on each time to see time zone conversions to your area (and note the possible dateline change -- for some time zones, it may be Tuesday!). 
 
 ## Where do we meet?
 On Zoom! In order to avoid [zoom-bombing](/assets/images/zoom-bomb.png), we will send the zoom-invite through email.

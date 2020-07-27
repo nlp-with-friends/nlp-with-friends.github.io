@@ -3,14 +3,14 @@ permalink: /guidelines/
 title: "Guidelines"
 ---
 
-## What makes a good talk?
+## Types of talks at NLP with Friends
 A good talk both educates and sparks insightful discussion – it does *not* need to be polished!
-Some points you might consider discussing: 
+Some points we hope to discuss in talks: 
 - Something you might not learn from the paper
-- Something you found particular interesting, even if not the main point
+- Something particularly interesting, even if not the main point
 - The steps along the way to discovering the final idea or method
 - What *didn’t* work
-- What open questions and possible extensions are you interested in addressing in future work?
+- What open questions and possible extensions might be addressed in future work? 
 
 
 ## Community Guidelines
