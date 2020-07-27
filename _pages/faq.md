@@ -8,6 +8,8 @@ Every week or two on Wednesdays for one hour. We alternate between three times: 
 
 ## Where do we meet?
 On Zoom! In order to avoid [zoom-bombing](/assets/images/zoom-bomb.png), we will send the zoom-invite through email.
+We ask that all participants register for talks through eventbrite, and will receive the zoom link in the confirmation email(s). 
+Eventbrite registration links are listed in both the [talk descriptions](/upcoming) and their [calendar events](/calendar). 
 
 ## Who’s speaking next?
 Check out our [upcoming speakers list](/upcoming)!
