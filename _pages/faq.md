@@ -20,9 +20,9 @@ Check out our [upcoming speakers list](/upcoming)!
 ## Are the seminars recorded?
 Yes! But just the talks themselves (and any questions asked *during* the presentation) will be recorded.
 The discussions following talks will not be recorded, in order to encourage discussion and remove hesitations about question-asking. 
-Recorded talks can be found [here](https://www.youtube.com/playlist?list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"} [1].  Or, check out the [Past](/past) section to watch a specific talk.
+Recorded talks can be found [here](https://www.youtube.com/playlist?list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}.<sup>[1](#myfootnote1)</sup>  Or, check out the [Past](/past) section to watch a specific talk.
 
-[1] Recordings of talks that contain content that is under anonymity periods will be released once the anonymity period concludes.
+<a name="myfootnote1">1</a>: Recordings of talks that contain content that is under anonymity periods will be released once the anonymity period concludes.
 
 ## Is there a code of conduct? How will zoom-bombing or other misbehavior be handled? 
 Yes! See our [community guidelines](/guidelines/#community-guidelines).
