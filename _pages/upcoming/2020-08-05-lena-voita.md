@@ -9,6 +9,7 @@ bio: "Elena (Lena) Voita is a PhD student interested in (mostly document-level) 
 affiliation: "University of Edinburgh & University of Amsterdam"
 one_line: "What happens when relationships between Alice and Bob have gone too far."
 read_time: true
+comments: true
 ---
 
 <a href="https://lolmythesis.com/" class="one-line">What happens when relationships between Alice and Bob have gone too far.</a>
