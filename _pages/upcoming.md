@@ -4,7 +4,7 @@ permalink: /upcoming/
 title: "Upcoming Presentations"
 author_profile: true
 feature_row:
-  - image_path: "https://lena-voita.github.io/img/people/lena-min.png"
+  - image_path: "/assets/images/speakers/lena.jpg"
     alt: "Lena Voita"
     speaker: Lena Voita
     title: "Information-Theoretic Probing with Minimum Description Length"
@@ -14,7 +14,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: "https://tommccoy1.github.io/images/mccoyheadshot.jpg"
+  - image_path: "/assets/images/placeholders/placeholder2.png"
     alt: "Tom McCoy"
     speaker: Tom McCoy
     title: "Talk title TBD"
@@ -24,7 +24,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3: 
-  - image_path: "https://pbs.twimg.com/profile_images/621022478836629504/bOOoUC5S_400x400.jpg"
+  - image_path: "/assets/images/placeholders/placeholder3.png"
     alt: "Maarten Sap"
     speaker: Maarten Sap
     title: "Talk title TBD"
@@ -34,7 +34,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: "https://avatars1.githubusercontent.com/u/5334297?s=460&u=e2957d38074baa6f588bb4091676a6f7fb279f40&v=4"
+  - image_path: "/assets/images/placeholders/placeholder4.png"
     alt: "Nitika Mathur"
     speaker: Nitika Mathur
     title: "Talk title TBD"
