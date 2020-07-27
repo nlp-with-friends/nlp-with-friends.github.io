@@ -25,13 +25,13 @@ github_username: nlp-with-friends
 minimal_mistakes_skin: "mint" #default
 search: true
 url: https://nlp-with-friends.github.io
-baseurl: "/"
+baseurl: ""
 repository: nlp-with-friends/nlp-with-friends.github.io
 logo: "/assets/images/logo.png"
 comments:
   provider: "disqus"
   disqus:
-    shortname: "nlpwithfriends.disqus.com"
+    shortname: "nlpwithfriends"
 
 
 # Build settings
