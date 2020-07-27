@@ -3,3 +3,9 @@
 {% elsif page.date %}
   <time datetime="{{ page.date | date_to_xmlschema }}">&nbsp;{{ page.date | date: "%B %-d, %Y" }}</time>
 {% endif %}
+
+{% if post.time %}
+  <time datetime="{{ post.date | date_to_xmlschema }}">&nbsp;{{ post.time | time: "%B %-d, %Y" }}</time>  
+{% elsif page.time %}
+  <time datetime="{{ page.date | date_to_xmlschema }}">&nbsp;{{ page.time | time: "%B %-d, %Y" }}</time>
+{% endif %}
