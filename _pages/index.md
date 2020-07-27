@@ -63,9 +63,9 @@ We are committed to diversity of topics and presenters; we hope to connect stude
 
 
 
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@NLPwithFriends">
-<meta name="twitter:creator" content="@NLPwithFriends">
-<meta name="twitter:title" content="NLP with Friends">
-<meta name="twitter:description" content="An online seminar series covering topics relating to NLP -- made for students, by students.">
-<meta name="twitter:image" content="http://nlpwithfriends.com/assets/images/logo.png">
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@NLPwithFriends" />
+<meta name="twitter:creator" content="@NLPwithFriends" />
+<meta name="twitter:title" content="NLP with Friends" />
+<meta name="twitter:description" content="An online seminar series covering topics relating to NLP -- made for students, by students." />
+<meta name="twitter:image" content="https://nlpwithfriends.com/assets/images/logo.png" />
