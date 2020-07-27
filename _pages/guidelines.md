@@ -20,4 +20,4 @@ For this reason, all discussions after the presentation will follow the [Chatham
 Further, we ask all participants and speakers follow our [Code of Conduct](/code-of-conduct). 
 
 We believe that one of the nice things about talks is that they end.
-This means, that although questions can be posed to the speaker after the talk has concluded, we ask that all questions are posed to the speaker by midnight (UTC-12) of the day of the talk, to allow the speaker to conclude their talk.
+This means, that although questions can be posed to the speaker after the talk has concluded, the comments will be closed before the next talk to allow the speaker to conclude their talk.
