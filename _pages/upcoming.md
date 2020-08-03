@@ -14,12 +14,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: "/assets/images/placeholders/placeholder2.png"
+  - image_path: "/assets/images/speakers/tom.jpg"
     alt: "Tom McCoy"
     speaker: Tom McCoy
-    title: "Talk title TBD"
+    title: "Universal Linguistic Inductive Biases via Meta-Learning"
     date: Aug 12, 2020
-    excerpt: "Talk abstract TBD"
+    excerpt: "I never meta learning I didn't like."
     url: "upcoming/tom-mccoy"
     btn_label: "Read More"
     btn_class: "btn--primary"
