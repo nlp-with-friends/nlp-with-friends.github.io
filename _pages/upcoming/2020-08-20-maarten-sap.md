@@ -3,8 +3,8 @@ permalink: /upcoming/maarten-sap
 title: "Social and Ethical Considerations in English Toxic Language Detection"
 speaker: Maarten Sap
 author: Maarten Sap
-date: Aug 19, 2020
-time: 14:00 UTC
+date: Aug 20, 2020
+time: 00:00 UTC
 bio: "Tom McCoy is a PhD student at Johns Hopkins. He studies the linguistic abilities of neural networks, focusing on inductive biases and representations of compositional structure."
 read_time: true
 comments: true

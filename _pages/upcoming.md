@@ -28,7 +28,7 @@ feature_row3:
     alt: "Maarten Sap"
     speaker: Maarten Sap
     title: "Social and Ethical Considerations in English Toxic Language Detection"
-    date: Aug 19, 2020
+    date: Aug 20, 2020
     excerpt: "Automated hate speech detection backfires, but people are awful online so maybe we should just cancel the internet."
     url: "upcoming/maarten-sap"
     btn_label: "Read More"
