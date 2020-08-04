@@ -24,12 +24,12 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3: 
-  - image_path: "/assets/images/placeholders/placeholder3.png"
+  - image_path: "/assets/images/speakers/maarten.jpg"
     alt: "Maarten Sap"
     speaker: Maarten Sap
-    title: "Talk title TBD"
+    title: "Social and Ethical Considerations in English Toxic Language Detection"
     date: Aug 19, 2020
-    excerpt: "Talk abstract TBD"
+    excerpt: "Automated hate speech detection backfires, but people are awful online so maybe we should just cancel the internet."
     url: "upcoming/maarten-sap"
     btn_label: "Read More"
     btn_class: "btn--primary"
