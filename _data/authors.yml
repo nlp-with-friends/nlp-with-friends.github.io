@@ -17,10 +17,10 @@ J.R.R. Tolkien:
 
 
 Lena Voita:
-  next   : yes
   name   : "Lena Voita"
   avatar : "https://lena-voita.github.io/img/people/lena-min.png"
   bio    : "Information-Theoretic Probing with Minimum Description Length"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-lena-voita-tickets-114590039894"
   links:
     - label: "Aug 05, 2020"
       icon: "far fa-fw fa-calendar-alt"
@@ -34,9 +34,11 @@ Lena Voita:
       
 
 Tom McCoy:
+  next   : yes
   name   : "Tom McCoy"
   avatar : "/assets/images/speakers/tom.jpg"
   bio    : "Universal linguistic inductive biases via meta-learning"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-tom-mccoy-tickets-116033002835"
   links:
     - label: "Aug 12, 2020"
       icon: "far fa-fw fa-calendar-alt"
