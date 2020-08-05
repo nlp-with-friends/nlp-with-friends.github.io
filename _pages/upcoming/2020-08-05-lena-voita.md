@@ -19,3 +19,7 @@ How can you know whether a model has learned to encode a linguistic property? Th
 <hr>
 
 **Elena (Lena) Voita** is a PhD student interested in (mostly document-level) neural machine translation, as well as understanding what and how neural models learn. Previously, she spent 4 years having fun at different parts of Yandex; 2.5 of them (those with most fun) as a research scientist at Yandex Research side by side with the Yandex Translate team.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-file-pdf"></i> [Talk Slides](https://drive.google.com/file/d/1owq2nenNOfh1u87M-ZxS_iHHtZLhBx5v/view?usp=sharing){:target="_blank"}  
+<i class="fas fa-fw fa-blog"></i> [Blog Post](https://lena-voita.github.io/posts/mdl_probes.html){:target="_blank"}  
