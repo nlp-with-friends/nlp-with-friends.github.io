@@ -176,12 +176,27 @@ html {
     margin: 0px 0 0px !important;
     text-decoration: underline;
     line-height: 1.25 !important;
+    text-align: center;
+    padding-top: 10px;
     padding-bottom: 20px;
 }    
 
 .author__name {
     margin-top: 20px !important;
     margin-bottom: 10px !important;
+}
+
+.author__avatar {
+    text-align: center;
+}
+
+.author__content {
+    text-align: center;
+}
+
+.author__urls-wrapper {
+    width: fit-content;
+    margin: auto;
 }
 
 .organizer-wrapper {
