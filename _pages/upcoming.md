@@ -24,12 +24,12 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: "/assets/images/placeholders/placeholder4.png"
+  - image_path: "/assets/images/speakers/nitika.jpg"
     alt: "Nitika Mathur"
     speaker: Nitika Mathur
-    title: "Talk title TBD"
-    date: Aug 26, 2020
-    excerpt: "Talk abstract TBD"
+    title: "Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics"
+    date: Aug 27, 2020
+    excerpt: "A graph is worth a thousand numbers."
     url: "upcoming/nitika-mathur"
     btn_label: "Read More"
     btn_class: "btn--primary"
