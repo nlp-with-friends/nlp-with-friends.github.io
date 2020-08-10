@@ -33,6 +33,26 @@ feature_row3:
     url: "upcoming/nitika-mathur"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row4:
+  - image_path: "/assets/images/placeholders/placeholder1.png"
+    alt: "Su Lin Blodgett"
+    speaker: Su Lin Blodgett
+    title: "Talk title TBD"
+    date: Sept 16, 2020
+    excerpt: "Talk abstract TBD"
+    url: "upcoming/su-lin-blodgett"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row5:
+  - image_path: "/assets/images/placeholders/placeholder2.png"
+    alt: "Mor Geva"
+    speaker: Mor Geva
+    title: "Talk title TBD"
+    date: Oct 14, 2020
+    excerpt: "Talk abstract TBD"
+    url: "upcoming/mor-geva"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 <hr>
@@ -42,3 +62,7 @@ feature_row3:
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="feature_row5" type="left" %}
