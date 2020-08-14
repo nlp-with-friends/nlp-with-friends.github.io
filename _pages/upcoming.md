@@ -35,6 +35,16 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: "/assets/images/placeholders/placeholder2.png"
+    alt: "David Adelani"
+    speaker: David Adelani
+    title: "Talk title TBD"
+    date: Sept 23, 2020
+    excerpt: "Talk abstract TBD"
+    url: "upcoming/su-lin-blodgett"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row5:
+  - image_path: "/assets/images/placeholders/placeholder3.png"
     alt: "Mor Geva"
     speaker: Mor Geva
     title: "Talk title TBD"
@@ -54,3 +64,5 @@ feature_row4:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="feature_row5" type="left" %}
