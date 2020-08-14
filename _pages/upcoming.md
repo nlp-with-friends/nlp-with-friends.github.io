@@ -3,17 +3,7 @@ layout: archive
 permalink: /upcoming/
 title: "Upcoming Presentations"
 author_profile: true
-feature_row:
-  - image_path: "/assets/images/speakers/tom.jpg"
-    alt: "Tom McCoy"
-    speaker: Tom McCoy
-    title: "Universal Linguistic Inductive Biases via Meta-Learning"
-    date: Aug 12, 2020
-    excerpt: "I never meta learning I didn't like."
-    url: "upcoming/tom-mccoy"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2: 
+feature_row: 
   - image_path: "/assets/images/speakers/maarten.jpg"
     alt: "Maarten Sap"
     speaker: Maarten Sap
@@ -23,7 +13,7 @@ feature_row2:
     url: "upcoming/maarten-sap"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row2:
   - image_path: "/assets/images/speakers/nitika.jpg"
     alt: "Nitika Mathur"
     speaker: Nitika Mathur
@@ -33,7 +23,7 @@ feature_row3:
     url: "upcoming/nitika-mathur"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row3:
   - image_path: "/assets/images/placeholders/placeholder1.png"
     alt: "Su Lin Blodgett"
     speaker: Su Lin Blodgett
@@ -43,7 +33,7 @@ feature_row4:
     url: "upcoming/su-lin-blodgett"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
+feature_row4:
   - image_path: "/assets/images/placeholders/placeholder2.png"
     alt: "Mor Geva"
     speaker: Mor Geva
@@ -64,5 +54,3 @@ feature_row5:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
-
-{% include feature_row id="feature_row5" type="left" %}

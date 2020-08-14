@@ -34,7 +34,6 @@ Lena Voita:
       
 
 Tom McCoy:
-  next   : yes
   home   : "/upcoming/tom-mccoy"
   name   : "Tom McCoy"
   avatar : "/assets/images/speakers/tom.jpg"
@@ -53,10 +52,12 @@ Tom McCoy:
 
 
 Maarten Sap:
+  next   : yes
   home   : "/upcoming/maarten-sap"
   name   : "Maarten Sap"
   avatar : "/assets/images/speakers/maarten.jpg"
   bio    : "Social and Ethical Considerations in English Toxic Language Detection"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-maarten-sap-tickets-117002879763"
   links  :
     - label: "Aug 20, 2020"
       icon: "far fa-fw fa-calendar-alt"
