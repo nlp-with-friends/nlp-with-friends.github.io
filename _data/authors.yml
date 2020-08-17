@@ -87,10 +87,24 @@ Nitika Mathur:
       url: "mailto:nmathur@student.unimelb.edu.au"
 
 
+Sabrina Mielke:
+  home   : "/upcoming/sabrina-mielke"
+  name   : "Sabrina Mielke"
+  avatar : "/assets/images/placeholders/placeholder1.png"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Sept 2, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sjmielke.com/"
+
+
 Su Lin Blodgett:
   home   : "/upcoming/su-lin-blodgett"
   name   : "Su Lin Blodgett"
-  avatar : "/assets/images/placeholders/placeholder1.png"
+  avatar : "/assets/images/placeholders/placeholder2.png"
   bio    : "Talk title TBD!"
   links:
     - label: "Sept 16, 2020"
@@ -104,7 +118,7 @@ Su Lin Blodgett:
 David Adelani:
   home   : "/upcoming/david-adelani"
   name   : "David Adelani"
-  avatar : "/assets/images/placeholders/placeholder2.png"
+  avatar : "/assets/images/placeholders/placeholder3.png"
   bio    : "Talk title TBD!"
   links:
     - label: "Sept 23, 2020"
@@ -118,7 +132,7 @@ David Adelani:
 Mor Geva:
   home   : "/upcoming/mor-geva"
   name   : "Mor Geva"
-  avatar : "/assets/images/placeholders/placeholder3.png"
+  avatar : "/assets/images/placeholders/placeholder4.png"
   bio    : "Talk title TBD!"
   links:
     - label: "Oct 14, 2020"
