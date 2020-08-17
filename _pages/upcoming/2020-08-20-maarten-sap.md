@@ -5,7 +5,7 @@ speaker: Maarten Sap
 author: Maarten Sap
 date: Aug 20, 2020
 time: 00:00 UTC
-bio: "Tom McCoy is a PhD student at Johns Hopkins. He studies the linguistic abilities of neural networks, focusing on inductive biases and representations of compositional structure."
+bio: "Maarten Sap is (almost) a 6th/final year PhD student in NLP at the University of Washington, working with Noah Smith and Yejin Choi. His work tackles social commonsense reasoning as well as social good/social justice applications of NLP."
 read_time: true
 comments: true
 ---

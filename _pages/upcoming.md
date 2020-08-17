@@ -50,7 +50,7 @@ feature_row5:
     title: "Talk title TBD"
     date: Sept 23, 2020
     excerpt: "Talk abstract TBD"
-    url: "upcoming/su-lin-blodgett"
+    url: "upcoming/david-adelani"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
