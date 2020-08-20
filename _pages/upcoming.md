@@ -45,6 +45,16 @@ feature_row4:
     btn_class: "btn--primary"
 feature_row5:
   - image_path: "/assets/images/placeholders/placeholder4.png"
+    alt: "Hongming Zhang"
+    speaker: Hongming Zhang
+    title: "Talk title TBD"
+    date: Sept 30, 2020
+    excerpt: "Talk abstract TBD"
+    url: "speakers/hongming-zhang"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row6:
+  - image_path: "/assets/images/placeholders/placeholder1.png"
     alt: "Mor Geva"
     speaker: Mor Geva
     title: "Talk title TBD"
@@ -66,3 +76,5 @@ feature_row5:
 {% include feature_row id="feature_row4" type="right" %}
 
 {% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="right" %}

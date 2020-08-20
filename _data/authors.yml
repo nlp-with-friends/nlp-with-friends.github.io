@@ -130,10 +130,24 @@ David Adelani:
       url: "https://dadelani.github.io/"
 
 
+Hongming Zhang:
+  home   : "speakers/hongming-zhang"
+  name   : "Hongming Zhang"
+  avatar : "assets/images/placeholders/placeholder4.png"
+  bio    : "Talk title TBD!"
+  links  :
+    - label: "Sept 30, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.cse.ust.hk/~hzhangal/"
+    
+
 Mor Geva:
   home   : "/upcoming/mor-geva"
   name   : "Mor Geva"
-  avatar : "/assets/images/placeholders/placeholder4.png"
+  avatar : "/assets/images/placeholders/placeholder1.png"
   bio    : "Talk title TBD!"
   links:
     - label: "Oct 14, 2020"
