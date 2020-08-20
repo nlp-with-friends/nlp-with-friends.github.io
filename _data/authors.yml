@@ -52,7 +52,6 @@ Tom McCoy:
 
 
 Maarten Sap:
-  next   : yes
   home   : "/upcoming/maarten-sap"
   name   : "Maarten Sap"
   avatar : "/assets/images/speakers/maarten.jpg"
@@ -71,10 +70,12 @@ Maarten Sap:
 
     
 Nitika Mathur:
+  next   : yes
   home   : "/upcoming/nitika-mathur"
   name   : "Nitika Mathur"
   avatar : "/assets/images/speakers/nitika.jpg"
   bio    : "Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nitika-mathur-tickets-117606966603"
   links:
     - label: "Aug 27, 2020"
       icon: "far fa-fw fa-calendar-alt"

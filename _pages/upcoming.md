@@ -3,17 +3,7 @@ layout: archive
 permalink: /upcoming/
 title: "Upcoming Presentations"
 author_profile: true
-feature_row: 
-  - image_path: "/assets/images/speakers/maarten.jpg"
-    alt: "Maarten Sap"
-    speaker: Maarten Sap
-    title: "Social and Ethical Considerations in English Toxic Language Detection"
-    date: Aug 20, 2020
-    excerpt: "Automated hate speech detection backfires, but people are awful online so maybe we should just cancel the internet."
-    url: "upcoming/maarten-sap"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2:
+feature_row:
   - image_path: "/assets/images/speakers/nitika.jpg"
     alt: "Nitika Mathur"
     speaker: Nitika Mathur
@@ -23,7 +13,7 @@ feature_row2:
     url: "upcoming/nitika-mathur"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row2:
   - image_path: "/assets/images/placeholders/placeholder1.png"
     alt: "Sabrina Mielke"
     speaker: Sabrina Mielke
@@ -33,7 +23,7 @@ feature_row3:
     url: "upcoming/sabrina-mielke"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row3:
   - image_path: "/assets/images/placeholders/placeholder2.png"
     alt: "Su Lin Blodgett"
     speaker: Su Lin Blodgett
@@ -43,7 +33,7 @@ feature_row4:
     url: "upcoming/su-lin-blodgett"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
+feature_row4:
   - image_path: "/assets/images/placeholders/placeholder3.png"
     alt: "David Adelani"
     speaker: David Adelani
@@ -53,7 +43,7 @@ feature_row5:
     url: "upcoming/david-adelani"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row6:
+feature_row5:
   - image_path: "/assets/images/placeholders/placeholder4.png"
     alt: "Mor Geva"
     speaker: Mor Geva
@@ -76,5 +66,3 @@ feature_row6:
 {% include feature_row id="feature_row4" type="right" %}
 
 {% include feature_row id="feature_row5" type="left" %}
-
-{% include feature_row id="feature_row6" type="right" %}
