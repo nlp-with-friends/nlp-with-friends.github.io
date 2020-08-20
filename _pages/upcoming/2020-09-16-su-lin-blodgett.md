@@ -1,5 +1,5 @@
 ---
-permalink: /upcoming/su-lin-blodgett
+permalink: /speakers/su-lin-blodgett
 title: "Talk Title TBD"
 speaker: Su Lin Blodgett
 author: Su Lin Blodgett

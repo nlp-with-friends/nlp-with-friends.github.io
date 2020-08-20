@@ -20,7 +20,7 @@ feature_row2:
     title: "Talk title TBD"
     date: Sept 2, 2020
     excerpt: "Talk abstract TBD"
-    url: "upcoming/sabrina-mielke"
+    url: "speakers/sabrina-mielke"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -30,7 +30,7 @@ feature_row3:
     title: "Talk title TBD"
     date: Sept 16, 2020
     excerpt: "Talk abstract TBD"
-    url: "upcoming/su-lin-blodgett"
+    url: "speakers/su-lin-blodgett"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
@@ -40,7 +40,7 @@ feature_row4:
     title: "Talk title TBD"
     date: Sept 23, 2020
     excerpt: "Talk abstract TBD"
-    url: "upcoming/david-adelani"
+    url: "speakers/david-adelani"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
@@ -60,7 +60,7 @@ feature_row6:
     title: "Talk title TBD"
     date: Oct 14, 2020
     excerpt: "Talk abstract TBD"
-    url: "upcoming/mor-geva"
+    url: "speakers/mor-geva"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

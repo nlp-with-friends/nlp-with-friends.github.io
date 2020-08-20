@@ -1,5 +1,5 @@
 ---
-permalink: /upcoming/sabrina-mielke
+permalink: /speakers/sabrina-mielke
 title: "Talk Title TBD"
 speaker: Sabrina Mielke
 author: Sabrina Mielke

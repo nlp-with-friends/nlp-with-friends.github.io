@@ -1,5 +1,5 @@
 ---
-permalink: /upcoming/david-adelani
+permalink: /speakers/david-adelani
 title: "Talk Title TBD"
 speaker: David Adelani
 author: David Adelani

@@ -89,7 +89,7 @@ Nitika Mathur:
 
 
 Sabrina Mielke:
-  home   : "/upcoming/sabrina-mielke"
+  home   : "/speakers/sabrina-mielke"
   name   : "Sabrina Mielke"
   avatar : "/assets/images/placeholders/placeholder1.png"
   bio    : "Talk title TBD!"
@@ -103,7 +103,7 @@ Sabrina Mielke:
 
 
 Su Lin Blodgett:
-  home   : "/upcoming/su-lin-blodgett"
+  home   : "/speakers/su-lin-blodgett"
   name   : "Su Lin Blodgett"
   avatar : "/assets/images/placeholders/placeholder2.png"
   bio    : "Talk title TBD!"
@@ -117,7 +117,7 @@ Su Lin Blodgett:
 
 
 David Adelani:
-  home   : "/upcoming/david-adelani"
+  home   : "/speakers/david-adelani"
   name   : "David Adelani"
   avatar : "/assets/images/placeholders/placeholder3.png"
   bio    : "Talk title TBD!"
@@ -131,7 +131,7 @@ David Adelani:
 
 
 Hongming Zhang:
-  home   : "speakers/hongming-zhang"
+  home   : "/speakers/hongming-zhang"
   name   : "Hongming Zhang"
   avatar : "assets/images/placeholders/placeholder4.png"
   bio    : "Talk title TBD!"
@@ -145,7 +145,7 @@ Hongming Zhang:
     
 
 Mor Geva:
-  home   : "/upcoming/mor-geva"
+  home   : "/speakers/mor-geva"
   name   : "Mor Geva"
   avatar : "/assets/images/placeholders/placeholder1.png"
   bio    : "Talk title TBD!"
