@@ -25,6 +25,16 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: "/assets/images/placeholders/placeholder2.png"
+    alt: "John Hewitt"
+    speaker: John Hewitt
+    title: "Talk title TBD"
+    date: Sept 9, 2020
+    excerpt: "Talk abstract TBD"
+    url: "speakers/john-hewitt"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: "/assets/images/placeholders/placeholder3.png"
     alt: "Su Lin Blodgett"
     speaker: Su Lin Blodgett
     title: "Talk title TBD"
@@ -33,8 +43,8 @@ feature_row3:
     url: "speakers/su-lin-blodgett"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: "/assets/images/placeholders/placeholder3.png"
+feature_row5:
+  - image_path: "/assets/images/placeholders/placeholder4.png"
     alt: "David Adelani"
     speaker: David Adelani
     title: "Talk title TBD"
@@ -43,8 +53,8 @@ feature_row4:
     url: "speakers/david-adelani"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
-  - image_path: "/assets/images/placeholders/placeholder4.png"
+feature_row6:
+  - image_path: "/assets/images/placeholders/placeholder1.png"
     alt: "Hongming Zhang"
     speaker: Hongming Zhang
     title: "Talk title TBD"
@@ -53,8 +63,8 @@ feature_row5:
     url: "speakers/hongming-zhang"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row6:
-  - image_path: "/assets/images/placeholders/placeholder1.png"
+feature_row7:
+  - image_path: "/assets/images/placeholders/placeholder3.png"
     alt: "Mor Geva"
     speaker: Mor Geva
     title: "Talk title TBD"
@@ -78,3 +88,5 @@ feature_row6:
 {% include feature_row id="feature_row5" type="left" %}
 
 {% include feature_row id="feature_row6" type="right" %}
+
+{% include feature_row id="feature_row7" type="left" %}

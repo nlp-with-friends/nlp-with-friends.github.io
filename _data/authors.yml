@@ -102,10 +102,24 @@ Sabrina Mielke:
       url: "https://sjmielke.com/"
 
 
+John Hewitt:
+  home   : "/speakers/john-hewitt"
+  name   : "John Hewitt"
+  avatar : "/assets/images/placeholders/placeholder2.png"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Sept 9, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nlp.stanford.edu/~johnhew/"
+
+
 Su Lin Blodgett:
   home   : "/speakers/su-lin-blodgett"
   name   : "Su Lin Blodgett"
-  avatar : "/assets/images/placeholders/placeholder2.png"
+  avatar : "/assets/images/placeholders/placeholder3.png"
   bio    : "Talk title TBD!"
   links:
     - label: "Sept 16, 2020"
@@ -119,7 +133,7 @@ Su Lin Blodgett:
 David Adelani:
   home   : "/speakers/david-adelani"
   name   : "David Adelani"
-  avatar : "/assets/images/placeholders/placeholder3.png"
+  avatar : "/assets/images/placeholders/placeholder4.png"
   bio    : "Talk title TBD!"
   links:
     - label: "Sept 23, 2020"
@@ -133,7 +147,7 @@ David Adelani:
 Hongming Zhang:
   home   : "/speakers/hongming-zhang"
   name   : "Hongming Zhang"
-  avatar : "assets/images/placeholders/placeholder4.png"
+  avatar : "assets/images/placeholders/placeholder1.png"
   bio    : "Talk title TBD!"
   links  :
     - label: "Sept 30, 2020"
@@ -147,7 +161,7 @@ Hongming Zhang:
 Mor Geva:
   home   : "/speakers/mor-geva"
   name   : "Mor Geva"
-  avatar : "/assets/images/placeholders/placeholder1.png"
+  avatar : "/assets/images/placeholders/placeholder3.png"
   bio    : "Talk title TBD!"
   links:
     - label: "Oct 14, 2020"
