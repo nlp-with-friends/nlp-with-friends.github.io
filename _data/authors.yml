@@ -88,11 +88,11 @@ Nitika Mathur:
       url: "mailto:nmathur@student.unimelb.edu.au"
 
 
-Sabrina Mielke:
+Sabrina J. Mielke:
   home   : "/speakers/sabrina-mielke"
-  name   : "Sabrina Mielke"
-  avatar : "/assets/images/placeholders/placeholder1.png"
-  bio    : "Talk title TBD!"
+  name   : "Sabrina J. Mielke"
+  avatar : "/assets/images/speakers/sabrina.jpg"
+  bio    : "Fair comparisons for generative language models---with a bit of Information Theory"
   links:
     - label: "Sept 2, 2020"
       icon: "far fa-fw fa-calendar-alt"

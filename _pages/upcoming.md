@@ -14,12 +14,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: "/assets/images/placeholders/placeholder1.png"
-    alt: "Sabrina Mielke"
-    speaker: Sabrina Mielke
-    title: "Talk title TBD"
+  - image_path: "/assets/images/speakers/sabrina.jpg"
+    alt: "Sabrina J. Mielke"
+    speaker: Sabrina J. Mielke
+    title: "Fair comparisons for generative language models---with a bit of Information Theory"
     date: Sept 2, 2020
-    excerpt: "Talk abstract TBD"
+    excerpt: "A story of anger-driven development: yes, you can compare perplexities, no, not like that."
     url: "speakers/sabrina-mielke"
     btn_label: "Read More"
     btn_class: "btn--primary"
