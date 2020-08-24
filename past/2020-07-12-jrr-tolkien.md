@@ -1,7 +1,11 @@
 ---
+permalink: /past/jrr-tolkien
 title: "What is a hobbit anyway"
 speaker: J.R.R. Tolkien
 author: J.R.R. Tolkien
+layout: single
+sidebar: true
+author_profile: true
 categories:
   - example
 tags:
