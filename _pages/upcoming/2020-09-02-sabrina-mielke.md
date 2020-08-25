@@ -5,6 +5,7 @@ speaker: Sabrina J. Mielke
 author: Sabrina J. Mielke
 date: Sept 2, 2020
 time: 14:00 UTC
+timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20200902T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
 bio: "Sabrina J. Mielke is a PhD student at Johns Hopkins University, working on things like open-vocabulary language modeling and fair cross-linguistic evaluation. She has a dark formal language theory past and patiently waits for the revival of tree transducers in NLP. Her favorite part of the job until then? Making figures and slides."
 read_time: true
 ---

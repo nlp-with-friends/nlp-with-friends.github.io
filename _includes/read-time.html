@@ -1,11 +1,19 @@
 {% if post.date %}
-  <time datetime="{{ post.date | date_to_xmlschema }}">&nbsp;{{ post.date | date: "%B %-d, %Y" }}</time>  
+  <a href="/calendar"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></a>
 {% elsif page.date %}
-  <time datetime="{{ page.date | date_to_xmlschema }}">&nbsp;{{ page.date | date: "%B %-d, %Y" }}</time>
+  <a href="/calendar"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></a>
 {% endif %}
 
 {% if post.time %}
-  <time datetime="{{ post.date | date_to_xmlschema }}">&nbsp;{{ post.time | time: "%B %-d, %Y" }}</time>  
+  {% if post.timeconverter %}
+    <a href="{{ post.timeconverter }}" style="padding-left:8px;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.time | time: "%B %-d, %Y" }}</time></a>
+  {% else %}
+    <time datetime="{{ post.date | date_to_xmlschema }}">&nbsp;{{ post.time | time: "%B %-d, %Y" }}</time>
+  {% endif %}
 {% elsif page.time %}
-  <time datetime="{{ page.date | date_to_xmlschema }}">&nbsp;{{ page.time | time: "%B %-d, %Y" }}</time>
+  {% if page.timeconverter %}
+    <a href="{{ page.timeconverter }}" style="padding-left:8px;"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.time | time: "%B %-d, %Y" }}</time></a>
+  {% else %}
+    <time datetime="{{ page.date | date_to_xmlschema }}">&nbsp;{{ page.time | time: "%B %-d, %Y" }}</time>
+  {% endif %}
 {% endif %}
