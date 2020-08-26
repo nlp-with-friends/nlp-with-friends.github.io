@@ -8,6 +8,7 @@ time: 00:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20200827T000000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
 bio: "Nitika Mathur is a PhD candidate in the NLP group at the University of Melbourne, working with Trevor Cohn and Tim Baldwin on machine translation evaluation. Tim once said that her epitaph should be ‘liked making graphs.’"
 read_time: true
+comments: true
 ---
 
 <a href="https://lolmythesis.com/" class="one-line">A graph is worth a thousand numbers.</a>
