@@ -70,7 +70,6 @@ Maarten Sap:
 
     
 Nitika Mathur:
-  next   : yes
   home   : "/upcoming/nitika-mathur"
   name   : "Nitika Mathur"
   avatar : "/assets/images/speakers/nitika.jpg"
@@ -89,10 +88,12 @@ Nitika Mathur:
 
 
 Sabrina J. Mielke:
+  next   : yes
   home   : "/speakers/sabrina-mielke"
   name   : "Sabrina J. Mielke"
   avatar : "/assets/images/speakers/sabrina.jpg"
   bio    : "Fair comparisons for generative language models---with a bit of Information Theory"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-sabrina-j-mielke-tickets-118647236077"
   links:
     - label: "Sept 2, 2020"
       icon: "far fa-fw fa-calendar-alt"

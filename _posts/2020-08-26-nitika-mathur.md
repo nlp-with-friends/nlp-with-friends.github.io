@@ -22,3 +22,7 @@ I’ll finish with recommendations for an ideal world, and then open up the disc
 <hr>
 
 **Nitika Mathur** is a PhD candidate in the NLP group at the University of Melbourne, working with Trevor Cohn and Tim Baldwin on machine translation evaluation. Tim once said that her epitaph should be ‘liked making graphs.’
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk](https://www.youtube.com/watch?v=w4zyfZV5Q8I&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=4&t=0s){:target="_blank"}  
+<i class="fas fa-fw fa-newspaper"></i> [Paper](https://www.aclweb.org/anthology/2020.acl-main.448.pdf){:target="_blank"}  

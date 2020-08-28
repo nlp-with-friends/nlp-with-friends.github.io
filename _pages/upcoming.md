@@ -4,16 +4,6 @@ permalink: /upcoming/
 title: "Upcoming Presentations"
 author_profile: true
 feature_row:
-  - image_path: "/assets/images/speakers/nitika.jpg"
-    alt: "Nitika Mathur"
-    speaker: Nitika Mathur
-    title: "Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics"
-    date: Aug 27, 2020
-    excerpt: "A graph is worth a thousand numbers."
-    url: "upcoming/nitika-mathur"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2:
   - image_path: "/assets/images/speakers/sabrina.jpg"
     alt: "Sabrina J. Mielke"
     speaker: Sabrina J. Mielke
@@ -23,7 +13,7 @@ feature_row2:
     url: "speakers/sabrina-mielke"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row2:
   - image_path: "/assets/images/placeholders/placeholder2.png"
     alt: "John Hewitt"
     speaker: John Hewitt
@@ -33,7 +23,7 @@ feature_row3:
     url: "speakers/john-hewitt"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row3:
   - image_path: "/assets/images/placeholders/placeholder3.png"
     alt: "Su Lin Blodgett"
     speaker: Su Lin Blodgett
@@ -43,7 +33,7 @@ feature_row4:
     url: "speakers/su-lin-blodgett"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
+feature_row4:
   - image_path: "/assets/images/placeholders/placeholder4.png"
     alt: "David Adelani"
     speaker: David Adelani
@@ -53,7 +43,7 @@ feature_row5:
     url: "speakers/david-adelani"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row6:
+feature_row5:
   - image_path: "/assets/images/placeholders/placeholder1.png"
     alt: "Hongming Zhang"
     speaker: Hongming Zhang
@@ -63,7 +53,7 @@ feature_row6:
     url: "speakers/hongming-zhang"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row7:
+feature_row6:
   - image_path: "/assets/images/placeholders/placeholder3.png"
     alt: "Mor Geva"
     speaker: Mor Geva
@@ -88,5 +78,3 @@ feature_row7:
 {% include feature_row id="feature_row5" type="left" %}
 
 {% include feature_row id="feature_row6" type="right" %}
-
-{% include feature_row id="feature_row7" type="left" %}
