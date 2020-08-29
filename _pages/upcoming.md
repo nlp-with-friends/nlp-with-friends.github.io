@@ -44,12 +44,12 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: "/assets/images/placeholders/placeholder1.png"
+  - image_path: "/assets/images/speakers/hongming.jpg"
     alt: "Hongming Zhang"
     speaker: Hongming Zhang
-    title: "Talk title TBD"
+    title: "Commonsense Reasoning from the Angle of Eventualities"
     date: Sept 30, 2020
-    excerpt: "Talk abstract TBD"
+    excerpt: "Commonsense Knowledge is crucial for AI systems. But wait, what is commonsense exactly?"
     url: "speakers/hongming-zhang"
     btn_label: "Read More"
     btn_class: "btn--primary"
