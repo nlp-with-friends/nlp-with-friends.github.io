@@ -106,8 +106,8 @@ Sabrina J. Mielke:
 John Hewitt:
   home   : "/speakers/john-hewitt"
   name   : "John Hewitt"
-  avatar : "/assets/images/placeholders/placeholder2.png"
-  bio    : "Talk title TBD!"
+  avatar : "/assets/images/speakers/john_hewitt.png"
+  bio    : "Language Probes as V-information Estimators"
   links:
     - label: "Sept 9, 2020"
       icon: "far fa-fw fa-calendar-alt"

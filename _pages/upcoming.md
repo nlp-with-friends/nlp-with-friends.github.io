@@ -14,12 +14,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: "/assets/images/placeholders/placeholder2.png"
+  - image_path: "/assets/images/speakers/john_hewitt.png"
     alt: "John Hewitt"
     speaker: John Hewitt
-    title: "Talk title TBD"
+    title: "Language Probes as V-information Estimators"
     date: Sept 9, 2020
-    excerpt: "Talk abstract TBD"
+    excerpt: "A clarifying way to think about (and improve) probing neural networks for linguistic properties"
     url: "speakers/john-hewitt"
     btn_label: "Read More"
     btn_class: "btn--primary"
