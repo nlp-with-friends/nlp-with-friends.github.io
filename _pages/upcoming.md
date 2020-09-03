@@ -14,12 +14,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: "/assets/images/placeholders/placeholder4.png"
+  - image_path: "/assets/images/speakers/david_adelani.jpeg"
     alt: "David Adelani"
     speaker: David Adelani
-    title: "Talk title TBD"
+    title: "Development of NLP datasets and models for African Languages"
     date: Sept 23, 2020
-    excerpt: "Talk abstract TBD"
+    excerpt: "'Everyone can build a model for an African language, no one can evaluate it like Masakhane can!' -- Jade Abbott"
     url: "speakers/david-adelani"
     btn_label: "Read More"
     btn_class: "btn--primary"

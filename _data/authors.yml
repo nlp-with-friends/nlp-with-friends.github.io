@@ -127,12 +127,16 @@ John Hewitt:
 David Adelani:
   home   : "/speakers/david-adelani"
   name   : "David Adelani"
-  avatar : "/assets/images/placeholders/placeholder4.png"
-  bio    : "Talk title TBD!"
+  avatar : "/assets/images/speakers/david_adelani.jpeg"
+  bio    : "Development of NLP datasets and models for African Languages"
+  eventbrite : ""
   links:
     - label: "Sept 23, 2020"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20200923T140000&p1=224&p2=179&p3=136&p4=676&p5=33&p6=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://dadelani.github.io/"
