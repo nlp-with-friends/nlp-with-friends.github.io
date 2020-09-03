@@ -21,3 +21,7 @@ The rest of the talk will be dedicated to a short overview of two other papers I
 <hr>
 
 **Sabrina J. Mielke** is a PhD student at Johns Hopkins University, working on things like open-vocabulary language modeling and fair cross-linguistic evaluation. She has a dark formal language theory past and patiently waits for the revival of tree transducers in NLP. Her favorite part of the job until then? Making figures and slides.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk](https://www.youtube.com/watch?v=4-ulM2moEWg&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}  
+<i class="fas fa-fw fa-file-pdf"></i> [Slides](https://drive.google.com/file/d/1_t9d9gR8wKZMSCb2-DYku-5NkiJZydWR/view?usp=sharing){:target="_blank"}  
