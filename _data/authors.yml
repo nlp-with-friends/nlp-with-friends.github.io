@@ -124,20 +124,6 @@ John Hewitt:
       url: "https://nlp.stanford.edu/~johnhew/"
 
 
-Su Lin Blodgett:
-  home   : "/speakers/su-lin-blodgett"
-  name   : "Su Lin Blodgett"
-  avatar : "/assets/images/placeholders/placeholder3.png"
-  bio    : "Talk title TBD!"
-  links:
-    - label: "Sept 16, 2020"
-      icon: "far fa-fw fa-calendar-alt"
-      url: "/calendar"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sblodgett.github.io/"
-
-
 David Adelani:
   home   : "/speakers/david-adelani"
   name   : "David Adelani"
@@ -168,6 +154,20 @@ Hongming Zhang:
       icon: "fas fa-fw fa-link"
       url: "https://www.cse.ust.hk/~hzhangal/"
     
+
+Su Lin Blodgett:
+  home   : "/speakers/su-lin-blodgett"
+  name   : "Su Lin Blodgett"
+  avatar : "/assets/images/placeholders/placeholder3.png"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Oct 7, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sblodgett.github.io/"
+
 
 Mor Geva:
   home   : "/speakers/mor-geva"

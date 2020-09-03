@@ -14,16 +14,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: "/assets/images/placeholders/placeholder3.png"
-    alt: "Su Lin Blodgett"
-    speaker: Su Lin Blodgett
-    title: "Talk title TBD"
-    date: Sept 16, 2020
-    excerpt: "Talk abstract TBD"
-    url: "speakers/su-lin-blodgett"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
   - image_path: "/assets/images/placeholders/placeholder4.png"
     alt: "David Adelani"
     speaker: David Adelani
@@ -33,7 +23,7 @@ feature_row3:
     url: "speakers/david-adelani"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row3:
   - image_path: "/assets/images/speakers/hongming.jpg"
     alt: "Hongming Zhang"
     speaker: Hongming Zhang
@@ -41,6 +31,16 @@ feature_row4:
     date: Sept 30, 2020
     excerpt: "Commonsense Knowledge is crucial for AI systems. But wait, what is commonsense exactly?"
     url: "speakers/hongming-zhang"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: "/assets/images/placeholders/placeholder3.png"
+    alt: "Su Lin Blodgett"
+    speaker: Su Lin Blodgett
+    title: "Talk title TBD"
+    date: Oct 7, 2020
+    excerpt: "Talk abstract TBD"
+    url: "speakers/su-lin-blodgett"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
