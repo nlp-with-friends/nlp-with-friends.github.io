@@ -88,7 +88,6 @@ Nitika Mathur:
 
 
 Sabrina J. Mielke:
-  next   : yes
   home   : "/speakers/sabrina-mielke"
   name   : "Sabrina J. Mielke"
   avatar : "/assets/images/speakers/sabrina.jpg"
@@ -107,10 +106,12 @@ Sabrina J. Mielke:
 
 
 John Hewitt:
+  next   : yes
   home   : "/speakers/john-hewitt"
   name   : "John Hewitt"
   avatar : "/assets/images/speakers/john_hewitt.png"
   bio    : "Language Probes as V-information Estimators"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-john-hewitt-tickets-119379821259"
   links:
     - label: "Sept 9, 2020"
       icon: "far fa-fw fa-calendar-alt"
