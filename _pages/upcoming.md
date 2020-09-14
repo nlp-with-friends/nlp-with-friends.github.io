@@ -4,16 +4,6 @@ permalink: /upcoming/
 title: "Upcoming Presentations"
 author_profile: true
 feature_row:
-  - image_path: "/assets/images/speakers/john_hewitt.png"
-    alt: "John Hewitt"
-    speaker: John Hewitt
-    title: "Language Probes as V-information Estimators"
-    date: Sept 9, 2020
-    excerpt: "A clarifying way to think about (and improve) probing neural networks for linguistic properties"
-    url: "speakers/john-hewitt"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2:
   - image_path: "/assets/images/speakers/david_adelani.jpeg"
     alt: "David Adelani"
     speaker: David Adelani
@@ -23,7 +13,7 @@ feature_row2:
     url: "speakers/david-adelani"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row2:
   - image_path: "/assets/images/speakers/hongming.jpg"
     alt: "Hongming Zhang"
     speaker: Hongming Zhang
@@ -33,24 +23,24 @@ feature_row3:
     url: "speakers/hongming-zhang"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: "/assets/images/placeholders/placeholder3.png"
-    alt: "Su Lin Blodgett"
-    speaker: Su Lin Blodgett
-    title: "Talk title TBD"
-    date: Oct 7, 2020
-    excerpt: "Talk abstract TBD"
-    url: "speakers/su-lin-blodgett"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row5:
-  - image_path: "/assets/images/placeholders/placeholder3.png"
+feature_row3:
+  - image_path: "/assets/images/placeholders/placeholder1.png"
     alt: "Mor Geva"
     speaker: Mor Geva
     title: "Talk title TBD"
     date: Oct 14, 2020
     excerpt: "Talk abstract TBD"
     url: "speakers/mor-geva"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: "/assets/images/placeholders/placeholder2.png"
+    alt: "Su Lin Blodgett"
+    speaker: Su Lin Blodgett
+    title: "Talk title TBD"
+    date: Oct 21, 2020
+    excerpt: "Talk abstract TBD"
+    url: "speakers/su-lin-blodgett"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -64,5 +54,3 @@ feature_row5:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
-
-{% include feature_row id="feature_row5" type="left" %}
