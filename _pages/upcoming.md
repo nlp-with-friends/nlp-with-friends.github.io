@@ -35,12 +35,32 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: "/assets/images/placeholders/placeholder2.png"
-    alt: "Su Lin Blodgett"
-    speaker: Su Lin Blodgett
+    alt: "Naomi Saphra"
+    speaker: Naomi Saphra
     title: "Talk title TBD"
     date: Oct 21, 2020
     excerpt: "Talk abstract TBD"
+    url: "speakers/naomi-saphra"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row5:
+  - image_path: "/assets/images/placeholders/placeholder3.png"
+    alt: "Su Lin Blodgett"
+    speaker: Su Lin Blodgett
+    title: "Talk title TBD"
+    date: Oct 28, 2020
+    excerpt: "Talk abstract TBD"
     url: "speakers/su-lin-blodgett"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row6:
+  - image_path: "/assets/images/placeholders/placeholder-duo.png"
+    alt: "Pratik Joshi and Sebastin Santy"
+    speaker: Pratik Joshi and Sebastin Santy
+    title: "Talk title TBD"
+    date: Nov 11, 2020
+    excerpt: "Talk abstract TBD"
+    url: "speakers/pratik-sebastin"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -54,3 +74,7 @@ feature_row4:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="right" %}

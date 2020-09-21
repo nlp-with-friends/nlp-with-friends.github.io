@@ -157,26 +157,12 @@ Hongming Zhang:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.cse.ust.hk/~hzhangal/"
-    
-
-Su Lin Blodgett:
-  home   : "/speakers/su-lin-blodgett"
-  name   : "Su Lin Blodgett"
-  avatar : "/assets/images/placeholders/placeholder3.png"
-  bio    : "Talk title TBD!"
-  links:
-    - label: "Oct 7, 2020"
-      icon: "far fa-fw fa-calendar-alt"
-      url: "/calendar"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sblodgett.github.io/"
 
 
 Mor Geva:
   home   : "/speakers/mor-geva"
   name   : "Mor Geva"
-  avatar : "/assets/images/placeholders/placeholder3.png"
+  avatar : "/assets/images/placeholders/placeholder1.png"
   bio    : "Talk title TBD!"
   links:
     - label: "Oct 14, 2020"
@@ -185,3 +171,45 @@ Mor Geva:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mega002.github.io/"
+
+
+Naomi Saphra:
+  home   : "/speakers/naomi-saphra"
+  name   : "Naomi Saphra"
+  avatar : "/assets/images/placeholders/placeholder2.png"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Oct 21, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://nsaphra.github.io/"
+
+
+Su Lin Blodgett:
+  home   : "/speakers/su-lin-blodgett"
+  name   : "Su Lin Blodgett"
+  avatar : "/assets/images/placeholders/placeholder3.png"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Oct 28, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sblodgett.github.io/"
+
+
+Pratik Joshi and Sebastin Santy:
+  home   : "/speakers/pratik-sebastin"
+  name   : "Pratik Joshi and Sebastin Santy"
+  avatar : "/assets/images/placeholders/placeholder-duo.png"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Nov 11, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
