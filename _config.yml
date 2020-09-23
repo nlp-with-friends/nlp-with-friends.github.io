@@ -75,7 +75,7 @@ analytics:
     anonymize_ip         : true
 
 # Default Site 'Author' (next speaker)
-author: David Adelani
+author: Hongming Zhang
 
 footer:
   links:

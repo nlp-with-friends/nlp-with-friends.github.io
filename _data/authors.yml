@@ -124,7 +124,6 @@ John Hewitt:
 
 
 David Adelani:
-  next   : yes
   home   : "/speakers/david-adelani"
   name   : "David Adelani"
   avatar : "/assets/images/speakers/david_adelani.jpeg"
@@ -143,10 +142,12 @@ David Adelani:
 
 
 Hongming Zhang:
+  next   : yes
   home   : "/speakers/hongming-zhang"
   name   : "Hongming Zhang"
   avatar : "/assets/images/speakers/hongming.jpg"
   bio    : "Commonsense Reasoning from the Angle of Eventualities"
+  eventbrite: "https://www.eventbrite.co.uk/e/copy-of-nlp-with-friends-featured-friend-hongming-zhang-tickets-122454776533"
   links  :
     - label: "Sept 30, 2020"
       icon: "far fa-fw fa-calendar-alt"
