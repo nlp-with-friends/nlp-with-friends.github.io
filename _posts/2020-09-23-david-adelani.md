@@ -19,3 +19,7 @@ In this talk, I will discuss some of the challenges of working on low-resourced 
 <hr>
 
 **David Ifeoluwa Adelani** is a doctoral student in computer science at Saarland University, Saarbrücken, Germany. His current research focuses on the security and privacy of users' information in dialog systems and online social interactions. He is also actively involved in the development of natural language processing datasets and tools for low-resource languages, with special focus on African languages.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=A_9clZ40f1c&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}  
+<i class="fas fa-fw fa-newspaper"></i> [LREC2020 Paper](https://www.aclweb.org/anthology/2020.lrec-1.335.pdf){:target="_blank"}  
