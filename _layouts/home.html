@@ -5,6 +5,12 @@ layout: archive
 <hr>
 <h3 class="archive__subtitle" style="visibility:hidden; margin-top:-50px;">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Talks" }}</h3>
 
+{% if page.title == "Past Talks" %}
+  All released videos of past talks may be found on our <a href="https://www.youtube.com/playlist?list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C" target="_blank">YouTube playlist</a>. <br>
+  For more information about individual talks, see the pages below!
+  <hr>
+{% endif %}
+
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
