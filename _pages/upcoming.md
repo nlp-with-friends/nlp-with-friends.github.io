@@ -54,12 +54,12 @@ feature_row5:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
-  - image_path: "/assets/images/placeholders/placeholder-duo.png"
+  - image_path: "/assets/images/speakers/pratik-sebastin.png"
     alt: "Pratik Joshi and Sebastin Santy"
     speaker: Pratik Joshi and Sebastin Santy
-    title: "Talk title TBD"
+    title: "The State and Fate of Linguistic Diversity and Inclusion in the NLP World"
     date: Nov 11, 2020
-    excerpt: "Talk abstract TBD"
+    excerpt: "Through the lens of our taxonomy, you can see mountains of technical progress, but also thousands of languages on the ground without a way to climb them."
     url: "speakers/pratik-sebastin"
     btn_label: "Read More"
     btn_class: "btn--primary"
