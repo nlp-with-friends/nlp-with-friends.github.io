@@ -142,7 +142,6 @@ David Adelani:
 
 
 Hongming Zhang:
-  next   : yes
   home   : "/speakers/hongming-zhang"
   name   : "Hongming Zhang"
   avatar : "/assets/images/speakers/hongming.jpg"
@@ -161,14 +160,19 @@ Hongming Zhang:
 
 
 Mor Geva:
+  next   : yes
   home   : "/speakers/mor-geva"
   name   : "Mor Geva"
-  avatar : "/assets/images/placeholders/placeholder1.png"
-  bio    : "Talk title TBD!"
+  avatar : "/assets/images/speakers/mor_geva.jpg"
+  bio    : "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies"
+  eventbrite: "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-mor-geva-tickets-123642727727"
   links:
     - label: "Oct 14, 2020"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
+    - label: "12:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20200902T120000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mega002.github.io/"
