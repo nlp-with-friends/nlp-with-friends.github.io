@@ -24,12 +24,12 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: "/assets/images/placeholders/placeholder1.png"
+  - image_path: "/assets/images/speakers/mor_geva.jpg"
     alt: "Mor Geva"
     speaker: Mor Geva
-    title: "Talk title TBD"
+    title: "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies"
     date: Oct 14, 2020
-    excerpt: "Talk abstract TBD"
+    excerpt: "Explicitly collecting implicit questions"
     url: "speakers/mor-geva"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -67,8 +67,6 @@ feature_row6:
 
 <hr>
 
-
-{% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
