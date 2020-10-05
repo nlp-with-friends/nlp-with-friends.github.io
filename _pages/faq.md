@@ -15,6 +15,9 @@ To ensure Zoom capacity does not preclude anyone from participating (nor a late 
 ## What does a talk look like? 
 Every talk will take place over one hour, though each speaker will decide how to balance talk and discussion during this time. Additional questions may be asked following the seminar for a brief period via the Disqus Q&A on the individual talk’s page, though the comments will be later disabled to allow the speaker to conclude their talk.
 
+## Who are our speakers?
+NLP with Friends is at its heart a student seminar, so all of our speakers are people working towards an academic degree (students affiliated with an academic institutions, predoctoral fellows or research interns) at the time of giving their talk. 
+
 ## Who’s speaking next?
 Check out our [upcoming speakers list](/upcoming)!
 
