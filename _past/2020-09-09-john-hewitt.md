@@ -8,6 +8,8 @@ time: 14:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20200902T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
 bio: "John is a 3rd year PhD student in computer science at Stanford University, advised by Chris Manning and Percy Liang. He works on understanding and improving how neural networks learn and process human languages."
 read_time: true
+author_profile: true
+layout: single
 ---
 
 <a href="https://lolmythesis.com/" class="one-line">A clarifying way to think about (and improve) probing neural networks for linguistic properties</a>

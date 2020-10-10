@@ -1,12 +1,12 @@
 ---
 layout: collection
-permalink: /upcoming/
-title: "Upcoming Presentations"
+permalink: /past/
+title: "Past Presentations"
 author_profile: true
-collection: upcoming # collection name
+collection: past # collection name
 entries_layout: list # list (default), grid
 show_excerpts: true # true (default), false
 sort_by: date # date (default) title
-sort_order: forward # forward (default), reverse
-direction: left
+sort_order: reverse # forward (default), reverse
+direction: right
 ---

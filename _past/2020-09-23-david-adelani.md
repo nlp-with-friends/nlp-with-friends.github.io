@@ -8,6 +8,8 @@ time: 14:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20200923T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
 bio: "David Ifeoluwa Adelani is a doctoral student in computer science at Saarland University, Saarbrücken, Germany. His current research focuses on the security and privacy of users' information in dialog systems and online social interactions. He is also actively involved in the development of natural language processing datasets and tools for low-resource languages, with special focus on African languages."
 read_time: true
+author_profile: true
+layout: single
 ---
 
 <a href="https://lolmythesis.com/" class="one-line">"Everyone can build a model for an African language, no one can evaluate it like Masakhane can!" -- Jade Abbott</a>

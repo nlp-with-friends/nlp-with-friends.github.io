@@ -8,6 +8,8 @@ timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=202009
 date: Sept 30, 2020
 bio: "Hongming is a third-year Ph.D. student at HKUST and a visiting scholar at UPenn and has received Hong Kong Ph.D. Fellowship and Microsoft Research Asia Fellowship to support his research on commonsense reasoning and open domain event understanding."
 read_time: true
+author_profile: true
+layout: single
 ---
 
 <a href="https://lolmythesis.com/" class="one-line">Commonsense Knowledge is crucial for AI systems. But wait, what is commonsense exactly?</a>

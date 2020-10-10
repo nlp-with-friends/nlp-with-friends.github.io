@@ -7,6 +7,8 @@ date: Aug 20, 2020
 time: 00:00 UTC
 bio: "Maarten Sap is (almost) a 6th/final year PhD student in NLP at the University of Washington, working with Noah Smith and Yejin Choi. His work tackles social commonsense reasoning as well as social good/social justice applications of NLP."
 read_time: true
+author_profile: true
+layout: single
 comments: false
 ---
 

@@ -18,6 +18,6 @@
 
 {%- for post in entries -%}
   {%- unless post.hidden -%}
-    {% include speaker_row.html type="left" %}
+    {% include speaker_row.html type=page.direction %}
   {%- endunless -%}
 {%- endfor -%}
