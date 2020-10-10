@@ -23,3 +23,7 @@ Following this direction, I will then introduce how to create such a large-scale
 <hr>
 
 **Hongming** is a third-year Ph.D. student at HKUST and a visiting scholar at UPenn and has received Hong Kong Ph.D. Fellowship and Microsoft Research Asia Fellowship to support his research on commonsense reasoning and open domain event understanding.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=pI-SiaKsR8w&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=7){:target="_blank"}  
+
