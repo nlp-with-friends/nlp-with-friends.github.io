@@ -45,6 +45,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _upcoming
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -105,6 +106,19 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _upcoming
+  - scope:
+      path: ""
+      type: upcoming
+    values:
+      layout: single
+      author_profile: true
+
+
+collections:
+  upcoming:
+    output: true
+    permalink: /upcoming/:path/
 
 category_archive:
   type: liquid

@@ -7,6 +7,8 @@ date: Nov 11, 2020
 time: 14:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20201111T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
 read_time: true
+layout: single
+author_profile: true
 ---
 
 <a href="https://lolmythesis.com/" class="one-line">Through the lens of our taxonomy, you can see mountains of technical progress, but also thousands of languages on the ground without a way to climb them.</a>

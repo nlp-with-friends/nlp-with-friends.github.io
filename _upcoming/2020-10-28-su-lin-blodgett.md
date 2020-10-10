@@ -5,6 +5,8 @@ speaker: Su Lin Blodgett
 author: Su Lin Blodgett
 date: Oct 28, 2020
 read_time: true
+layout: single
+author_profile: true
 ---
 
 (Abstract to come!)
