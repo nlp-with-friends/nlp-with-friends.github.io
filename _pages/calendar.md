@@ -11,4 +11,14 @@ To subscribe to this calendar and view events in your own google calendar, click
 
 <hr style="height:5pt; visibility:hidden;" />
 
-<iframe src="https://calendar.google.com/calendar/embed?src=nlpwithfriends%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no" title="NLP with friends calendar"></iframe>
+<div id="calendar-container"></div>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+<script type="text/javascript">
+ var timezone = encodeURIComponent(jstz.determine().name()); 
+ var pref = '<iframe src="https://calendar.google.com/calendar/embed?src=nlpwithfriends%40gmail.com&ctz=';
+ var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
+ var iframe_html = pref + timezone + suff;
+ document.getElementById('calendar-container').innerHTML = iframe_html;
+</script>
+
