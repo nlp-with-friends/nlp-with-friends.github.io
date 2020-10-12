@@ -207,7 +207,7 @@ Su Lin Blodgett:
 
 
 Paul Michel:
-  home   : "/speakers/Paul Michel"
+  home   : "/speakers/paul-michel"
   name   : "Paul Michel"
   avatar : "/assets/images/placeholders/placeholder3.png"
   bio    : "Talk title TBD!"
@@ -238,3 +238,17 @@ Pratik Joshi and Sebastin Santy:
     - label: "Sebastin"
       icon: "fas fa-fw fa-link"
       url: "http://sebast.in/"
+
+
+Fernando Alva Manchego:
+  home   : "/speakers/fernando-alva-manchego"
+  name   : "Fernando Alva Manchego"
+  avatar : "/assets/images/placeholders/placeholder4.png"
+  bio    : "Talk title TBD!"
+  links:
+    - label: "Nov 25, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://feralvam.github.io/"
