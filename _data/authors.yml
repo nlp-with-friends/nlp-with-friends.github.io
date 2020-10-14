@@ -181,12 +181,15 @@ Mor Geva:
 Naomi Saphra:
   home   : "/speakers/naomi-saphra"
   name   : "Naomi Saphra"
-  avatar : "/assets/images/placeholders/placeholder1.png"
-  bio    : "Talk title TBD!"
+  avatar : "/assets/images/speakers/naomi-saphra.png"
+  bio    : "Learning Dynamics of LSTM Language Models"
   links:
     - label: "Oct 21, 2020"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20201021T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://nsaphra.github.io/"
