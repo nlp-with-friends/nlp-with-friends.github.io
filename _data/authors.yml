@@ -160,7 +160,6 @@ Hongming Zhang:
 
 
 Mor Geva:
-  next   : yes
   home   : "/speakers/mor-geva"
   name   : "Mor Geva"
   avatar : "/assets/images/speakers/mor_geva.jpg"
@@ -179,10 +178,12 @@ Mor Geva:
 
 
 Naomi Saphra:
+  next   : yes
   home   : "/speakers/naomi-saphra"
   name   : "Naomi Saphra"
   avatar : "/assets/images/speakers/naomi-saphra.png"
   bio    : "Learning Dynamics of LSTM Language Models"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-naomi-saphra-tickets-125506937629"
   links:
     - label: "Oct 21, 2020"
       icon: "far fa-fw fa-calendar-alt"
