@@ -7,7 +7,9 @@
     <div class="next-talk">
       <a href="{{ author.home | relative_url }}">
         <h3 class="next__talk">Next Talk:</h3>
-        <h3 class="talk__title">{{ author.bio | markdownify | remove: "<p>" | remove: "</p>" }}</h3>
+        <h3 class="talk__title">
+          <i class='fas fa-xs fa-quote-left'></i>&nbsp;{{ author.bio | markdownify | remove: "<p>" | remove: "</p>" }} <i class='fas fa-xs fa-quote-right'></i>
+        </h3>
       </a>
     </div>
   {% endif %}
@@ -34,7 +36,7 @@
 
   
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "More Info" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">

@@ -156,7 +156,7 @@ html {
 }
 
 .next-talk {
-    font-style: italic;
+    margin-bottom: 20px;
 }
 
 .next__talk {
@@ -164,6 +164,7 @@ html {
     margin-block-end: 0px;
     margin: 0px 0 0px !important;
     color: #40514e;
+    font-style: italic;
 }    
 
 .next-talk a {
@@ -171,15 +172,11 @@ html {
 }
     
 .talk__title {
-    margin-block-start: 0px;
-    margin-block-end: -10px;
-    margin: 0px 0 0px !important;
-    text-decoration: underline;
-    line-height: 1.25 !important;
     text-align: center;
-    padding-top: 10px;
-    padding-bottom: 20px;
-}    
+    font-size: 0.95em;
+    font-weight: 700;
+    margin-top: 10px;
+}
 
 .author__name {
     margin-top: 20px !important;
@@ -226,12 +223,6 @@ html {
 
 .site-logo img {
     max-height: 3rem;
-}
-
-.talk__title {
-    font-size: 1em;
-    line-height: 3;
-    font-weight: 700;
 }
 
 .one-line {

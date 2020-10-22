@@ -10,11 +10,11 @@ an **online seminar series** made by students, for students, where everyone is i
 
 ## <i class="fas fa-fw fa-chalkboard-teacher"></i>&nbsp; About the Seminar
 
-We meet [**Wednesdays**](/faq/#when-do-we-meet) on a weekly basis to talk about interesting work in NLP and related areas. The presenters are **students**, who will talk about their **own work** (both ongoing and already published). 
+We meet [**Wednesdays**](/faq/#when-do-we-meet) on a weekly basis to talk about interesting work in NLP and related areas. The presenters are [**students**](/faq/#who-are-our-speakers), who will talk about their **own work** (both ongoing and already published). 
 
 The idea for this setting is to be a supportive and engaging environment for students to present their work and discuss work with other students and researchers around the world. 
 Following each talk (or during, if the presenter allows) there will be time to ask questions, discuss relevant topics, and wonder about what's next.
-We expect everyone to follow our [code of conduct](/code-of-conduct) to make this a respectful forum.
+We expect everyone to follow our [**code of conduct**](/code-of-conduct) to make this a respectful forum.
 The official language of the seminar is English.
 
 We hope this format will foster greater kinship between students around the globe, provide students greater access to seminars and experience presenting, create a judgement-free forum in which to ask questions, and give us all a chance to learn from each other -- both successes and failures!
