@@ -216,12 +216,15 @@ Su Lin Blodgett:
 Paul Michel:
   home   : "/speakers/paul-michel"
   name   : "Paul Michel"
-  avatar : "/assets/images/placeholders/placeholder3.png"
-  bio    : "Talk title TBD!"
+  avatar : "/assets/images/speakers/paul-michel.jpg"
+  bio    : "Modeling the Second Player in Distributionally Robust Optimization"
   links:
     - label: "Nov 4, 2020"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20201104T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://www.cs.cmu.edu/~pmichel1/"
