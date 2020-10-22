@@ -178,7 +178,6 @@ Mor Geva:
 
 
 Naomi Saphra:
-  next   : yes
   home   : "/speakers/naomi-saphra"
   name   : "Naomi Saphra"
   avatar : "/assets/images/speakers/naomi-saphra.png"
@@ -197,10 +196,12 @@ Naomi Saphra:
 
 
 Su Lin Blodgett:
+  next   : yes
   home   : "/speakers/su-lin-blodgett"
   name   : "Su Lin Blodgett"
   avatar : "/assets/images/speakers/su-lin-blodgett.jpg"
   bio    : "Language and Justice: A Collection of Thoughts on the Social Implications of Language Technologies"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-su-lin-blodgett-tickets-126301875309"
   links:
     - label: "Oct 28, 2020"
       icon: "far fa-fw fa-calendar-alt"
