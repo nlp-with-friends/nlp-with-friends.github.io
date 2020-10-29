@@ -196,7 +196,6 @@ Naomi Saphra:
 
 
 Su Lin Blodgett:
-  next   : yes
   home   : "/speakers/su-lin-blodgett"
   name   : "Su Lin Blodgett"
   avatar : "/assets/images/speakers/su-lin-blodgett.jpg"
@@ -215,10 +214,12 @@ Su Lin Blodgett:
 
 
 Paul Michel:
+  next   : yes
   home   : "/speakers/paul-michel"
   name   : "Paul Michel"
   avatar : "/assets/images/speakers/paul-michel.jpg"
   bio    : "Modeling the Second Player in Distributionally Robust Optimization"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-paul-michel-tickets-127315458965"
   links:
     - label: "Nov 4, 2020"
       icon: "far fa-fw fa-calendar-alt"
