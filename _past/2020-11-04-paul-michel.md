@@ -18,3 +18,6 @@ Distributionally robust optimization (DRO) provides a framework for training mac
 <hr>
 
 **Paul** is a 5th year PhD student at Carnegie Mellon University. He works on training NLP models in the face of distributional shift.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=JuZbEYtkyMg&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}
