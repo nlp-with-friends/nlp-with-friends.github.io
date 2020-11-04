@@ -18,3 +18,6 @@ When people ask why a neural network is so effective at solving some task, some 
 <hr>
 
 **Naomi Saphra** is a PhD student at University of Edinburgh, studying the emergence of linguistic structure during neural network training: the intersection of linguistics, interpretability, formal grammars, and optimization. They have a surprising number of awards and honors, but all are related to an accident of nature that has limited their ability to type and write. They have been called "the Bill Hicks of radical AI-critical comedy" exactly once.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=R0d_XC_NYb4&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}
