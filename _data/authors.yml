@@ -214,7 +214,6 @@ Su Lin Blodgett:
 
 
 Paul Michel:
-  next   : yes
   home   : "/speakers/paul-michel"
   name   : "Paul Michel"
   avatar : "/assets/images/speakers/paul-michel.jpg"
@@ -233,10 +232,12 @@ Paul Michel:
 
 
 Pratik Joshi and Sebastin Santy:
+  next   : yes
   home   : "/speakers/pratik-sebastin"
   name   : "Pratik Joshi and Sebastin Santy"
   avatar : "/assets/images/speakers/pratik-sebastin.png"
   bio    : "The State and Fate of Linguistic Diversity and Inclusion in the NLP World"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friendpratik-joshi-and-sebastin-santy-tickets-128244834753"
   links:
     - label: "Nov 11, 2020"
       icon: "far fa-fw fa-calendar-alt"
