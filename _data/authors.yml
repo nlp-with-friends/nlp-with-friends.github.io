@@ -232,7 +232,6 @@ Paul Michel:
 
 
 Pratik Joshi and Sebastin Santy:
-  next   : yes
   home   : "/speakers/pratik-sebastin"
   name   : "Pratik Joshi and Sebastin Santy"
   avatar : "/assets/images/speakers/pratik-sebastin.png"
@@ -254,10 +253,12 @@ Pratik Joshi and Sebastin Santy:
 
 
 Fernando Alva Manchego:
+  next   : yes
   home   : "/speakers/fernando-alva-manchego"
   name   : "Fernando Alva Manchego"
   avatar : "/assets/images/speakers/fernando-alva-manchego.png"
   bio    : "Challenges in Automatic Evaluation of Text Simplification"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-fernando-alva-manchego-tickets-129022452629"
   links:
     - label: "Nov 25, 2020"
       icon: "far fa-fw fa-calendar-alt"

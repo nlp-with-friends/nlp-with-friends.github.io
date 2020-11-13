@@ -24,4 +24,5 @@ Finally, we’ll wrap up with some ways we think this disparity can be reduced, 
 **Sebastin** is an AI Center Fellow at Microsoft Research India. His work includes on building tools/interfaces to increase access around language technologies. He has also worked on analyses of challenges revolving around low resource languages.
 
 #### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=UJwJd0mJ1SQ&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}
 <i class="fas fa-fw fa-newspaper"></i> [ACL2020 Paper](https://www.aclweb.org/anthology/2020.acl-main.560.pdf){:target="_blank"}  

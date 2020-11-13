@@ -77,7 +77,7 @@ analytics:
     anonymize_ip         : true
 
 # Default Site 'Author' (next speaker)
-author: Pratik Joshi and Sebastin Santy
+author: Fernando Alva Manchego
 
 footer:
   links:
