@@ -268,3 +268,29 @@ Fernando Alva Manchego:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://feralvam.github.io/"
+
+
+Nils Rethmeier:
+  name   : "Nils Rethmeier"
+  avatar : "/assets/images/placeholders/placeholder1.png"
+  bio    : "Talk Title TBD"
+  links:
+    - label: "Dec 02, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://twitter.com/nils_rethmeier"
+
+
+Hirofumi Inaguma:
+  name   : "Hirofumi Inaguma"
+  avatar : "/assets/images/placeholders/placeholder2.png"
+  bio    : "Talk Title TBD"
+  links:
+    - label: "Dec 09, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://hirofumi0810.github.io/"
