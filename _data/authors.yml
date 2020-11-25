@@ -275,7 +275,7 @@ Nils Rethmeier:
   name   : "Nils Rethmeier"
   avatar : "/assets/images/speakers/nils_rethmeier.png"
   bio    : "Learning, evaluating and explaining transferable text representations from grumpy ~~Big~~ Small Data."
-  eventbrite : "Nils is a 2nd year PhD student at Copenhagen University and the German Research Center for AI (DFKI) in Berlin. His research interests are self-supervised representations, low-resource learning, XAI, generalization, (continual) transfer learning and medical AI."
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nils-rethmeier-tickets-130596039269"
   links:
     - label: "Dec 02, 2020"
       icon: "far fa-fw fa-calendar-alt"
