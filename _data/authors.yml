@@ -253,7 +253,6 @@ Pratik Joshi and Sebastin Santy:
 
 
 Fernando Alva Manchego:
-  next   : yes
   home   : "/speakers/fernando-alva-manchego"
   name   : "Fernando Alva Manchego"
   avatar : "/assets/images/speakers/fernando-alva-manchego.png"
@@ -272,16 +271,18 @@ Fernando Alva Manchego:
 
 
 Nils Rethmeier:
+  next   : yes
   name   : "Nils Rethmeier"
   avatar : "/assets/images/speakers/nils_rethmeier.png"
   bio    : "Learning, evaluating and explaining transferable text representations from grumpy ~~Big~~ Small Data."
+  eventbrite : ""
   links:
     - label: "Dec 02, 2020"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
     - label: "14:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20201125T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20201202T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://twitter.com/nils_rethmeier"
