@@ -1,6 +1,6 @@
 ---
 permalink: /speakers/nils-rethmeier
-title: "Learning, evaluating and explaining transferable text representations from grumpy Big Small Data."
+title: "Learning, evaluating and explaining transferable text representations from grumpy ~~Big~~ Small Data."
 speaker: Nils Rethmeier
 author: Nils Rethmeier
 date: Dec 02, 2020
