@@ -5,7 +5,7 @@ speaker: Nils Rethmeier
 author: Nils Rethmeier
 date: Dec 02, 2020
 time: 14:00 UTC
-timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20201125T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20201202T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
 read_time: true
 layout: single
 author_profile: true
