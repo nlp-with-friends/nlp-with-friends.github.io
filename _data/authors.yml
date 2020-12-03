@@ -271,7 +271,6 @@ Fernando Alva Manchego:
 
 
 Nils Rethmeier:
-  next   : yes
   name   : "Nils Rethmeier"
   avatar : "/assets/images/speakers/nils_rethmeier.png"
   bio    : "Learning, evaluating and explaining transferable text representations from grumpy ~~Big~~ Small Data."
@@ -289,9 +288,11 @@ Nils Rethmeier:
 
 
 Hirofumi Inaguma:
+  next   : yes
   name   : "Hirofumi Inaguma"
   avatar : "/assets/images/speakers/hirofumi_inaguma.jpeg"
   bio    : "Toward low-latency and accurate simultaneous interpretations from speech"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-hirofumi-inaguma-tickets-131472903995"
   links:
     - label: "Dec 09, 2020"
       icon: "far fa-fw fa-calendar-alt"
