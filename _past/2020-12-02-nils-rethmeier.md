@@ -18,3 +18,7 @@ Modern NLP heavily relies on Big Data pretraining for self-supervised to supervi
 <hr>
 
 **Nils** is a 2nd year PhD student at Copenhagen University and the German Research Center for AI (DFKI) in Berlin. His research interests are self-supervised representations, low-resource learning, XAI, generalization, (continual) transfer learning and medical AI.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk](https://www.youtube.com/watch?v=dFCJ6KWTN2U){:target="_blank"}
+<i class="fas fa-fw fa-file-pdf"></i> [Slides](https://drive.google.com/file/d/1-oL46NM5EZBjMPdFb0h5U40JKgcFSIcW/view?usp=sharing){:target="_blank"}
