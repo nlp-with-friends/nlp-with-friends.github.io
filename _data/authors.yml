@@ -1,5 +1,11 @@
 # /_data/authors.yml
 
+Coming Soon:
+  next   : yes
+  name   : "Announcement Coming Soon!"
+  avatar : "/assets/images/placeholders/question-mark.jpg"
+
+
 J.R.R. Tolkien:
   name   : "J.R.R. Tolkien"
   avatar : "https://i.pinimg.com/564x/85/00/cd/8500cd0938a00f2183996cdc9ce1134e.jpg"
@@ -288,7 +294,6 @@ Nils Rethmeier:
 
 
 Hirofumi Inaguma:
-  next   : yes
   name   : "Hirofumi Inaguma"
   avatar : "/assets/images/speakers/hirofumi_inaguma.jpeg"
   bio    : "Toward low-latency and accurate simultaneous interpretations from speech"

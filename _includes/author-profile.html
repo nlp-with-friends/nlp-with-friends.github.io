@@ -7,9 +7,11 @@
     <div class="next-talk">
       <a href="{{ author.home | relative_url }}">
         <h3 class="next__talk">Next Talk:</h3>
-        <h3 class="talk__title">
-          <i class='fas fa-xs fa-quote-left'></i>&nbsp;{{ author.bio | markdownify | remove: "<p>" | remove: "</p>" }} <i class='fas fa-xs fa-quote-right'></i>
-        </h3>
+        {% if author.bio %}
+          <h3 class="talk__title">
+            <i class='fas fa-xs fa-quote-left'></i>&nbsp;{{ author.bio | markdownify | remove: "<p>" | remove: "</p>" }} <i class='fas fa-xs fa-quote-right'></i>
+          </h3>
+        {% endif %}
       </a>
     </div>
   {% endif %}
@@ -259,8 +261,10 @@
   </div>
 
   {% if author.next %}
-    <a href="{{ author.eventbrite }}" class="btn btn--primary register" target="_blank">
-      Register for Talk Link!
-    </a>
+    {% if author.eventbrite %}
+      <a href="{{ author.eventbrite }}" class="btn btn--primary register" target="_blank">
+        Register for Talk Link!
+      </a>
+    {% endif %}
   {% endif %}  
 </div>

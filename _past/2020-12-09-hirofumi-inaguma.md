@@ -26,3 +26,7 @@ Moreover, I’ll introduce recent efforts toward low-latency and accurate end-to
 <hr>
 
 **Hirofumi Inaguma** is a PhD student at Kyoto University, advised by Tatsuya Kawahara. He works on automatic speech recognition (ASR) and speech translation. He is one of the main contributors to ESPnet.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=WFTeE_93-wE&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}  
+<i class="fas fa-fw fa-file-pdf"></i> [Talk Slides](https://hirofumi0810.github.io/materials/slide/20201209_NLP_friends_inaguma.pdf){:target="_blank"}  
