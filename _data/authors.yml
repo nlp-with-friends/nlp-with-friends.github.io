@@ -1,9 +1,10 @@
 # /_data/authors.yml
 
-Coming Soon:
+Nominations:
   next   : yes
-  name   : "Announcement Coming Soon!"
+  name   : "<b>Nominate Speakers <br> for 2021</b>"
   avatar : "/assets/images/placeholders/question-mark.jpg"
+  form   : "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAADY16ZhUN0hWR0JVSFJQUkdVVEZGQUNCVlFIT0E2RC4u"
 
 
 J.R.R. Tolkien:

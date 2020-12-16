@@ -13,6 +13,11 @@
           </h3>
         {% endif %}
       </a>
+      {% if author.form %}
+      <h3 class="nomination__title">
+        We want to hear from you! <i class="far fa-paper-plane"></i>
+      </h3>
+      {% endif %}  
     </div>
   {% endif %}
 
@@ -30,7 +35,7 @@
 
   <div class="author__content">
     {% if author.home %}
-      <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
+      <a href="{{ author__link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
     {% else %}
       <div class="author__name" itemprop="name">{{ author.name }}</div>
     {% endif %}
@@ -260,10 +265,16 @@
   
   </div>
 
+  
   {% if author.next %}
     {% if author.eventbrite %}
       <a href="{{ author.eventbrite }}" class="btn btn--primary register" target="_blank">
         Register for Talk Link!
+      </a>
+    {% endif %}
+    {% if author.form %}
+      <a href="{{ author.form }}" class="btn btn--primary register" target="_blank">
+        Submit a Nomination!
       </a>
     {% endif %}
   {% endif %}  
