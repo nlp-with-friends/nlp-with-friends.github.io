@@ -1,7 +1,6 @@
 # /_data/authors.yml
 
 Nominations:
-  next   : yes
   name   : "<b>Nominate Speakers <br> for 2021</b>"
   avatar : "/assets/images/placeholders/question-mark.jpg"
   form   : "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAADY16ZhUN0hWR0JVSFJQUkdVVEZGQUNCVlFIT0E2RC4u"
@@ -309,3 +308,73 @@ Hirofumi Inaguma:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://hirofumi0810.github.io/"
+
+
+Yova Kementchedjhieva:
+  next   : yes
+  name   : "Yova Kementchedjhieva"
+  avatar : "/assets/images/placeholders/placeholder1.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "Jan 20, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210120T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://yovakem.github.io/"
+
+
+Clara Meister:
+  name   : "Clara Meister"
+  avatar : "/assets/images/placeholders/placeholder2.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "Feb 03, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210303T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://cimeister.github.io/"
+
+
+Sarah Wiegreffe:
+  name   : "Sarah Wiegreffe"
+  avatar : "/assets/images/placeholders/placeholder3.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "Mar 17, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210317T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Speaker TBD:
+  name   : "Speaker TBD"
+  avatar : "/assets/images/placeholders/placeholder4.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "Apr 14, 2020"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210414T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
