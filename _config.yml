@@ -87,7 +87,11 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/NLPwithFriends"
-    
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/channel/UCspapbPlDQn1Tc7Pym2KMTw/videos"
+
+
 defaults:
   # _posts
   - scope:
