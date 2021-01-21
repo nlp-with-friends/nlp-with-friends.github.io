@@ -1,0 +1,131 @@
+Related work:
+
+@inproceedings{ettinger2018assessing,
+	title="Assessing Composition in Sentence Vector Representations.",
+	author="Allyson {Ettinger} and Ahmed {Elgohary} and Colin {Phillips} and Philip {Resnik}",
+	booktitle="Proceedings of the 27th International Conference on Computational Linguistics",
+	pages="1790--1801",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2963025830",
+	year="2018"
+}
+
+305 English verbs with IC bias:
+
+@article{ferstl2011implicit,
+  title={Implicit causality bias in {English}: A corpus of 300 verbs},
+  author={Ferstl, Evelyn C and Garnham, Alan and Manouilidou, Christina},
+  journal={Behavior Research Methods},
+  volume={43},
+  number={1},
+  pages={124--135},
+  year={2011},
+  publisher={Springer}
+}
+
+100 Spanish verbs with IC bias:
+
+@article{goikoetxea2008normative,
+  title={Normative study of the implicit causality of 100 interpersonal verbs in {Spanish}},
+  author={Goikoetxea, Edurne and Pascual, Gema and Acha, Joana},
+  journal={Behavior Research Methods},
+  volume={40},
+  number={3},
+  pages={760--772},
+  year={2008},
+  publisher={Springer}
+}
+
+100 German verbs with IC bias:
+Unpublished, contact Emiel van den Hoven <emiel.vandenhoven@uni-potsdam.de>
+
+
+128 sentences with congruent and incongruent bias:
+
+@article{garnham1996locus,
+  title={The locus of implicit causality effects in comprehension},
+  author={Garnham, Alan and Traxler, Matthew and Oakhill, Jane and Gernsbacher, Morton Ann},
+  journal={Journal of memory and language},
+  volume={35},
+  number={4},
+  pages={517--543},
+  year={1996},
+  publisher={Elsevier}
+}
+
+Nonce words:
+
+@article{CUSKLEY2015205,
+title = "The adoption of linguistic rules in native and non-native speakers: Evidence from a Wug task",
+journal = "Journal of Memory and Language",
+volume = "84",
+pages = "205 - 223",
+year = "2015",
+issn = "0749-596X",
+doi = "https://doi.org/10.1016/j.jml.2015.06.005",
+url = "http://www.sciencedirect.com/science/article/pii/S0749596X15000790",
+author = "Christine Cuskley and Francesca Colaiori and Claudio Castellano and Vittorio Loreto and Martina Pugliese and Francesca Tria",
+keywords = "Language evolution, Regularity, Morphology, Sociolinguistics",
+abstract = "Several recent theories have suggested that an increase in the number of non-native speakers in a language can lead to changes in morphological rules. We examine this experimentally by contrasting the performance of native and non-native English speakers in a simple Wug-task, showing that non-native speakers are significantly more likely to provide non -ed (i.e., irregular) past-tense forms for novel verbs than native speakers. Both groups are sensitive to sound similarities between new words and existing words (i.e., are more likely to provide irregular forms for novel words which sound similar to existing irregulars). Among both natives and non-natives, irregularizations are non-random; that is, rather than presenting as truly irregular inflectional strategies, they follow identifiable sub-rules present in the highly frequent set of irregular English verbs. Our results shed new light on how native and non-native learners can affect language structure."
+}
+
+@article{bangert2012reaching,
+  title={Reaching for words and nonwords: Interactive effects of word frequency and stimulus quality on the characteristics of reaching movements},
+  author={Bangert, Ashley S and Abrams, Richard A and Balota, David A},
+  journal={Psychonomic bulletin \& review},
+  volume={19},
+  number={3},
+  pages={513--520},
+  year={2012},
+  publisher={Springer}
+}
+
+On the sensitivity of models to choice of proper nouns:
+
+@inproceedings{abdou-etal-2020-sensitivity,
+    title = "The Sensitivity of Language Models and Humans to {W}inograd Schema Perturbations",
+    author = "Abdou, Mostafa  and
+      Ravishankar, Vinit  and
+      Barrett, Maria  and
+      Belinkov, Yonatan  and
+      Elliott, Desmond  and
+      S{\o}gaard, Anders",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-main.679",
+    doi = "10.18653/v1/2020.acl-main.679",
+    pages = "7590--7604",
+}
+
+LMs:
+
+@misc{radford2019language,
+  title={Language models are unsupervised multitask learners},
+  author={Radford, Alec and Wu, Jeffrey and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya},
+  year=2019
+}
+
+@inproceedings{devlin2018bert,
+    title = "{BERT}: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    author = "Devlin, Jacob  and
+      Chang, Ming-Wei  and
+      Lee, Kenton  and
+      Toutanova, Kristina",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/N19-1423",
+    doi = "10.18653/v1/N19-1423",
+    pages = "4171--4186"
+}
+
+@inproceedings{clark2019electra,
+  title={{ELECTRA}: Pre-training Text Encoders as Discriminators Rather Than Generators},
+  author={Clark, Kevin and Luong, Minh-Thang and Le, Quoc V and Manning, Christopher D},
+  booktitle={International Conference on Learning Representations},
+  year={2020}
+}
