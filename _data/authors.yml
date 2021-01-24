@@ -311,7 +311,6 @@ Hirofumi Inaguma:
 
 
 Yova Kementchedjhieva:
-  next   : yes
   name   : "Yova Kementchedjhieva"
   avatar : "/assets/images/speakers/yova.jpg"
   bio    : "John praised Mary because he? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs"
@@ -329,10 +328,11 @@ Yova Kementchedjhieva:
 
 
 Clara Meister:
+  next   : yes
   name   : "Clara Meister"
   avatar : "/assets/images/speakers/clara_meister.jpg"
   bio    : "If Beam Search is the Answer, what was the Question?"
-  eventbrite : ""
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-clara-meister-tickets-138150438681"
   links:
     - label: "Feb 03, 2021"
       icon: "far fa-fw fa-calendar-alt"
