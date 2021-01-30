@@ -1,6 +1,7 @@
 ---
 permalink: /speakers/yova-kementchedjhieva
-title: "John praised Mary because he? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs"
+#title: "John praised Mary because he? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs"
+title: "ELECTRA annoyed BERT because she understood implicit causality bias"
 speaker: Yova Kementchedjhieva
 author: Yova Kementchedjhieva
 date: Jan 20, 2021
