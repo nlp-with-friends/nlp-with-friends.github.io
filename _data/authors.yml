@@ -362,9 +362,60 @@ Sarah Wiegreffe:
       url: ""
 
 
+Mathias Müller:
+  name   : "Mathias Müller"
+  avatar : "/assets/images/placeholders/placeholder4.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "Mar 3, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "17:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210303T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Sian Gooding:
+  name   : "Sian Gooding"
+  avatar : "/assets/images/placeholders/placeholder1.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "Mar 17, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210317T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
 Speaker TBD:
   name   : "Speaker TBD"
-  avatar : "/assets/images/placeholders/placeholder4.png"
+  avatar : "/assets/images/placeholders/placeholder2.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "Mar 31, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210414T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Lieke Gelderloos:
+  name   : "Lieke Gelderloos"
+  avatar : "/assets/images/placeholders/placeholder3.png"
   bio    : "Title TBD"
   eventbrite : ""
   links:
@@ -374,6 +425,23 @@ Speaker TBD:
     - label: "14:00 UTC"
       icon: "far fa-fw fa-clock"
       url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210414T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Speaker TBD:
+  name   : "Speaker TBD"
+  avatar : "/assets/images/placeholders/placeholder2.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "Apr 28, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210428T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: ""

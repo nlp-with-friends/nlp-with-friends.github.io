@@ -1,8 +1,8 @@
 ---
-permalink: /speakers/first-last-apr14
+permalink: /speakers/lieke-gelderloos
 title: "Title TBD"
-speaker: Speaker TBD
-author: Speaker TBD
+speaker: Lieke Gelderloos
+author: Lieke Gelderloos
 date: Apr 14, 2021
 time: 14:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20210414T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
@@ -16,5 +16,3 @@ author_profile: true
 Abstract coming soon!
 
 <hr>
-
-**Speaker** is to be announced soon.

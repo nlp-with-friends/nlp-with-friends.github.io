@@ -1,8 +1,8 @@
 ---
-permalink: /speakers/first-last-mar17
+permalink: /speakers/sian-gooding
 title: "Title TBD"
-speaker: Speaker TBD
-author: Speaker TBD
+speaker: Sian Gooding
+author: Sian Gooding
 date: Mar 17, 2021
 time: 14:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20210317T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
@@ -16,5 +16,3 @@ author_profile: true
 Abstract coming soon!
 
 <hr>
-
-**Speaker** is to be announced soon.
