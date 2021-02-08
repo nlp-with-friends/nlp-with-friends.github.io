@@ -22,3 +22,4 @@ Quite surprisingly, exact maximum a posteriori (MAP) decoding of neural language
 #### Presentation Materials
 <i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=5cyY2XoH_Jk&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=14){:target="_blank"}  
 <i class="fas fa-fw fa-newspaper"></i> [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.170/){:target="_blank"}  
+<i class="fas fa-fw fa-file-pdf"></i> [Slides](https://drive.google.com/file/d/1JfQWAKGLAEBs32fLifZxx58wgMKn3dK9/view){:target="_blank"}  
