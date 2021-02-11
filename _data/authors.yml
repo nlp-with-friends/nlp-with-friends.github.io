@@ -328,7 +328,6 @@ Yova Kementchedjhieva:
 
 
 Clara Meister:
-  next   : yes
   name   : "Clara Meister"
   avatar : "/assets/images/speakers/clara_meister.jpg"
   bio    : "If Beam Search is the Answer, what was the Question?"
@@ -346,10 +345,11 @@ Clara Meister:
 
 
 Sarah Wiegreffe:
+  next   : yes
   name   : "Sarah Wiegreffe"
-  avatar : "/assets/images/placeholders/placeholder3.png"
-  bio    : "Title TBD"
-  eventbrite : ""
+  avatar : "/assets/images/speakers/sarah_wiegreffe.jpg"
+  bio    : "Measuring Association Between Labels and Free-Text Rationales"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-sarah-wiegreffe-tickets-141248603375"
   links:
     - label: "Feb 17, 2021"
       icon: "far fa-fw fa-calendar-alt"
@@ -359,7 +359,7 @@ Sarah Wiegreffe:
       url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210217T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://sarahwie.github.io/"
 
 
 Mathias Müller:
