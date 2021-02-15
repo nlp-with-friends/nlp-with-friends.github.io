@@ -364,8 +364,8 @@ Sarah Wiegreffe:
 
 Mathias Müller:
   name   : "Mathias Müller"
-  avatar : "/assets/images/placeholders/placeholder4.png"
-  bio    : "Title TBD"
+  avatar : "/assets/images/speakers/mathias_mueller.png"
+  bio    : "Achieving Genuine Progress in Machine Translation"
   eventbrite : ""
   links:
     - label: "Mar 3, 2021"
@@ -376,7 +376,7 @@ Mathias Müller:
       url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210303T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://bricksdont.github.io/"
 
 
 Sian Gooding:
