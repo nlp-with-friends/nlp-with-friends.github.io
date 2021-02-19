@@ -345,7 +345,6 @@ Clara Meister:
 
 
 Sarah Wiegreffe:
-  next   : yes
   name   : "Sarah Wiegreffe"
   avatar : "/assets/images/speakers/sarah_wiegreffe.jpg"
   bio    : "Measuring Association Between Labels and Free-Text Rationales"
@@ -363,6 +362,7 @@ Sarah Wiegreffe:
 
 
 Mathias Müller:
+  next   : yes
   name   : "Mathias Müller"
   avatar : "/assets/images/speakers/mathias_mueller.png"
   bio    : "Achieving Genuine Progress in Machine Translation"

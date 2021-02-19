@@ -77,7 +77,7 @@ analytics:
     anonymize_ip         : true
 
 # Default Site 'Author' (next speaker)
-author: Sarah Wiegreffe
+author: Mathias Müller
 
 footer:
   links:
