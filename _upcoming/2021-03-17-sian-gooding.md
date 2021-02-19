@@ -1,5 +1,5 @@
 ---
-permalink: /speakers/sian_gooding
+permalink: /speakers/sian-gooding
 title: "Textual Complexity is in the Eye of the Beholder"
 speaker: Sian Gooding
 author: Sian Gooding

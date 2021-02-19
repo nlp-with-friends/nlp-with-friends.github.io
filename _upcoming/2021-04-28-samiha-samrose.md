@@ -1,5 +1,5 @@
 ---
-permalink: /speakers/samiha-samrose-apr28
+permalink: /speakers/samiha-samrose
 title: "Title TBD"
 speaker: Samiha Samrose
 author: Samiha Samrose

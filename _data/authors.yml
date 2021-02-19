@@ -277,6 +277,7 @@ Fernando Alva Manchego:
 
 
 Nils Rethmeier:
+  home   : "/speakers/nils-rethmeier"
   name   : "Nils Rethmeier"
   avatar : "/assets/images/speakers/nils_rethmeier.png"
   bio    : "Learning, evaluating and explaining transferable text representations from grumpy ~~Big~~ Small Data."
@@ -294,6 +295,7 @@ Nils Rethmeier:
 
 
 Hirofumi Inaguma:
+  home   : "/speakers/hirofumi-inaguma"
   name   : "Hirofumi Inaguma"
   avatar : "/assets/images/speakers/hirofumi_inaguma.jpeg"
   bio    : "Toward low-latency and accurate simultaneous interpretations from speech"
@@ -311,6 +313,7 @@ Hirofumi Inaguma:
 
 
 Yova Kementchedjhieva:
+  home   : "/speakers/yova-kementchedjhieva"
   name   : "Yova Kementchedjhieva"
   avatar : "/assets/images/speakers/yova.jpg"
   bio    : "John praised Mary because he? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs"
@@ -328,6 +331,7 @@ Yova Kementchedjhieva:
 
 
 Clara Meister:
+  home   : "/speakers/clara-meister"
   name   : "Clara Meister"
   avatar : "/assets/images/speakers/clara_meister.jpg"
   bio    : "If Beam Search is the Answer, what was the Question?"
@@ -345,6 +349,7 @@ Clara Meister:
 
 
 Sarah Wiegreffe:
+  home   : "/speakers/sarah-wiegreffe"
   name   : "Sarah Wiegreffe"
   avatar : "/assets/images/speakers/sarah_wiegreffe.jpg"
   bio    : "Measuring Association Between Labels and Free-Text Rationales"
@@ -363,6 +368,7 @@ Sarah Wiegreffe:
 
 Mathias Müller:
   next   : yes
+  home   : "/speakers/mathias-muller"
   name   : "Mathias Müller"
   avatar : "/assets/images/speakers/mathias_mueller.png"
   bio    : "Achieving Genuine Progress in Machine Translation"
@@ -380,6 +386,7 @@ Mathias Müller:
 
 
 Sian Gooding:
+  home   : "/speakers/sian-gooding"
   name   : "Sian Gooding"
   avatar : "/assets/images/speakers/sian_gooding.png"
   bio    : "Title TBD"
@@ -397,6 +404,7 @@ Sian Gooding:
 
 
 Speaker TBD:
+  home   : "/speakers/first-last"
   name   : "Speaker TBD"
   avatar : "/assets/images/placeholders/placeholder2.png"
   bio    : "Title TBD"
@@ -414,6 +422,7 @@ Speaker TBD:
 
 
 Lieke Gelderloos:
+  home   : "/speakers/lieke-gelderloos"
   name   : "Lieke Gelderloos"
   avatar : "/assets/images/placeholders/placeholder3.png"
   bio    : "Title TBD"
@@ -431,6 +440,7 @@ Lieke Gelderloos:
 
 
 Samiha Samrose:
+  home   : "/speakers/samiha-samrose"
   name   : "Samiha Samrose"
   avatar : "/assets/images/placeholders/placeholder1.png"
   bio    : "Title TBD"
@@ -448,6 +458,7 @@ Samiha Samrose:
 
 
 Speaker TBD:
+  home   : "/speakers/first-last"
   name   : "Speaker TBD"
   avatar : "/assets/images/placeholders/placeholder2.png"
   bio    : "Title TBD"
