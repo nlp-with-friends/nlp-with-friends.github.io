@@ -381,7 +381,7 @@ Mathias Müller:
 
 Sian Gooding:
   name   : "Sian Gooding"
-  avatar : "/assets/images/placeholders/placeholder1.png"
+  avatar : "/assets/images/speakers/sian_gooding.png"
   bio    : "Title TBD"
   eventbrite : ""
   links:
@@ -430,18 +430,35 @@ Lieke Gelderloos:
       url: ""
 
 
-Speaker TBD:
-  name   : "Speaker TBD"
-  avatar : "/assets/images/placeholders/placeholder2.png"
+Samiha Samrose:
+  name   : "Samiha Samrose"
+  avatar : "/assets/images/placeholders/placeholder1.png"
   bio    : "Title TBD"
   eventbrite : ""
   links:
     - label: "Apr 28, 2021"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
+    - label: "17:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210428T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Speaker TBD:
+  name   : "Speaker TBD"
+  avatar : "/assets/images/placeholders/placeholder2.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "May 12, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
     - label: "14:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210428T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210512T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: ""
