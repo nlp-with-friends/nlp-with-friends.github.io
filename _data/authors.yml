@@ -366,7 +366,7 @@ Mathias Müller:
   name   : "Mathias Müller"
   avatar : "/assets/images/speakers/mathias_mueller.png"
   bio    : "Achieving Genuine Progress in Machine Translation"
-  eventbrite : ""
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-mathias-muller-tickets-142223158295"
   links:
     - label: "Mar 3, 2021"
       icon: "far fa-fw fa-calendar-alt"
