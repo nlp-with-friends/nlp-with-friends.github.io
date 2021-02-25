@@ -1,6 +1,6 @@
 ---
 permalink: /speakers/mathias-muller
-title: "Title TBD"
+title: "Achieving Genuine Progress in Machine Translation"
 speaker: Mathias Müller
 author: Mathias Müller
 date: Mar 03, 2021
@@ -11,8 +11,14 @@ layout: single
 author_profile: true
 ---
 
-<a href="https://lolmythesis.com/" class="one-line">...</a>
+<a href="https://lolmythesis.com/" class="one-line">Ever heard about inter-research group agreement? Neither have I.</a>
 
-Abstract coming soon!
+Conjecture: machine translation research is not advancing as smoothly as it could. There are hardly any incentives to prioritize genuine scientific progress.
+
+In this talk I will highlight what I believe to be the drivers of actual progress. In short, making results reproducible is paramount and the methodology must allow for meaningful conclusions to be drawn from those results.
+
+This will enable us to discuss what you, as a young and promising scientist, can do to bring about change.
 
 <hr>
+
+**Mathias** is a final-year PhD student at the University of Zurich. His strongest suit by far is that he likes to admit he is wrong.

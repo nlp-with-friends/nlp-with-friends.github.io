@@ -1,6 +1,6 @@
 ---
 permalink: /speakers/sian-gooding
-title: "Title TBD"
+title: "Textual Complexity is in the Eye of the Beholder"
 speaker: Sian Gooding
 author: Sian Gooding
 date: Mar 17, 2021
@@ -11,8 +11,10 @@ layout: single
 author_profile: true
 ---
 
-<a href="https://lolmythesis.com/" class="one-line">...</a>
+<a href="https://lolmythesis.com/" class="one-line">Talking about the importance of text simplification using complex academic language. </a>
 
-Abstract coming soon!
+The difficulty of a text is highly subjective, yet this factor is often neglected in text simplification and readability systems which use a “one-size-fits-all" approach. In this talk, I will discuss what contributes to text complexity, emphasising how this is dependent on the intended audience. Furthermore, I will present work showing how on-device reading strategies also differ based on a reader’s first language and proficiency.
+
 
 <hr>
+**Sian** is a PhD student at the University of Cambridge studying readability and text simplification. 
