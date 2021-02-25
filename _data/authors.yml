@@ -446,3 +446,18 @@ Speaker TBD:
       icon: "fas fa-fw fa-link"
       url: ""
 
+Ofir Press:
+  name   : "Ofir Press"
+  avatar : "/assets/images/speakers/ofir_press.jpg"
+  bio    : "Shortformer: Better Language Modeling using Shorter Inputs"
+  eventbrite : ""
+  links:
+    - label: "May 12, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "17:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210428T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ofir.io/"
