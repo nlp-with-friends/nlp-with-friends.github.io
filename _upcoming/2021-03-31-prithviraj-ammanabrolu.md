@@ -1,8 +1,8 @@
 ---
-permalink: /speakers/first-last-mar31
+permalink: /speakers/prithviraj-ammanabrolu
 title: "Title TBD"
-speaker: Speaker TBD
-author: Speaker TBD
+speaker: Prithviraj Ammanabrolu
+author: Prithviraj Ammanabrolu
 date: Mar 31, 2021
 time: 14:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20210331T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
@@ -17,4 +17,4 @@ Abstract coming soon!
 
 <hr>
 
-**Speaker** is to be announced soon.
+

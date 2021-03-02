@@ -403,9 +403,9 @@ Sian Gooding:
       url: ""
 
 
-Speaker TBD:
-  home   : "/speakers/first-last"
-  name   : "Speaker TBD"
+Prithviraj Ammanabrolu:
+  home   : "/speakers/prithviraj-ammanabrolu"
+  name   : "Prithviraj Ammanabrolu"
   avatar : "/assets/images/placeholders/placeholder2.png"
   bio    : "Title TBD"
   eventbrite : ""
@@ -457,23 +457,6 @@ Samiha Samrose:
       url: ""
 
 
-Speaker TBD:
-  home   : "/speakers/first-last"
-  name   : "Speaker TBD"
-  avatar : "/assets/images/placeholders/placeholder2.png"
-  bio    : "Title TBD"
-  eventbrite : ""
-  links:
-    - label: "May 12, 2021"
-      icon: "far fa-fw fa-calendar-alt"
-      url: "/calendar"
-    - label: "14:00 UTC"
-      icon: "far fa-fw fa-clock"
-      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210512T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: ""
-
 Ofir Press:
   name   : "Ofir Press"
   avatar : "/assets/images/speakers/ofir_press.jpg"
@@ -489,3 +472,21 @@ Ofir Press:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ofir.io/"
+
+
+Speaker TBD:
+  home   : "/speakers/first-last"
+  name   : "Speaker TBD"
+  avatar : "/assets/images/placeholders/placeholder2.png"
+  bio    : "Title TBD"
+  eventbrite : ""
+  links:
+    - label: "May 26, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210512T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
