@@ -367,7 +367,6 @@ Sarah Wiegreffe:
 
 
 Mathias Müller:
-  next   : yes
   home   : "/speakers/mathias-muller"
   name   : "Mathias Müller"
   avatar : "/assets/images/speakers/mathias_mueller.png"
@@ -386,6 +385,7 @@ Mathias Müller:
 
 
 Sian Gooding:
+  next   : yes
   home   : "/speakers/sian-gooding"
   name   : "Sian Gooding"
   avatar : "/assets/images/speakers/sian_gooding.png"
