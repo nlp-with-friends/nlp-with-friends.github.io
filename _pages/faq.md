@@ -4,7 +4,7 @@ title: "Frequently Asked Questions"
 ---
 
 ## When do we meet?
-Every week or two on Wednesdays for one hour. The speakers select one of three times: [8:00 am UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20200805T080000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152){:target="_blank"}, [14:00 am UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20200805T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152){:target="_blank"}, and [12:00 am UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20200806T000000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152){:target="_blank"}, to allow people from different places to be able to join and engage the discussion. Click on each time to see time zone conversions to your area (and note the possible dateline change -- for some time zones, it may be Thursday!). 
+Every two weeks on Wednesdays for one hour. The speakers select one of three times: [00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20210303T000000&p1=1440&p2=224&p3=179&p4=tz_gmt&p5=136&p6=268&p7=676&p8=33&p9=152){:target="_blank"}, [14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20210303T140000&p1=1440&p2=224&p3=179&p4=tz_gmt&p5=136&p6=268&p7=676&p8=33&p9=152){:target="_blank"}, and [17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20210303T170000&p1=1440&p2=224&p3=179&p4=tz_gmt&p5=136&p6=268&p7=676&p8=33&p9=152){:target="_blank"}, to allow people from different places to be able to join and engage in discussion. Click on each time to see time zone conversions to your area (and note the possible dateline change -- for some time zones, it may be Tuesday or Thursday!). 
 
 ## Where do we meet?
 On Zoom! In order to avoid [zoom-bombing](/assets/images/zoom-bomb.png), we will send the Zoom link through email.
@@ -13,7 +13,7 @@ Eventbrite registration links are listed in both the [talk descriptions](/upcomi
 To ensure Zoom capacity does not preclude anyone from participating (nor a late decision to join), we also live-stream talks on Youtube. 
 
 ## What does a talk look like? 
-Every talk will take place over one hour, though each speaker will decide how to balance talk and discussion during this time. Additional questions may be asked following the seminar for a brief period via the Disqus Q&A on the individual talk’s page, though the comments will be later disabled to allow the speaker to conclude their talk.
+Every talk will take place over one hour, though each speaker will decide how to balance talk and discussion during this time. 
 
 ## Who are our speakers?
 NLP with Friends is at its heart a student seminar, so all of our speakers are people working towards an academic degree (students affiliated with an academic institutions, predoctoral fellows or research interns) at the time of giving their talk. 
