@@ -22,3 +22,7 @@ This will enable us to discuss what you, as a young and promising scientist, can
 <hr>
 
 **Mathias** is a final-year PhD student at the University of Zurich. His strongest suit by far is that he likes to admit he is wrong.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=xptaEM4KAp8&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=15){:target="_blank"}
+<i class="fas fa-fw fa-file-pdf"></i> [Talk Slides](https://docs.google.com/presentation/d/1Jm9MzMnkCdItzlvr7yykgT2m9sl0S-sgsP40aP6xYnk/edit?usp=sharing){:target="_blank"}  
