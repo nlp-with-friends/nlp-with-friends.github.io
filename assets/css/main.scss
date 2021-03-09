@@ -263,3 +263,16 @@ html {
     padding: 3px 6px;
     text-decoration: none;
 }
+
+.page__footer-sponsors {
+    float: right;
+    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-size: 0.6875em;
+    color: $primary-color;
+}
+
+.page__footer-sponsors a {
+    font-size: 1.75em !important;
+    color: white !important;
+    font-weight: bold !important; 
+}
