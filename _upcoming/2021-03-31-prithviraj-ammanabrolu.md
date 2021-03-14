@@ -17,4 +17,4 @@ Natural language communication has long been considered a defining characteristi
 
 <hr>
 
-**Prithviraj**, or Raj, (http://prithvirajva.com) is a final year PhD Candidate in the School of Interactive Computing at Georgia Institute of Technology. He spends most of his time trying to mix language with stories, games, and reinforcement learning.
+**Prithviraj**, or Raj, is a final year PhD Candidate in the School of Interactive Computing at Georgia Institute of Technology. He spends most of his time trying to mix language with stories, games, and reinforcement learning.
