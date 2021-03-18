@@ -20,4 +20,6 @@ The difficulty of a text is highly subjective, yet this factor is often neglecte
 **Sian** is a PhD student at the University of Cambridge studying readability and text simplification. 
 
 #### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=6mBNeFpTI6Y&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=16){:target="_blank"}  
 <i class="fas fa-fw fa-file-pdf"></i> [Talk Slides](https://drive.google.com/file/d/1Hm_gne33Az_eKOykof9yi-gW2i3FXDR6/view?usp=sharing){:target="_blank"}  
+<i class="fab fa-slack"></i> [Text Simplification Slack](https://textsimplification.slack.com/join/shared_invite/zt-9vypl5uq-M7ViTMsnFyGkcuyw_zPOAQ#/){:target="_blank"}  
