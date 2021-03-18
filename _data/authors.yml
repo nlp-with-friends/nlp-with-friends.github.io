@@ -385,7 +385,6 @@ Mathias Müller:
 
 
 Sian Gooding:
-  next   : yes
   home   : "/speakers/sian-gooding"
   name   : "Sian Gooding"
   avatar : "/assets/images/speakers/sian_gooding.png"
@@ -404,6 +403,7 @@ Sian Gooding:
 
 
 Prithviraj Ammanabrolu:
+  next   : yes
   home   : "/speakers/prithviraj-ammanabrolu"
   name   : "Prithviraj Ammanabrolu"
   avatar : "/assets/images/speakers/prithviraj.jpg"
@@ -415,7 +415,7 @@ Prithviraj Ammanabrolu:
       url: "/calendar"
     - label: "17:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210414T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210317T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://prithvirajva.com"

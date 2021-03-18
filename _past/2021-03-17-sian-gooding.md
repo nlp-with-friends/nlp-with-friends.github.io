@@ -18,3 +18,6 @@ The difficulty of a text is highly subjective, yet this factor is often neglecte
 
 <hr>
 **Sian** is a PhD student at the University of Cambridge studying readability and text simplification. 
+
+#### Presentation Materials
+<i class="fas fa-fw fa-file-pdf"></i> [Talk Slides](https://drive.google.com/file/d/1Hm_gne33Az_eKOykof9yi-gW2i3FXDR6/view?usp=sharing){:target="_blank"}  
