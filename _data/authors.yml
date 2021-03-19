@@ -408,7 +408,7 @@ Prithviraj Ammanabrolu:
   name   : "Prithviraj Ammanabrolu"
   avatar : "/assets/images/speakers/prithviraj.jpg"
   bio    : "Language Learning in Interactive Environments"
-  eventbrite : ""
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-prithviraj-ammanabrolu-tickets-147033139077"
   links:
     - label: "Mar 31, 2021"
       icon: "far fa-fw fa-calendar-alt"
