@@ -1,6 +1,6 @@
 ---
 permalink: /speakers/lieke-gelderloos
-title: "Title TBD"
+title: "Active word learning through self-supervision"
 speaker: Lieke Gelderloos
 author: Lieke Gelderloos
 date: Apr 14, 2021
@@ -11,8 +11,10 @@ layout: single
 author_profile: true
 ---
 
-<a href="https://lolmythesis.com/" class="one-line">...</a>
+<a href="https://lolmythesis.com/" class="one-line">Learning goes faster when you're curious!</a>
 
-Abstract coming soon!
+Language learning children can actively participate in verbal and non-verbal communication, thereby shaping the input they receive from the environment. Children's curious nature may lead them to solicit input that fills a gap in their knowledge. However, computational models of word learning typically characterize the learner as a passive observer. In this talk, I will illustrate how active input selection affects the learning trajectory of a computational model that learns to map words to objects in images through word comprehension and production. The productive and receptive parts of the model can operate independently, but can also feed into each other. This introspective quality enables the model to learn through self-supervision, and to estimate its own word knowledge, which is the basis for curious selection of input. We find that learners that actively select their input learn faster and more robustly.
 
 <hr>
+
+**Lieke** is a PhD student at Tilburg University in the department of Cognitive Science and Artificial Intelligence. She works on computational models of processes in human language acquisition, particularly regarding grounding, and is also interested in analysing the language knowledge encoded in the  representations that arise in neural networks.

@@ -403,7 +403,6 @@ Sian Gooding:
 
 
 Prithviraj Ammanabrolu:
-  next   : yes
   home   : "/speakers/prithviraj-ammanabrolu"
   name   : "Prithviraj Ammanabrolu"
   avatar : "/assets/images/speakers/prithviraj.jpg"
@@ -422,11 +421,12 @@ Prithviraj Ammanabrolu:
 
 
 Lieke Gelderloos:
+  next   : yes
   home   : "/speakers/lieke-gelderloos"
   name   : "Lieke Gelderloos"
-  avatar : "/assets/images/placeholders/placeholder3.png"
-  bio    : "Title TBD"
-  eventbrite : ""
+  avatar : "/assets/images/speakers/lieke_gelderloos.jpeg"
+  bio    : "Active word learning through self-supervision"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-lieke-gelderloos-tickets-149770310029"
   links:
     - label: "Apr 14, 2021"
       icon: "far fa-fw fa-calendar-alt"
@@ -436,7 +436,7 @@ Lieke Gelderloos:
       url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210414T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://lgelderloos.github.io/"
 
 
 Samiha Samrose:
