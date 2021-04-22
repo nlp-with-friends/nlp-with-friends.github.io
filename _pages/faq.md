@@ -8,15 +8,18 @@ Every two weeks on Wednesdays for one hour. The speakers select one of three tim
 
 ## Where do we meet?
 On Zoom! In order to avoid [zoom-bombing](/assets/images/zoom-bomb.png), we will send the Zoom link through email.
-We ask that all participants register for talks through Eventbrite by 2 hours before the talk, and will receive the Zoom link in the confirmation email(s). 
-Eventbrite registration links are listed in both the [talk descriptions](/upcoming) and their [calendar events](/calendar).
+We use a [mailing list](/faq/#how-do-i-join-the-mailing-list) to announce all events and send the links for talks.
 To ensure Zoom capacity does not preclude anyone from participating (nor a late decision to join), we also live-stream talks on Youtube. 
+
+## How do I join the mailing list? 
+[Register here](https://lists.nlpwithfriends.com/mailman/listinfo/friends){:target="_blank"} or [send an email to subscribe](mailto:friends-join@lists.nlpwithfriends.com){:target="_blank"} (subject and body are discarded, all that matters is the mail-to email). 
+You should receive a confirmation email: simply click the link to confirm to be added!
 
 ## What does a talk look like? 
 Every talk will take place over one hour, though each speaker will decide how to balance talk and discussion during this time. 
 
 ## Who are our speakers?
-NLP with Friends is at its heart a student seminar, so all of our speakers are people working towards an academic degree (students affiliated with an academic institutions, predoctoral fellows or research interns) at the time of giving their talk. 
+NLP with Friends is at its heart a student seminar, so all of our speakers are people working towards an academic degree (students affiliated with an academic institution, predoctoral fellows or research interns) at the time of giving their talk. 
 
 ## Who’s speaking next?
 Check out our [upcoming speakers list](/upcoming)!

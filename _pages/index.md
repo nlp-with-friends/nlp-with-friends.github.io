@@ -10,7 +10,7 @@ an **online seminar series** made by students, for students, where everyone is i
 
 ## <i class="fas fa-fw fa-chalkboard-teacher"></i>&nbsp; About the Seminar
 
-We meet [**Wednesdays**](/faq/#when-do-we-meet) on a bi-weekly basis to talk about interesting work in NLP and related areas. The presenters are [**students**](/faq/#who-are-our-speakers), who will talk about their **own work** (both ongoing and already published). 
+We meet [**Wednesdays**](/faq/#when-do-we-meet) on a bi-weekly basis to talk about interesting work in NLP and related areas. The presenters are [**students**](/faq/#who-are-our-speakers), who will talk about their **own work** (both ongoing and already published). Links are distributed through our [**mailing list**](/faq/#how-do-i-join-the-mailing-list).
 
 The idea for this setting is to be a supportive and engaging environment for students to present their work and discuss work with other students and researchers around the world. 
 Following each talk (or during, if the presenter allows) there will be time to ask questions, discuss relevant topics, and wonder about what's next.
