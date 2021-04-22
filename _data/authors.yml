@@ -442,9 +442,9 @@ Tongshuang (Sherry) Wu:
   next   : yes
   home   : "/speakers/tongshuang-wu"
   name   : "Tongshuang (Sherry) Wu"
-  avatar : "/assets/images/placeholders/placeholder1.png"
-  bio    : "Title TBD"
-  eventbrite : ""
+  avatar : "/assets/images/sherry_wu.jpeg"
+  bio    : "Principles and Tools for Evaluating and Improving NLP Models"
+  eventbrite : "https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-tongshuang-sherry-wu-tickets-152031966705"
   links:
     - label: "Apr 28, 2021"
       icon: "far fa-fw fa-calendar-alt"
@@ -454,7 +454,8 @@ Tongshuang (Sherry) Wu:
       url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210428T000000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://homes.cs.washington.edu/~wtshuang/
+"
 
 
 Ofir Press:
