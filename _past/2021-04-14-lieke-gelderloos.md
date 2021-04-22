@@ -18,3 +18,6 @@ Language learning children can actively participate in verbal and non-verbal com
 <hr>
 
 **Lieke** is a PhD student at Tilburg University in the department of Cognitive Science and Artificial Intelligence. She works on computational models of processes in human language acquisition, particularly regarding grounding, and is also interested in analysing the language knowledge encoded in the  representations that arise in neural networks.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=wUHpVKVm6sA&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=19){:target="_blank"}
