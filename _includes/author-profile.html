@@ -271,10 +271,13 @@
       <a href="{{ author.eventbrite }}" class="btn btn--primary register" target="_blank">
         Register for Talk Link!
       </a>
-    {% endif %}
-    {% if author.form %}
+    {% elsif author.form %}
       <a href="{{ author.form }}" class="btn btn--primary register" target="_blank">
         Submit a Nomination!
+      </a>
+    {% else %}
+      <a href="https://nlpwithfriends.com/faq/#how-do-i-join-the-mailing-list" class="btn btn--primary register">
+        Register for Talk Link!
       </a>
     {% endif %}
   {% endif %}  

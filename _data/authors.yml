@@ -462,7 +462,6 @@ Ofir Press:
   name   : "Ofir Press"
   avatar : "/assets/images/speakers/ofir_press.jpg"
   bio    : "Shortformer: Better Language Modeling using Shorter Inputs"
-  eventbrite : ""
   links:
     - label: "May 12, 2021"
       icon: "far fa-fw fa-calendar-alt"
@@ -480,7 +479,6 @@ Speaker TBD:
   name   : "Speaker TBD"
   avatar : "/assets/images/placeholders/placeholder2.png"
   bio    : "Title TBD"
-  eventbrite : ""
   links:
     - label: "May 26, 2021"
       icon: "far fa-fw fa-calendar-alt"
