@@ -439,7 +439,6 @@ Lieke Gelderloos:
 
 
 Tongshuang (Sherry) Wu:
-  next   : yes
   home   : "/speakers/tongshuang-wu"
   name   : "Tongshuang (Sherry) Wu"
   avatar : "/assets/images/speakers/sherry_wu.jpeg"
@@ -459,6 +458,7 @@ Tongshuang (Sherry) Wu:
 
 
 Ofir Press:
+  next   : yes
   name   : "Ofir Press"
   avatar : "/assets/images/speakers/ofir_press.jpg"
   bio    : "Shortformer: Better Language Modeling using Shorter Inputs"
