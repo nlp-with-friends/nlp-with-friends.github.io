@@ -458,7 +458,6 @@ Tongshuang (Sherry) Wu:
 
 
 Ofir Press:
-  next   : yes
   name   : "Ofir Press"
   avatar : "/assets/images/speakers/ofir_press.jpg"
   bio    : "Shortformer: Better Language Modeling using Shorter Inputs"
@@ -474,18 +473,19 @@ Ofir Press:
       url: "https://ofir.io/"
 
 
-Speaker TBD:
-  home   : "/speakers/first-last"
-  name   : "Speaker TBD"
-  avatar : "/assets/images/placeholders/placeholder2.png"
-  bio    : "Title TBD"
+Zeerak Waseem:
+  next   : yes
+  home   : "/speakers/zee"
+  name   : "Zeerak Waseem"
+  avatar : "/assets/images/organizers/zee.jpg"
+  bio    : "It ain’t all good”: Machinic Abuse Detection and Marginalisation in Machine Learning"
   links:
-    - label: "May 26, 2021"
+    - label: "June 16, 2021"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
     - label: "14:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210512T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210616T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://twitter.com/ZeerakW"
