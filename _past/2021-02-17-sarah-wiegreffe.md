@@ -21,4 +21,4 @@ We demonstrate that pipelines, existing models for faithful extractive rationali
 **Sarah** is a PhD student at Georgia Tech, working on interpretable deep learning methods for NLP. In her free time (and not during a pandemic), she enjoys traveling, rock climbing, and rock music.
 
 #### Presentation Materials
-<i class="fas fa-fw fa-video"></i> [Talk](https://www.youtube.com/watch?v=1zNFaNuASuc){:target="_blank"}
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=1zNFaNuASuc&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}  

@@ -21,4 +21,4 @@ Online platforms are under increased pressure to moderate or remove hate speech 
 **Maarten Sap** is (almost) a 6th/final year PhD student in NLP at the University of Washington, working with Noah Smith and Yejin Choi. His work tackles social commonsense reasoning as well as social good/social justice applications of NLP.
 
 #### Presentation Materials
-<i class="fas fa-fw fa-video"></i> [Talk](https://www.youtube.com/watch?v=1bSk00tEpaM&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=2){:target="_blank"}  
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=1bSk00tEpaM&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=2){:target="_blank"}  

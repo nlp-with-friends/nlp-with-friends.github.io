@@ -20,4 +20,4 @@ Text Simplification consists of rewriting sentences to make them easier to read 
 **Fernando** is a Research Associate (a.k.a postdoc) at the University of Sheffield, working on Quality Estimation for Machine Translation. His research interests include Text Simplification and Evaluation of Natural Language Generation. Until recently, he was a PhD student working on Sentence Simplification with Multiple Transformations, under the supervision of Prof. Lucia Specia and Dr. Carolina Scarton in Sheffield.
 
 #### Presentation Materials
-<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=X6yKOedytpo&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=X6yKOedytpo&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}  

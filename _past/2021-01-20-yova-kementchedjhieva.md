@@ -21,6 +21,5 @@ Interpersonal verbs often implicitly attribute the cause for the action or chang
 
 **Yova** is a PhD fellow, soon to be PostDoc, at the CoAStaL NLP group (University of Copenhagen). Interested in multilinguality, low-resource training, language modeling and language itself. 
 
-<hr>
-
-Related work from the talk: [link](/assets/txt/yova-related-work.txt)
+#### Presentation Materials
+Related work from the talk: [link](/assets/txt/yova-related-work.txt)  

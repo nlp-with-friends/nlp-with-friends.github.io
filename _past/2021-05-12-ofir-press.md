@@ -21,3 +21,6 @@ Combining these techniques speeds training by a factor of 1.65, reduces memory u
 <hr>
 
 **Ofir** is a PhD student at the University of Washington advised by Noah Smith, working on better understanding the basic building blocks of neural NLP, so that we can make them faster, smaller and more accurate.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=lsJyvxO_27A&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=21){:target="_blank"}
