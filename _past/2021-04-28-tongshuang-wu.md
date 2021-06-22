@@ -19,3 +19,6 @@ While the accuracy of Natural Language Processing (NLP) models has been going up
 <hr>
 
 **Tongshuang Wu** is a fifth year PhD student at the University of Washington, co-advised by Jeffrey Heer and Daniel S. Weld. Her research focuses on helping humans more effectively and systematically evaluate and interact with their models through Human-Computer Interaction (HCI) and Natural Language Processing (NLP).
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://youtu.be/iiXOGSGuN6c&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=14){:target="_blank"}  

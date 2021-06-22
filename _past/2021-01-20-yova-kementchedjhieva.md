@@ -1,7 +1,6 @@
 ---
 permalink: /speakers/yova-kementchedjhieva
-#title: "John praised Mary because he? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs"
-title: "ELECTRA annoyed BERT because she understood implicit causality bias"
+title: "John praised Mary because he? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs"
 speaker: Yova Kementchedjhieva
 author: Yova Kementchedjhieva
 date: Jan 20, 2021
@@ -22,4 +21,5 @@ Interpersonal verbs often implicitly attribute the cause for the action or chang
 **Yova** is a PhD fellow, soon to be PostDoc, at the CoAStaL NLP group (University of Copenhagen). Interested in multilinguality, low-resource training, language modeling and language itself. 
 
 #### Presentation Materials
-Related work from the talk: [link](/assets/txt/yova-related-work.txt)  
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://youtu.be/zDLPZWEvWLg&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=14){:target="_blank"}  
+<i class="fas fa-link"></i> [Related Work from talk](/assets/txt/yova-related-work.txt){:target="_blank"}  
