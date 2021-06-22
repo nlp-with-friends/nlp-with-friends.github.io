@@ -1,9 +1,10 @@
 # /_data/authors.yml
 
 Nominations:
-  name   : "<b>Nominate Speakers <br> for 2021</b>"
+  next   : yes
+  name   : "<b>Nominate Speakers <br> for Fall 2021</b>"
   avatar : "/assets/images/placeholders/question-mark.jpg"
-  form   : "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAADY16ZhUN0hWR0JVSFJQUkdVVEZGQUNCVlFIT0E2RC4u"
+  form   : "https://forms.office.com/r/FWJGvnK6aZ"
 
 
 J.R.R. Tolkien:
@@ -474,7 +475,6 @@ Ofir Press:
 
 
 Zeerak Waseem:
-  next   : yes
   home   : "/speakers/zee"
   name   : "Zeerak Waseem"
   avatar : "/assets/images/organizers/zee.jpg"
