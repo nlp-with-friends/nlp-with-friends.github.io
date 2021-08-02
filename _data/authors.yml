@@ -1,7 +1,6 @@
 # /_data/authors.yml
 
 Nominations:
-  next   : yes
   name   : "<b>Nominate Speakers <br> for Fall 2021</b>"
   avatar : "/assets/images/placeholders/question-mark.jpg"
   form   : "https://forms.office.com/r/FWJGvnK6aZ"
@@ -489,3 +488,159 @@ Zeerak Waseem:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://twitter.com/ZeerakW"
+
+
+Roma Patel:
+  next   : yes
+  home   : "/speakers/roma-patel"
+  name   : "Roma Patel"
+  avatar : "/assets/images/placeholders/placeholder1.png"
+  bio    : "Title TBD"
+  links:
+    - label: "Aug 25, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "14:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210825T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://cs.brown.edu/people/rpatel59/"
+
+
+Sarah Phillips:
+  home   : "/speakers/sarah-phillips"
+  name   : "Sarah Phillips"
+  avatar : "/assets/images/placeholders/placeholder2.png"
+  bio    : "Title TBD"
+  links:
+    - label: "Sept 08, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Time TBD"
+      icon: "far fa-fw fa-clock"
+      url: ""
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Speaker TBA:
+  home   : "/speakers/speaker-tba"
+  name   : "Speaker TBA"
+  avatar : "/assets/images/placeholders/placeholder3.png"
+  bio    : "Title TBA"
+  links:
+    - label: "Sept 22, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Time TBA"
+      icon: "far fa-fw fa-clock"
+      url: ""
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Speaker TBA:
+  home   : "/speakers/speaker-tba"
+  name   : "Speaker TBA"
+  avatar : "/assets/images/placeholders/placeholder3.png"
+  bio    : "Title TBA"
+  links:
+    - label: "Oct 06, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Time TBA"
+      icon: "far fa-fw fa-clock"
+      url: ""
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Speaker TBA:
+  home   : "/speakers/speaker-tba"
+  name   : "Speaker TBA"
+  avatar : "/assets/images/placeholders/placeholder3.png"
+  bio    : "Title TBA"
+  links:
+    - label: "Oct 20, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Time TBA"
+      icon: "far fa-fw fa-clock"
+      url: ""
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Speaker TBA:
+  home   : "/speakers/speaker-tba"
+  name   : "Speaker TBA"
+  avatar : "/assets/images/placeholders/placeholder3.png"
+  bio    : "Title TBA"
+  links:
+    - label: "Nov 03, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Time TBA"
+      icon: "far fa-fw fa-clock"
+      url: ""
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Alane Suhr:
+  home   : "/speakers/alane-suhr"
+  name   : "Alane Suhr"
+  avatar : "/assets/images/placeholders/placeholder4.png"
+  bio    : "Title TBA"
+  links:
+    - label: "Nov 17, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Time TBA"
+      icon: "far fa-fw fa-clock"
+      url: ""
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Speaker TBA:
+  home   : "/speakers/speaker-tba"
+  name   : "Speaker TBA"
+  avatar : "/assets/images/placeholders/placeholder3.png"
+  bio    : "Title TBA"
+  links:
+    - label: "Dec 01, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Time TBA"
+      icon: "far fa-fw fa-clock"
+      url: ""
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
+Speaker TBA:
+  home   : "/speakers/speaker-tba"
+  name   : "Speaker TBA"
+  avatar : "/assets/images/placeholders/placeholder4.png"
+  bio    : "Title TBA"
+  links:
+    - label: "Dec 15, 2021"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "Time TBA"
+      icon: "far fa-fw fa-clock"
+      url: ""
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+
+
