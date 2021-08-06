@@ -1,6 +1,6 @@
 ---
 permalink: /speakers/zaid-alyafeai
-title: "Title TBD"
+title: "Fostering Research in Arabic NLP via Open Source Collaboration"
 speaker: Zaid Alyafeai
 author: Zaid Alyafeai
 date: Aug 25, 2021
@@ -11,7 +11,11 @@ layout: single
 author_profile: true
 ---
 
-<a href="https://lolmythesis.com/" class="one-line">...</a>
+<a href="https://lolmythesis.com/" class="one-line">Open source is all you need.</a>
 
-Abstract coming soon!
+Arabic is a challenging language with rich morphology. The complexity comes from the flexibility of Arabic writing which gave rise to many dialects across the Arabic region. Unfortunately, the amount of open-source research to tackle Arabic is lacking and it is mostly contained in academic papers. In this talk I focus on my journey of democratizing Arabic NLP to reach a wide range of audience. This led up to creating many open source research projects and tools that focused on revising the NLP pipeline for Arabic. It also resulted in cool results in other related modalities like speech and GANs.
+
+<hr>
+
+**Zaid** is a third-year PhD student in KFUPM in Saudi Arabia. He works on Arabic NLP with a focus on how to teach language models to learn morphology effectively. 
 

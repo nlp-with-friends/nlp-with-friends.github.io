@@ -494,8 +494,8 @@ Zaid Alyafeai:
   next   : yes
   home   : "/speakers/zaid-alyafeai"
   name   : "Zaid Alyafeai"
-  avatar : "/assets/images/placeholders/placeholder4.png"
-  bio    : "Title TBD"
+  avatar : "/assets/images/speakers/zaid.jpeg"
+  bio    : "Fostering Research in Arabic NLP via Open Source Collaboration"
   links:
     - label: "Aug 11, 2021"
       icon: "far fa-fw fa-calendar-alt"
@@ -505,7 +505,7 @@ Zaid Alyafeai:
       url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210811T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://zaidalyafeai.github.io/Blog/"
 
 
 Roma Patel:
