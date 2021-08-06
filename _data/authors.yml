@@ -542,9 +542,9 @@ Sarah Phillips:
       url: ""
 
 
-Speaker TBA:
-  home   : "/speakers/speaker-tba"
-  name   : "Speaker TBA"
+Saliha Muradoǧlu:
+  home   : "/speakers/saliha-muradoǧlu"
+  name   : "Saliha Muradoǧlu"
   avatar : "/assets/images/placeholders/placeholder3.png"
   bio    : "Title TBA"
   links:
@@ -559,10 +559,10 @@ Speaker TBA:
       url: ""
 
 
-Speaker TBA:
-  home   : "/speakers/speaker-tba"
-  name   : "Speaker TBA"
-  avatar : "/assets/images/placeholders/placeholder3.png"
+Gail Weiss:
+  home   : "/speakers/gail-weiss"
+  name   : "Gail Weiss"
+  avatar : "/assets/images/placeholders/placeholder4.png"
   bio    : "Title TBA"
   links:
     - label: "Oct 06, 2021"
@@ -576,10 +576,10 @@ Speaker TBA:
       url: ""
 
 
-Speaker TBA:
-  home   : "/speakers/speaker-tba"
-  name   : "Speaker TBA"
-  avatar : "/assets/images/placeholders/placeholder3.png"
+Eleftheria Briakou:
+  home   : "/speakers/eleftheria-briakou"
+  name   : "Eleftheria Briakou"
+  avatar : "/assets/images/placeholders/placeholder1.png"
   bio    : "Title TBA"
   links:
     - label: "Oct 20, 2021"
@@ -613,7 +613,7 @@ Speaker TBA:
 Alane Suhr:
   home   : "/speakers/alane-suhr"
   name   : "Alane Suhr"
-  avatar : "/assets/images/placeholders/placeholder4.png"
+  avatar : "/assets/images/placeholders/placeholder2.png"
   bio    : "Title TBA"
   links:
     - label: "Nov 17, 2021"
