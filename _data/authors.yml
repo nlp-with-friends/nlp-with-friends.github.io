@@ -511,8 +511,8 @@ Zaid Alyafeai:
 Roma Patel:
   home   : "/speakers/roma-patel"
   name   : "Roma Patel"
-  avatar : "/assets/images/placeholders/placeholder1.png"
-  bio    : "Title TBD"
+  avatar : "/assets/images/speakers/roma.jpeg"
+  bio    : "Teaching a Language Model to be Grounded: First Steps and Discoveries"
   links:
     - label: "Aug 25, 2021"
       icon: "far fa-fw fa-calendar-alt"
