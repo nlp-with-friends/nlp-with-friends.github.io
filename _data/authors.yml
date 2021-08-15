@@ -491,7 +491,6 @@ Zeerak Waseem:
 
 
 Zaid Alyafeai:
-  next   : yes
   home   : "/speakers/zaid-alyafeai"
   name   : "Zaid Alyafeai"
   avatar : "/assets/images/speakers/zaid.jpeg"
@@ -509,6 +508,7 @@ Zaid Alyafeai:
 
 
 Roma Patel:
+  next   : yes
   home   : "/speakers/roma-patel"
   name   : "Roma Patel"
   avatar : "/assets/images/speakers/roma.jpeg"
