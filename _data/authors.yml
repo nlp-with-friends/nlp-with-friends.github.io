@@ -508,7 +508,6 @@ Zaid Alyafeai:
 
 
 Roma Patel:
-  next   : yes
   home   : "/speakers/roma-patel"
   name   : "Roma Patel"
   avatar : "/assets/images/speakers/roma.jpeg"
@@ -525,21 +524,22 @@ Roma Patel:
       url: "http://cs.brown.edu/people/rpatel59/"
 
 
-Sarah Phillips:
+Sarah F. Phillips:
+  next   : yes
   home   : "/speakers/sarah-phillips"
-  name   : "Sarah Phillips"
-  avatar : "/assets/images/placeholders/placeholder2.png"
-  bio    : "Title TBD"
+  name   : "Sarah F. Phillips"
+  avatar : "/assets/images/speakers/sarah-f-phillips.jpg"
+  bio    : "Toward a linguistically inclusive model of language processing"
   links:
     - label: "Sept 08, 2021"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
-    - label: "Time TBD"
+    - label: "14:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: ""
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210908T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "http://www.sarahfphillips.com/"
 
 
 Saliha Muradoǧlu:
