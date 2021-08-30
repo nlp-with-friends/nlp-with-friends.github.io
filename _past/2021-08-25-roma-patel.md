@@ -17,4 +17,7 @@ Although language models have been shown to have a remarkable grasp of the struc
 
 <hr>
 
-Roma is a PhD student at Brown University advised by Ellie Pavlick.
+**Roma** is a PhD student at Brown University advised by Ellie Pavlick.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://youtu.be/fIflyRSqjVM){:target="_blank"}  

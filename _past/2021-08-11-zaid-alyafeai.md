@@ -19,3 +19,5 @@ Arabic is a challenging language with rich morphology. The complexity comes from
 
 **Zaid** is a third-year PhD student in KFUPM in Saudi Arabia. He works on Arabic NLP with a focus on how to teach language models to learn morphology effectively. 
 
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://youtu.be/-kPkBFlmACw){:target="_blank"}  
