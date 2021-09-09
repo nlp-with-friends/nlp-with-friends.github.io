@@ -525,7 +525,6 @@ Roma Patel:
 
 
 Sarah F. Phillips:
-  next   : yes
   home   : "/speakers/sarah-phillips"
   name   : "Sarah F. Phillips"
   avatar : "/assets/images/speakers/sarah-f-phillips.jpg"
@@ -543,20 +542,18 @@ Sarah F. Phillips:
 
 
 Saliha Muradoǧlu:
-  home   : "/speakers/saliha-muradoǧlu"
+  next   : yes
+  home   : "/speakers/saliha-muradoglu"
   name   : "Saliha Muradoǧlu"
-  avatar : "/assets/images/placeholders/placeholder3.png"
-  bio    : "Title TBA"
+  avatar : "/assets/images/speakers/smuradoglu_profile.jpg"
+  bio    : "Do transformer models do phonology like a linguist?"
   links:
     - label: "Sept 22, 2021"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
-    - label: "Time TBA"
+    - label: "0:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: ""
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20210922T000000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
 
 
 Gail Weiss:
