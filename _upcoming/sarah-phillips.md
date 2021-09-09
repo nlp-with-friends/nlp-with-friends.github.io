@@ -19,3 +19,6 @@ Several models of bilingual language processing include a mechanism that is resp
 
 **Sarah** is a Linguistics PhD student at New York University. Her research focuses on code-switching and how this phenomenon can answer bigger questions about how we acquire and process languages.
 
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=MCnsQmQOpi4&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}  
