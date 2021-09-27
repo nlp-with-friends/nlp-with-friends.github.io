@@ -542,7 +542,6 @@ Sarah F. Phillips:
 
 
 Saliha Muradoǧlu:
-  next   : yes
   home   : "/speakers/saliha-muradoglu"
   name   : "Saliha Muradoǧlu"
   avatar : "/assets/images/speakers/smuradoglu_profile.jpg"
@@ -557,6 +556,7 @@ Saliha Muradoǧlu:
 
 
 Gail Weiss:
+  next   : yes
   home   : "/speakers/gail-weiss"
   name   : "Gail Weiss"
   avatar : "/assets/images/speakers/gail.jpg"

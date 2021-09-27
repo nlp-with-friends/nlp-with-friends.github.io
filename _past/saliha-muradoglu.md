@@ -18,3 +18,6 @@ Neural sequence-to-sequence models have been very successful at tasks in phonolo
 <hr>
 
 **Saliha** is a Linguistics PhD student at the Australian National University. Her research focuses on using neural networks in aid of language documentation, with particular focus on low-resource settings.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=xcCSLy-wuO0&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}  
