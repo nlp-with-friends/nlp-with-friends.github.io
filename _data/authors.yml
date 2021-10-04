@@ -590,10 +590,10 @@ Eleftheria Briakou:
       url: ""
 
 
-Speaker TBA:
-  home   : "/speakers/speaker-tba"
-  name   : "Speaker TBA"
-  avatar : "/assets/images/placeholders/placeholder3.png"
+Maria Ryskina:
+  home   : "/speakers/maria-ryskina"
+  name   : "Maria Ryskina"
+  avatar : "/assets/images/placeholders/placeholder2.png"
   bio    : "Title TBA"
   links:
     - label: "Nov 03, 2021"
@@ -610,7 +610,7 @@ Speaker TBA:
 Alane Suhr:
   home   : "/speakers/alane-suhr"
   name   : "Alane Suhr"
-  avatar : "/assets/images/placeholders/placeholder2.png"
+  avatar : "/assets/images/placeholders/placeholder3.png"
   bio    : "Title TBA"
   links:
     - label: "Nov 17, 2021"
@@ -624,10 +624,10 @@ Alane Suhr:
       url: ""
 
 
-Speaker TBA:
-  home   : "/speakers/speaker-tba"
-  name   : "Speaker TBA"
-  avatar : "/assets/images/placeholders/placeholder3.png"
+Tuhin Chakrabarty:
+  home   : "/speakers/tuhin-chakrabarty"
+  name   : "Tuhin Chakrabarty"
+  avatar : "/assets/images/placeholders/placeholder4.png"
   bio    : "Title TBA"
   links:
     - label: "Dec 01, 2021"
@@ -641,10 +641,10 @@ Speaker TBA:
       url: ""
 
 
-Speaker TBA:
-  home   : "/speakers/speaker-tba"
-  name   : "Speaker TBA"
-  avatar : "/assets/images/placeholders/placeholder4.png"
+Boaz Schmueli:
+  home   : "/speakers/boaz-schmueli"
+  name   : "Boaz Schmueli"
+  avatar : "/assets/images/placeholders/placeholder1.png"
   bio    : "Title TBA"
   links:
     - label: "Dec 15, 2021"
