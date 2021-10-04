@@ -576,18 +576,18 @@ Gail Weiss:
 Eleftheria Briakou:
   home   : "/speakers/eleftheria-briakou"
   name   : "Eleftheria Briakou"
-  avatar : "/assets/images/placeholders/placeholder1.png"
-  bio    : "Title TBA"
+  avatar : "/assets/images/speakers/eleftheria_briakou.jpg"
+  bio    : "How do cross-lingual semantic divergences impact neural machine translation?"
   links:
     - label: "Oct 20, 2021"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
-    - label: "Time TBA"
+    - label: "14:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: ""
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20211020T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://elbria.github.io/"
 
 
 Maria Ryskina:
