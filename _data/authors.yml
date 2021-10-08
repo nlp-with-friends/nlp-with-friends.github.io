@@ -556,7 +556,6 @@ Saliha Muradoǧlu:
 
 
 Gail Weiss:
-  next   : yes
   home   : "/speakers/gail-weiss"
   name   : "Gail Weiss"
   avatar : "/assets/images/speakers/gail.jpg"
@@ -574,6 +573,7 @@ Gail Weiss:
 
 
 Eleftheria Briakou:
+  next   : yes
   home   : "/speakers/eleftheria-briakou"
   name   : "Eleftheria Briakou"
   avatar : "/assets/images/speakers/eleftheria_briakou.jpg"
