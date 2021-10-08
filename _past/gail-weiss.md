@@ -21,3 +21,6 @@ In this talk I will present a programming language, RASP (Restricted Access Sequ
 
 Gail Weiss is a PhD student at the Technion in Israel, working under the advice of professors Eran Yahav and Yoav Goldberg.
 Her research focuses on the application of formal language theory to deep learning techniques, particularly those used in NLP.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=ly8PXa0qhjQ){:target="_blank"}  
