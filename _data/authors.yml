@@ -644,17 +644,17 @@ Tuhin Chakrabarty:
 Boaz Schmueli:
   home   : "/speakers/boaz-schmueli"
   name   : "Boaz Schmueli"
-  avatar : "/assets/images/placeholders/placeholder1.png"
-  bio    : "Title TBA"
+  avatar : "/assets/images/speakers/boaz_shmueli.png"
+  bio    : "New methods for automated collection of sarcasm and affective data"
   links:
     - label: "Dec 15, 2021"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
-    - label: "Time TBA"
+    - label: "17:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: ""
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20211215T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "http://boaz.shmue.li/"
 
 
