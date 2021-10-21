@@ -17,4 +17,8 @@ While it has been shown that Neural Machine Translation (NMT) is highly sensitiv
 
 <hr>
 
-**Eleftheria Briakou** is a fourth-year Ph.D. student in the Department of Computer Science at the University of Maryland, College Park. Her work focuses on detecting differences in meaning across languages and explores how they question common assumptions related to using data when developing NLP technology. 
+**Eleftheria Briakou** is a fourth-year Ph.D. student in the Department of Computer Science at the University of Maryland, College Park. Her work focuses on detecting differences in meaning across languages and explores how they question common assumptions related to using data when developing NLP technology.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=RNCmuidht5Q&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C){:target="_blank"}  
+<i class="fas fa-fw fa-file-pdf"></i> [Talk Slides](https://elbria.github.io/files/nlp_with_friends_briakou.pdf){:target="_blank"}  
