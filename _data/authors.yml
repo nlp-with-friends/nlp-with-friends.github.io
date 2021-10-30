@@ -573,7 +573,6 @@ Gail Weiss:
 
 
 Eleftheria Briakou:
-  next   : yes
   home   : "/speakers/eleftheria-briakou"
   name   : "Eleftheria Briakou"
   avatar : "/assets/images/speakers/eleftheria_briakou.jpg"
@@ -591,6 +590,7 @@ Eleftheria Briakou:
 
 
 Maria Ryskina:
+  next   : yes
   home   : "/speakers/maria-ryskina"
   name   : "Maria Ryskina"
   avatar : "/assets/images/maria_ryskina.jpeg"
