@@ -593,18 +593,18 @@ Eleftheria Briakou:
 Maria Ryskina:
   home   : "/speakers/maria-ryskina"
   name   : "Maria Ryskina"
-  avatar : "/assets/images/placeholders/placeholder2.png"
-  bio    : "Title TBA"
+  avatar : "/assets/images/maria_ryskina.jpeg"
+  bio    : "Romanization with Friends: Deciphering Informally Romanized Text"
   links:
     - label: "Nov 03, 2021"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
-    - label: "Time TBA"
+    - label: "14:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: ""
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20211020T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://www.cs.cmu.edu/~mryskina/"
 
 
 Alane Suhr:
