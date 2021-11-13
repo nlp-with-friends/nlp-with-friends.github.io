@@ -590,7 +590,6 @@ Eleftheria Briakou:
 
 
 Maria Ryskina:
-  next   : yes
   home   : "/speakers/maria-ryskina"
   name   : "Maria Ryskina"
   avatar : "/assets/images/speakers/maria_ryskina.jpeg"
@@ -608,6 +607,7 @@ Maria Ryskina:
 
 
 Alane Suhr:
+  next   : yes
   home   : "/speakers/alane-suhr"
   name   : "Alane Suhr"
   avatar : "/assets/images/speakers/alane.png"
