@@ -627,18 +627,18 @@ Alane Suhr:
 Tuhin Chakrabarty:
   home   : "/speakers/tuhin-chakrabarty"
   name   : "Tuhin Chakrabarty"
-  avatar : "/assets/images/placeholders/placeholder4.png"
-  bio    : "Title TBA"
+  avatar : "/assets/images/placeholders/tuhin.png"
+  bio    : "The curious case of Figurative Language"
   links:
     - label: "Dec 01, 2021"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
-    - label: "Time TBA"
+    - label: "17:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: ""
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20211201T170000&p1=1440&p2=224&p3=179&p4=304&p5=195&p6=676&p7=176&p8=33&p9=248&p10=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://tuhinjubcse.github.io/"
 
 
 Boaz Schmueli:
