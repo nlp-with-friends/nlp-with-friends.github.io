@@ -1,11 +1,11 @@
 ---
 permalink: /speakers/tuhin-chakrabarty
-title: "Title TBD"
+title: "The curious case of Figurative Language"
 speaker: Tuhin Chakrabarty
 author: Tuhin Chakrabarty
 date: Dec 1, 2021
-time: Time TBA
-timeconverter: ""
+time: 17:00 UTC
+timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20211201T170000&p1=1440&p2=224&p3=179&p4=304&p5=195&p6=676&p7=176&p8=33&p9=248&p10=152"
 read_time: true
 layout: single
 author_profile: true
