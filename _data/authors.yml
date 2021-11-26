@@ -607,7 +607,6 @@ Maria Ryskina:
 
 
 Alane Suhr:
-  next   : yes
   home   : "/speakers/alane-suhr"
   name   : "Alane Suhr"
   avatar : "/assets/images/speakers/alane.png"
@@ -625,6 +624,7 @@ Alane Suhr:
 
 
 Tuhin Chakrabarty:
+  next   : yes
   home   : "/speakers/tuhin-chakrabarty"
   name   : "Tuhin Chakrabarty"
   avatar : "/assets/images/placeholders/tuhin.png"
