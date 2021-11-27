@@ -13,7 +13,7 @@ author_profile: true
 
 <a href="https://lolmythesis.com/" class="one-line">My model is sometimes more creative than I can be IRL</a>
 
-Despite the ubiquity of figurative language across various forms of speech and writing, the vast majority of NLP research focuses primarily on literal language. Figurative language is challenging because of its implicit nature. In this talk I will specifically focus on the following questions 1) Can Large Language Models understand/interpret them? 2) Can computers generate figurative language such as Sarcasm, Simile, Metaphor
+Despite the ubiquity of figurative language across various forms of speech and writing, the vast majority of NLP research focuses primarily on literal language. Figurative language is challenging because of its implicit nature. In this talk I will specifically focus on the following questions 1) Can Large Language Models understand/interpret them? 2) Can computers generate figurative language such as Sarcasm, Simile, Metaphor.
 
 <hr>
 
