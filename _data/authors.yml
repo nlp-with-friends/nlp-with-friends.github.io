@@ -640,10 +640,10 @@ Tuhin Chakrabarty:
       url: "https://tuhinjubcse.github.io/"
 
 
-Boaz Schmueli:
+Boaz Shmueli:
   next   : yes
-  home   : "/speakers/boaz-schmueli"
-  name   : "Boaz Schmueli"
+  home   : "/speakers/boaz-shmueli"
+  name   : "Boaz Shmueli"
   avatar : "/assets/images/speakers/boaz_shmueli.png"
   bio    : "New methods for automated collection of sarcasm and affective data"
   links:

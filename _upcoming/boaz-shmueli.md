@@ -1,8 +1,8 @@
 ---
-permalink: /speakers/boaz-schmueli
+permalink: /speakers/boaz-shmueli
 title: "New methods for automated collection of sarcasm and affective data"
-speaker: Boaz Schmueli
-author: Boaz Schmueli
+speaker: Boaz Shmueli
+author: Boaz Shmueli
 date: Dec 15, 2021
 time: 17:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20211215T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
