@@ -19,7 +19,7 @@ Collecting datasets for figurative speech and affective computing is an importan
 
 <hr>
 
-Boaz Shmueli is a PhD Student in Academia Sinica in Taipei, interested in language resources for affective computing. 
+**Boaz Shmueli** is a PhD Student in Academia Sinica in Taipei, interested in language resources for affective computing. 
 Before that he was co-director of the Rigsum Research Lab in Thimphu, Bhutan and a software engineer at the IBM labs in Pittsburgh and Haifa
 
 #### Presentation Materials

@@ -624,7 +624,6 @@ Alane Suhr:
 
 
 Tuhin Chakrabarty:
-  next   : yes
   home   : "/speakers/tuhin-chakrabarty"
   name   : "Tuhin Chakrabarty"
   avatar : "/assets/images/speakers/tuhin.png"
@@ -642,6 +641,7 @@ Tuhin Chakrabarty:
 
 
 Boaz Schmueli:
+  next   : yes
   home   : "/speakers/boaz-schmueli"
   name   : "Boaz Schmueli"
   avatar : "/assets/images/speakers/boaz_shmueli.png"
