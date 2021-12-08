@@ -18,3 +18,6 @@ Despite the ubiquity of figurative language across various forms of speech and w
 <hr>
 
 **Tuhin** is a Ph.D. student at Columbia University (based in NYC) advised by Smaranda Muresan. Tuhin's interests are language understanding and generation especially non-literal language which requires world knowledge or commonsense reasoning
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=6584JiBX_Z8&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=34){:target="_blank"}  

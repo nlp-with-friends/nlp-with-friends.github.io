@@ -18,3 +18,6 @@ Informal romanization is an idiosyncratic way of typing non-Latin-script languag
 <hr>
 
 **Maria Ryskina** is a PhD student at the Language Technologies Institute at Carnegie Mellon University. Her research focuses on non-standard language such as novel words and non-standard spellings and how such innovation on an individual level drives larger-scale language change.
+
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=fSEyOeTpv5c&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=31){:target="_blank"}  

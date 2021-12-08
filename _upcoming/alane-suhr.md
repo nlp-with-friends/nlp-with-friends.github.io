@@ -19,3 +19,5 @@ I will discuss grounded natural language instruction-following in collaborative 
 
 **Alane** is a final-year PhD student at Cornell University (based in NYC at Cornell Tech) advised by Yoav Artzi. Alane's interests are language grounding, including language in interactions, semantic parsing, and visual reasoning. 
 
+#### Presentation Materials
+<i class="fas fa-fw fa-video"></i> [Talk Video](https://www.youtube.com/watch?v=1_h-pmq6298&list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C&index=33){:target="_blank"}  
