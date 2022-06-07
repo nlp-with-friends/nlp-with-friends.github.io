@@ -48,7 +48,7 @@ We are committed to diversity of topics and presenters; we hope to connect stude
     <img src="/assets/images/organizers/liz.jpg" alt="Liz Salesky">
   </div>
   <div class="organizer-bio">
-    <a href="http://esalesky.github.io/" target="_blank">Liz Salesky</a> is a PhD student at Johns Hopkins University, where she works on machine translation and computational linguistics. In her spare time she can be found biking to ice cream and bingeing Duolingo.
+    <a href="http://esalesky.github.io/" target="_blank">Liz Salesky</a> is a PhD candidate at Johns Hopkins University, where she works on machine translation and computational linguistics. In her spare time she can be found biking to ice cream and bingeing Duolingo.
   </div>
 </div>
 
