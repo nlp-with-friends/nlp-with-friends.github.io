@@ -12,8 +12,8 @@ We use a [mailing list](/faq/#how-do-i-join-the-mailing-list) to announce all ev
 To ensure Zoom capacity does not preclude anyone from participating (nor a late decision to join), we also live-stream talks on Youtube. 
 
 ## How do I join the mailing list? 
-[Register here](https://lists.nlpwithfriends.com/mailman/listinfo/friends){:target="_blank"} or [send an email to subscribe](mailto:friends-join@lists.nlpwithfriends.com){:target="_blank"} (subject and body are discarded, all that matters is the mail-to email). 
-You should receive a confirmation email: simply click the link to confirm to be added!
+[Register here](https://groups.google.com/g/nlp-with-friends/){:target="_blank"} or [send an email to subscribe](mailto:nlp-with-friends+subscribe@googlegroups.com){:target="_blank"} (subject and body are discarded, all that matters is the mail-to email). 
+If you subscribe by email, you will then receive a confirmation email with a link to click to finish the process!
 
 ## What does a talk look like? 
 Every talk will take place over one hour, though each speaker will decide how to balance talk and discussion during this time. 
