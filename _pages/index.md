@@ -62,7 +62,7 @@ We are committed to diversity of topics and presenters; we hope to connect stude
 </div>
 
 
-### <i class="fas fa-user-friends"></i>&nbsp; Past Organizers
+### <i class="fas fa-user-friends"></i>&nbsp; Organizers of the Past<sup>[1](#footnote1)</sup>
 <hr>
 
 <div class="organizer-wrapper organizer-left">
@@ -101,6 +101,7 @@ We are committed to diversity of topics and presenters; we hope to connect stude
   </div>
 </div>
 
+<a name="footnote1"><sup>1</sup></a> We use the past tense to mark that the organizers have graduated, rather than passed on.
 
 
 <meta name="twitter:card" content="summary_large_image" />
