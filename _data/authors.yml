@@ -6,6 +6,16 @@ Nominations:
   form   : "https://forms.office.com/r/FWJGvnK6aZ"
 
 
+Coming Soon:
+  name   : "Coming soon!"
+  avatar : "/assets/images/placeholders/placeholder1.png"
+  bio    : "Next speaker"
+  links:
+    - label: "Spring 2023"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+
+
 J.R.R. Tolkien:
   name   : "J.R.R. Tolkien"
   avatar : "https://i.pinimg.com/564x/85/00/cd/8500cd0938a00f2183996cdc9ce1134e.jpg"

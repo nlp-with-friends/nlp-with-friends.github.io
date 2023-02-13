@@ -76,8 +76,8 @@ analytics:
     tracking_id          : "UA-172489678-1" 
     anonymize_ip         : true
 
-# Default Site 'Author' (next speaker)
-author: Boaz Shmueli
+# Left sidebar 'Author' (next speaker: _data/authors.yml)
+author: Coming Soon
 
 footer:
   links:
