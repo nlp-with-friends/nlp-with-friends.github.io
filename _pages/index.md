@@ -27,10 +27,50 @@ We are committed to diversity of topics and presenters; we hope to connect stude
 
 <div class="organizer-wrapper organizer-left">
   <div class="organizer-img">
+    <img src="/assets/images/placeholders/placeholder1.png" alt="First Last">
+  </div>
+  <div class="organizer-bio">
+    <a href="website_url" target="_blank"></a>Coming soon!
+  </div>
+</div>
+
+<div class="organizer-wrapper organizer-right">
+  <div class="organizer-img">
+    <img src="/assets/images/placeholders/placeholder2.png" alt="First Last">
+  </div>
+  <div class="organizer-bio">
+    <a href="website_url" target="_blank"></a>Coming soon!
+  </div>
+</div>
+
+<div class="organizer-wrapper organizer-left">
+  <div class="organizer-img">
+    <img src="/assets/images/placeholders/placeholder3.png" alt="First Last">
+  </div>
+  <div class="organizer-bio">
+    <a href="website_url" target="_blank"></a>Coming soon!
+  </div>
+</div>
+
+<div class="organizer-wrapper organizer-right">
+  <div class="organizer-img">
+    <img src="/assets/images/placeholders/placeholder4.png" alt="First Last">
+  </div>
+  <div class="organizer-bio">
+    <a href="website_url" target="_blank"></a>Coming soon!
+  </div>
+</div>
+
+
+### <i class="fas fa-user-friends"></i>&nbsp; Past Organizers
+<hr>
+
+<div class="organizer-wrapper organizer-left">
+  <div class="organizer-img">
     <img src="/assets/images/organizers/yanai.jpg" alt="Yanai Elazar">
   </div>
   <div class="organizer-bio">
-    <a href="https://yanaiela.github.io/" target="_blank">Yanai Elazar</a> is a PhD candidate at Bar-Ilan University, where he works on neural representations, model analysis and missing elements. In his spare time he can be found nourishing flour-based organisms and converting them into bread.
+    <a href="https://yanaiela.github.io/" target="_blank">Yanai Elazar</a> was a PhD candidate at Bar-Ilan University, where he worked on neural representations, model analysis and missing elements. In his spare time he could be found nourishing flour-based organisms and converting them into bread.
   </div>
 </div>
 
@@ -39,7 +79,7 @@ We are committed to diversity of topics and presenters; we hope to connect stude
     <img src="/assets/images/organizers/lasha.jpg" alt="Abhilasha Ravichander">
   </div>
   <div class="organizer-bio">
-    <a href="https://www.cs.cmu.edu/~aravicha/" target="_blank">Abhilasha Ravichander</a> is a PhD candidate at Carnegie Mellon University, where she works on robust language understanding, including problems in interpretability, evaluation and computational reasoning. In her spare time she talks her plants into staying alive.
+    <a href="https://www.cs.cmu.edu/~aravicha/" target="_blank">Abhilasha Ravichander</a> was a PhD candidate at Carnegie Mellon University, where she worked on robust language understanding, including problems in interpretability, evaluation and computational reasoning. In her spare time she talked her plants into staying alive.
   </div>
 </div>
 
@@ -48,7 +88,7 @@ We are committed to diversity of topics and presenters; we hope to connect stude
     <img src="/assets/images/organizers/liz.jpg" alt="Liz Salesky">
   </div>
   <div class="organizer-bio">
-    <a href="http://esalesky.github.io/" target="_blank">Liz Salesky</a> is a PhD candidate at Johns Hopkins University, where she works on machine translation and computational linguistics. In her spare time she can be found biking to ice cream and bingeing Duolingo.
+    <a href="http://esalesky.github.io/" target="_blank">Liz Salesky</a> was a PhD candidate at Johns Hopkins University, where she worked on machine translation and computational linguistics. In her spare time she could be found biking to ice cream and bingeing Duolingo.
   </div>
 </div>
 
@@ -57,7 +97,7 @@ We are committed to diversity of topics and presenters; we hope to connect stude
     <img src="/assets/images/organizers/zee.jpg" alt="Zeerak Waseem">
   </div>
   <div class="organizer-bio">
-    <a href="https://twitter.com/ZeerakW" target="_blank">Zeerak Waseem</a> is a PhD candidate at the University of Sheffield, where he works on abusive language detection and fairness in machine learning, and in his spare time he can be found napping.
+    <a href="https://twitter.com/ZeerakW" target="_blank">Zeerak Waseem</a> was a PhD candidate at the University of Sheffield, where he worked on abusive language detection and fairness in machine learning, and in his spare time he could be found napping.
   </div>
 </div>
 
