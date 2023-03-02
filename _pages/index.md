@@ -34,12 +34,12 @@ We are committed to diversity of topics and presenters; we hope to connect stude
   </div>
 </div>
 
-<div class="organizer-wrapper organizer-right">
+<div class="organizer-wrapper organizer-left">
   <div class="organizer-img">
-    <img src="/assets/images/placeholders/placeholder2.png" alt="First Last">
+    <img src="/assets/images/organizers/sumanth.jpg" alt="Sumanth Doddapaneni">
   </div>
   <div class="organizer-bio">
-    <a href="website_url" target="_blank"></a>Coming soon!
+    <a href="https://sumanthd17.github.io" target="_blank">Sumanth Doddapaneni</a> is a PhD candidate at Indian Institute of Technology Madras, where he works on multilingual natural language processing and a tad bit of speech technology. In his spare time he could be found cooking, baking and resisting the urge to grab an ice cream.
   </div>
 </div>
 
