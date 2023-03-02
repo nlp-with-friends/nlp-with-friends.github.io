@@ -27,10 +27,10 @@ We are committed to diversity of topics and presenters; we hope to connect stude
 
 <div class="organizer-wrapper organizer-left">
   <div class="organizer-img">
-    <img src="/assets/images/placeholders/placeholder1.png" alt="First Last">
+    <img src="/assets/images/organizers/zhaofeng.jpg" alt="Zhaofeng Wu">
   </div>
   <div class="organizer-bio">
-    <a href="website_url" target="_blank"></a>Coming soon!
+    <a href="https://zhaofengwu.github.io/" target="_blank">Zhaofeng Wu</a> is a PhD student at MIT, where he is working on model analysis and on figuring out what he is going to work on next. In his spare time he can be found chasing after a soccer ball with twenty-one other people, though in cruel Boston winters this number drastically decreases.
   </div>
 </div>
 
