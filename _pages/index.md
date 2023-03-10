@@ -45,10 +45,10 @@ We are committed to diversity of topics and presenters; we hope to connect stude
 
 <div class="organizer-wrapper organizer-left">
   <div class="organizer-img">
-    <img src="/assets/images/placeholders/placeholder3.png" alt="First Last">
+    <img src="/assets/images/organizers/brihi.jpg" alt="Brihi Joshi">
   </div>
   <div class="organizer-bio">
-    <a href="website_url" target="_blank"></a>Coming soon!
+    <a href="https://brihijoshi.github.io" target="_blank">Brihi Joshi</a> is a PhD student at the University of Southern California, where she dabbles with explainable and label-efficient NLP methods. In her spare time, she is seen contemplating an alternate career in music or scrolling cat memes. 
   </div>
 </div>
 
