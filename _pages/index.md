@@ -54,7 +54,7 @@ We are committed to diversity of topics and presenters; we hope to connect stude
 
 <div class="organizer-wrapper organizer-right">
   <div class="organizer-img">
-    <img src="/assets/images/placeholders/kayo.jpg" alt="Kayo Yin">
+    <img src="/assets/images/organizers/kayo.jpg" alt="Kayo Yin">
   </div>
   <div class="organizer-bio">
     <a href="https://kayoyin.github.io" target="_blank">Kayo Yin</a> is a PhD student at UC Berkeley, where she works on an ecletic mix of NLP/ML research. In her spare time she can be found playing music by dead composers and triggering mini avalanches while backcountry snowboarding.
