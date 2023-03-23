@@ -7,6 +7,10 @@ title: "Welcome!"
 This is the home of **NLP with Friends**, 
 an **online seminar series** made by students, for students, where everyone is invited!
 
+## 📢 **Call for Speakers!**
+We're looking for speakers to share their knowledge at our upcoming event. Nominate a colleague or apply to speak yourself - let's talk all things NLP and learn together! 
+> [**Apply here!!**](https://t.co/cjgsZ7sleA)
+
 
 ## <i class="fas fa-fw fa-chalkboard-teacher"></i>&nbsp; About the Seminar
 
