@@ -6,14 +6,29 @@ Nominations:
   form   : "https://forms.office.com/r/FWJGvnK6aZ"
 
 
+# Coming Soon:
+#   name   : "Coming soon!"
+#   avatar : "/assets/images/placeholders/placeholder1.png"
+#   bio    : "Next speaker"
+#   links:
+#     - label: "Spring 2023"
+#       icon: "far fa-fw fa-calendar-alt"
+#       url: "/calendar"
+
 Coming Soon:
-  name   : "Coming soon!"
-  avatar : "/assets/images/placeholders/placeholder1.png"
+  name   : "Nikita Moghe"
+  avatar : "/assets/images/speakers/nikita_moghe.jpeg"
   bio    : "Next speaker"
   links:
-    - label: "Spring 2023"
+    - label: "Apr 19, 2023"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
+    - label: "12:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20211215T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nikitamoghe.github.io/"
 
 
 J.R.R. Tolkien:
@@ -667,4 +682,17 @@ Boaz Shmueli:
       icon: "fas fa-fw fa-link"
       url: "http://boaz.shmue.li/"
 
-
+Nikita Moghe:
+  name   : "Nikita Moghe"
+  avatar : "/assets/images/speakers/nikita_moghe.jpeg"
+  bio    : "Next speaker"
+  links:
+    - label: "Apr 19, 2023"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "12:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20211215T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nikitamoghe.github.io/"
