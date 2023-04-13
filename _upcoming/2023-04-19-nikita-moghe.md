@@ -4,7 +4,7 @@ title: "New methods for automated collection of sarcasm and affective data"
 speaker: Nikita Moghe
 author: Nikita Moghe
 date: Apr 19, 2023
-time: 12:00 UTC
+time: 14:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20211215T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
 read_time: true
 layout: single
