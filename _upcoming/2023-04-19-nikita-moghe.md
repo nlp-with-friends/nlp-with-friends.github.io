@@ -1,6 +1,6 @@
 ---
 permalink: /speakers/nikita-moghe
-title: "New methods for automated collection of sarcasm and affective data"
+title: "Taking Stock of Segment Level Evaluation in Machine Translation"
 speaker: Nikita Moghe
 author: Nikita Moghe
 date: Apr 19, 2023
