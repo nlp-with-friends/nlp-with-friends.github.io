@@ -16,19 +16,19 @@ Nominations:
 #       url: "/calendar"
 
 Coming Soon:
-  name   : "Nikita Moghe"
-  avatar : "/assets/images/speakers/nikita_moghe.jpeg"
+  name   : "Prince Osei Aboagye"
+  avatar : "/assets/images/speakers/prince-aboagye.jpg"
   bio    : "Next speaker"
   links:
-    - label: "Apr 19, 2023"
+    - label: "Aug 9, 2023"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
-    - label: "14:00 UTC"
+    - label: "17:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20211215T140000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20230809T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://nikitamoghe.github.io/"
+      url: "https://poaboagye.github.io/"
 
 
 J.R.R. Tolkien:
@@ -696,3 +696,18 @@ Nikita Moghe:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://nikitamoghe.github.io/"
+
+Prince Osei Aboagye:
+  name   : "Prince Osei Aboagye"
+  avatar : "/assets/images/speakers/prince-aboagye.jpg"
+  bio    : "Next speaker"
+  links:
+    - label: "Aug 9, 2023"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "17:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20230809T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://poaboagye.github.io/"
