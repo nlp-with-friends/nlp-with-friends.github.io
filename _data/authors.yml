@@ -717,7 +717,7 @@ Kalpesh Krishna:
   avatar : "/assets/images/speakers/kalpesh-krishna.jpeg"
   bio    : "Next speaker"
   links:
-    - label: "Sep 9, 2023"
+    - label: "Sep 8, 2023"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
     - label: "17:00 UTC"
