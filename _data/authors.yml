@@ -16,19 +16,19 @@ Nominations:
 #       url: "/calendar"
 
 Coming Soon:
-  name   : "Prince Osei Aboagye"
-  avatar : "/assets/images/speakers/prince-aboagye.jpg"
+  name   : "Kalpesh Krishna"
+  avatar : "/assets/images/speakers/kalpesh-krishna.jpeg"
   bio    : "Next speaker"
   links:
-    - label: "Aug 9, 2023"
+    - label: "Sep 9, 2023"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
     - label: "17:00 UTC"
       icon: "far fa-fw fa-clock"
-      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20230809T170000&p1=1440&p2=224&p3=179&p4=136&p5=676&p6=33&p7=152"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20230909T170000&p1=553&p2=224&p3=538&p4=1440"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://poaboagye.github.io/"
+      url: "https://martiansideofthemoon.github.io/"
 
 
 J.R.R. Tolkien:
@@ -711,3 +711,18 @@ Prince Osei Aboagye:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://poaboagye.github.io/"
+
+Kalpesh Krishna:
+  name   : "Kalpesh Krishna"
+  avatar : "/assets/images/speakers/kalpesh-krishna.jpeg"
+  bio    : "Next speaker"
+  links:
+    - label: "Sep 9, 2023"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "17:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20230909T170000&p1=553&p2=224&p3=538&p4=1440"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://martiansideofthemoon.github.io/"
