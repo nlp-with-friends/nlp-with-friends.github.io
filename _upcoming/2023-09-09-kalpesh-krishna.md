@@ -3,9 +3,9 @@ permalink: /speakers/kalpesh-krishna
 title: "Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense"
 speaker: Kalpesh Krishna
 author: Kalpesh Krishna
-date: Sep 9, 2023
+date: Sep 8, 2023
 time: 17:00 UTC
-timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20230909T170000&p1=553&p2=224&p3=538&p4=1440"
+timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20230908T170000&p1=553&p2=224&p3=538&p4=1440"
 read_time: true
 layout: single
 author_profile: true
