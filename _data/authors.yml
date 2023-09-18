@@ -729,7 +729,7 @@ Kalpesh Krishna:
 
 Sarah Masud:
   name   : "Sarah Masud"
-  avatar : "/assets/images/speakers/sarah_masud.jpeg"
+  avatar : "/assets/images/speakers/sarah-masud.jpeg"
   bio    : "Next speaker"
   links:
     - label: "Sep 20, 2023"
