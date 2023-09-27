@@ -1,5 +1,5 @@
 ---
-permalink: /speakers/sarah-masud
+permalink: /speakers/mukund-srinath
 title: "Analysis and Simplification of Privacy Policies at Scale"
 speaker: Mukund Srinath
 author: Mukund Srinath
