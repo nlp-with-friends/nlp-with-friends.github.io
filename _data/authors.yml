@@ -15,10 +15,10 @@ Nominations:
 #       icon: "far fa-fw fa-calendar-alt"
 #       url: "/calendar"
 
-Coming Soon:
-  name   : "Sarah Masud"
-  avatar : "/assets/images/speakers/sarah-masud.jpeg"
-  bio    : "Next speaker"
+Mukund Srinath:
+  name   : "Mukund Srinath"
+  avatar : "/assets/images/speakers/mukund-srinath.jpeg"
+  bio    : "Analysis and Simplification of Privacy Policies at Scale"
   links:
     - label: "Sep 20, 2023"
       icon: "far fa-fw fa-calendar-alt"
@@ -28,7 +28,7 @@ Coming Soon:
       url: "https://www.timeanddate.com/worldclock/converter.html?iso=20230909T170000&p1=553&p2=224&p3=538&p4=1440"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sara-02.github.io/"
+      url: "https://mukundsrinath.github.io/"
 
 
 J.R.R. Tolkien:
@@ -741,3 +741,18 @@ Sarah Masud:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sara-02.github.io/"
+
+Mukund Srinath:
+  name   : "Mukund Srinath"
+  avatar : "/assets/images/speakers/mukund-srinath.jpeg"
+  bio    : "Analysis and Simplification of Privacy Policies at Scale"
+  links:
+    - label: "Sep 20, 2023"
+      icon: "far fa-fw fa-calendar-alt"
+      url: "/calendar"
+    - label: "17:00 UTC"
+      icon: "far fa-fw fa-clock"
+      url: "https://www.timeanddate.com/worldclock/converter.html?iso=20230909T170000&p1=553&p2=224&p3=538&p4=1440"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://mukundsrinath.github.io/"
