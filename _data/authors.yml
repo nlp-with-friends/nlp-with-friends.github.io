@@ -745,9 +745,9 @@ Sarah Masud:
 Mukund Srinath:
   name   : "Mukund Srinath"
   avatar : "/assets/images/speakers/mukund-srinath.jpeg"
-  bio    : "Analysis and Simplification of Privacy Policies at Scale"
+  bio    : "Next speaker"
   links:
-    - label: "Sep 20, 2023"
+    - label: "Sep 27, 2023"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
     - label: "17:00 UTC"
