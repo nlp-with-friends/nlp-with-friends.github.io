@@ -20,7 +20,7 @@ Coming Soon:
   avatar : "/assets/images/speakers/vivek-gupta.jpeg"
   bio    : "Next speaker"
   links:
-    - label: "Oct 02, 2023"
+    - label: "Oct 04, 2023"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
     - label: "17:00 UTC"
@@ -762,7 +762,7 @@ Vivek Gupta:
   avatar : "/assets/images/speakers/vivek-gupta.jpeg"
   bio    : "Next speaker"
   links:
-    - label: "Oct 02, 2023"
+    - label: "Oct 04, 2023"
       icon: "far fa-fw fa-calendar-alt"
       url: "/calendar"
     - label: "17:00 UTC"

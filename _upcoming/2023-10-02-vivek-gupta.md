@@ -3,7 +3,7 @@ permalink: /speakers/vivek-gupta
 title: "Inference and Reasoning for Semi-structured Tables"
 speaker: Vivek Gupta
 author: Vivek Gupta
-date: Oct 02, 2023
+date: Oct 04, 2023
 time: 17:00 UTC
 timeconverter: "https://www.timeanddate.com/worldclock/converter.html?iso=20230908T170000&p1=553&p2=224&p3=538&p4=1440"
 read_time: true
