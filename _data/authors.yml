@@ -17,7 +17,7 @@ Nominations:
 
 Coming Soon:
   name   : "Wenting Zhao"
-  avatar : "/assets/images/speakers/wenting-zhao.jpeg"
+  avatar : "/assets/images/speakers/wenting-zhao.png"
   bio    : "Next speaker"
   links:
     - label: "Nov 01, 2023"
@@ -774,7 +774,7 @@ Vivek Gupta:
 
 Wenting Zhao:
   name   : "Wenting Zhao"
-  avatar : "/assets/images/speakers/wenting-zhao.jpeg"
+  avatar : "/assets/images/speakers/wenting-zhao.png"
   bio    : "Next speaker"
   links:
     - label: "Nov 01, 2023"
